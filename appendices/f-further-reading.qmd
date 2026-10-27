@@ -1,0 +1,39 @@
+<!-- Seed appendix: from site/resources.md read-next picks plus chapter
+     sources, October 2026. Check links at each reprint. -->
+
+# Further reading {#sec-further-reading}
+
+Three picks first, one per angle. All free. Then the sources behind specific chapters, so you can check this book the way Chapter 7 taught you to check anything else.
+
+## Read next
+
+**Practice.** *Conversation, Not Delegation*, the companion book this course draws on. Start with the VET and conversation loop chapters: [michael-borck.github.io/conversation-not-delegation](https://michael-borck.github.io/conversation-not-delegation/).
+
+**Safety.** The *International AI Safety Report 2026*, led by Yoshua Bengio. The three-page executive summary is enough to start: [internationalaisafetyreport.org](https://internationalaisafetyreport.org).
+
+**The sceptical view.** Arvind Narayanan and Sayash Kapoor, "AI as Normal Technology" (2025), on why change may arrive over decades rather than years: [knightcolumbia.org](https://knightcolumbia.org/content/ai-as-normal-technology).
+
+## Australian guidance and law
+
+- Australian Government, *Guidance for AI Adoption* (October 2025). The six essential practices in Appendix D, with an AI policy template: [ai.gov.au](https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices).
+- Office of the Australian Information Commissioner, guidance and flowchart on transparency for AI and automated decision-making, covering the Privacy Act APP 1.7 to 1.9 obligations from 10 December 2026: [oaic.gov.au](https://www.oaic.gov.au/news/media-centre/new-resources-on-transparency-for-use-of-ai-and-automated-decision-making).
+- Curtin Executive Education, *Ethics of Artificial Intelligence* masterclass, for governance, risk, and regulation in depth: [curtin.edu.au](https://www.curtin.edu.au/study/prof-development/ethics-of-artificial-intelligence/).
+
+## Sources behind the chapters
+
+- **Chapter 5.** Abrami, P. C. et al. (2015). "Strategies for Teaching Students to Think Critically." *Review of Educational Research*. Dialogue as a lever for critical thinking: [doi.org/10.3102/0034654314551063](https://doi.org/10.3102/0034654314551063).
+- **Chapter 8.** Dylan Davis, the Decide Like Me method. The course adopts the elicitation and blind-testing core and stops short of autonomous decisions, as the chapter explains.
+- **Chapter 11.** Department of Employment and Workplace Relations (2026), *AI and Employment in Australia*. Jobs and Skills Australia (2025), *Generative AI Capacity Study*. Brynjolfsson, E., Chandar, B., and Chen, R. (revised 2026), "Canaries in the Coal Mine?" on early-career employment in AI-exposed US jobs.
+- **Chapter 1.** Michael Crichton (2002), speech coining "Gell-Mann amnesia", named for Murray Gell-Mann.
+
+## Free tools from the course
+
+- **Trust Tool game.** Ten placement scenarios with explanations: [trusttool.borck.education](https://trusttool.borck.education/).
+- **Course companion site.** Workbook, prompt builder, slides, downloads, and the Northbridge prompt-injection document from Appendix E: [michael-borck.github.io/the-human-edge](https://michael-borck.github.io/the-human-edge/).
+- **CiteSight.** Checks whether references exist, for the Verify step in Chapter 7: [citesight.eduserver.au](https://citesight.eduserver.au).
+- **Style Mirror.** Drafts a voice brief from writing samples, for Chapter 5: [stylemirror.eduserver.au](https://stylemirror.eduserver.au).
+
+## The Human Edge series
+
+- **This book.** *The Human Edge: Using AI with Judgement*. Personal judgement at your desk and in the work you deliver. Curtin Executive Education masterclass of the same name.
+- **In development.** *The Human Edge: Leading AI with Judgement*. Choosing which AI projects to back, and making sure they deliver. The companion masterclass replaces *AI in Strategy* and is being redesigned before the book is written, so the book can be tested in the room first. That order is deliberate, and Chapter 10 explains why.

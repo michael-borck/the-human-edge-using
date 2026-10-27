@@ -1,0 +1,90 @@
+<!-- Seed chapter: seeded from site/tools.md (Tool 2), site/prompts.md,
+     and the field guide, October 2026. Editorial pass pending.
+     Full RTCF treatment: Conversation, Not Delegation. -->
+
+# Brief Like a Colleague {#sec-rtcf}
+
+> *Prompting is briefing, not spell-casting.*
+
+## The disappointing first output
+
+Most professional frustration with AI has the same shape. You type a short request, the way you would type a search query. Back comes something generic: correct in outline, useless in detail, written for nobody in particular. You conclude the tool is overrated, or you spend ten turns nudging it toward what you needed.
+
+The tool was not the main problem. The brief was. A language model fills gaps with the average. Every detail you leave out (the audience, the history, the constraint, what good looks like) comes back as a guess, and the guesses are what make output feel generic.
+
+Write the prompt the way you would brief a smart, fast colleague who is new to your job. That sentence contains nearly everything this chapter teaches. RTCF is the checklist that makes it repeatable.
+
+## RTCF: Role, Task, Context, Format
+
+| Part | Ask yourself | Example |
+|---|---|---|
+| **Role** | Who should it write as? | A senior HR adviser in a mid-sized Australian firm |
+| **Task** | What exactly, and how much? | Draft a reply to the client. Under 200 words. |
+| **Context** | What does it need to know? | 18-month client. Their board shifted priorities. I want a meeting, not a rewrite. |
+| **Format** | What should it look like? | Email. Acknowledge, explain, propose, close. |
+
+A good brief for real work runs four to eight sentences. That feels long the first time. It is still faster than three rounds of correction.
+
+**Context does most of the work**, because it is the only part the tool cannot guess. Audience, situation, stakes, constraints, and the material itself all live in Context. When a second attempt barely improves on the first, the missing ingredient is almost never a cleverer Role. It is the thing you would have told a new hire in the first two minutes.
+
+**Role does the least.** On current models, "you are an expert" adds tone more than capability. Use Role to set voice and level, then spend your effort on Context and Format. Be honest with yourself about this if you learned prompting from tip lists. The lists were written for weaker models.
+
+## A before and after
+
+Before, the way most people write it:
+
+```text
+Write an update on the project for the steering committee.
+```
+
+After, with RTCF:
+
+```text
+ROLE: You are an experienced project manager who writes plainly.
+TASK: Turn my notes into a weekly status update for the steering committee.
+CONTEXT: The audience is time-poor and allergic to surprises. We are two
+weeks behind on data migration, on budget otherwise, and the delay does
+not move the launch date because testing can overlap. Good looks like:
+the delay stated in the first two lines, with the recovery plan attached.
+[Paste your notes here.]
+FORMAT: RAG status line, three bullets on progress, a small risks table,
+next steps with owners. Under 300 words.
+```
+
+Run both in fresh chats and compare. The second output is not better because the prompt is longer. It is better because the decisions a colleague would have asked about are already in it.
+
+## Five common mistakes
+
+1. **The search-query prompt.** Three words, no audience, no purpose. Average in, average out.
+2. **Role and nothing else.** "You are a world-class strategist" followed by no context. The tool performs confidence it has not earned.
+3. **Asking for everything at once.** A report, an analysis, and a slide outline in one request, all of it shallow. Split the job (Chapter 4).
+4. **No definition of done.** No length, no structure, no standard. The tool cannot hit a target you have not named.
+5. **Pasting without classifying.** Real client material into an unapproved tool, because the brief needed context. Context can almost always be described without identifiers. Chapter 2 and Appendix D cover the rules.
+
+## One task, or every task
+
+RTCF shapes the prompt you type for one job. It also shapes the standing brief you save once and reuse: custom instructions in ChatGPT or Copilot, instructions and Projects in Claude, Gems in Gemini. The generic name is a **system prompt**.
+
+The standing brief holds what is true every time: who it writes as, the context that does not change, your usual format, and your definition of done. The Task stays in each chat. Chapter 5 builds that brief, and Appendix E shows where each product keeps it.
+
+When a vendor demo claims the AI "understands you", look for this setting. It is a text box. By the end of Part 2, you will have written a better one.
+
+## Practice: brief it, score it
+
+::: {.callout-tip title="Try this: two rounds (25 minutes)"}
+1. Pick a real task from your week. Confidential? Use a scenario card from Appendix C.
+2. **Round 1:** write the prompt the way you normally would. Run it. Score the output from 1 (unusable) to 5 (ready to use).
+3. **Round 2:** rewrite it with RTCF and run it in a fresh chat. Score it again.
+4. Note which part moved the score most. In the masterclass, it is Context, by a wide margin.
+
+Coaching notes from the room. If Round 2 barely moved, ask: what would I tell a new hire? If you added a Role and nothing else, add Context and Format and run it again. If your Round 2 prompt is under three sentences for a task that matters, it is probably still a search query wearing a suit.
+:::
+
+## What to carry forward
+
+- Brief a colleague, not a search engine. Four to eight sentences for work that matters.
+- Context does the work. Role sets the voice.
+- Name what done means, or accept the average.
+- Every gap you leave comes back as a guess. Guesses are what generic output is made of.
+
+A good brief gets you close. The next chapter is for the common case where close is not enough: weak output from a smaller, older, or free-tier model, and output that agrees with you too easily.

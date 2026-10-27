@@ -1,0 +1,98 @@
+<!-- Seed chapter: seeded from site/before.md ("AI in ten minutes") and the
+     masterclass opening slides, October 2026. Editorial pass pending.
+     Source archive: notes/source-site/. See CHAPTER_OUTLINE.md. -->
+
+# The Convincing Average {#sec-convincing-average}
+
+> *Fluent is not the same as correct.*
+
+## Vibe professionalism
+
+There is a new way to look competent at work, and it requires almost no competence at all.
+
+Ask an AI tool for a plan, a brief, or an analysis. Forward what comes back. The document will be fluent. It will be structured. It will usually be about right. Nobody can tell from the document whether you briefed it well, checked what it rests on, or understood a word of it.
+
+Programmers have a name for the coding version of this. Vibe coding means describing software, accepting what the tool produces, and not reading the code. The professional version deserves the same name: **vibe professionalism**. It is reports, analyses, and proposals produced on vibes, polished output with no judgement behind it.
+
+This book is the alternative. Not slower work, and not refusing the tools. The same tools, used with judgement: briefed well, placed before they are trusted, checked from outside, and delivered with a person visibly in charge.
+
+To use them that way, you need ten minutes of background. Not computer science. Just enough to know what kind of thing you are talking to, and why it fails the way it does.
+
+## AI is a bigger pie
+
+"AI" covers a lot.
+
+**Machine learning** learns patterns from data rather than following hand-written rules. It sits behind fraud scores, demand forecasts, spam filters, and recommendations. It is probably already running inside your organisation, whether anyone calls it AI or not.
+
+**Deep learning** uses many-layered neural networks. It powers speech recognition, image understanding, and translation.
+
+**Generative AI** produces new text, images, audio, or code. **Large language models** are generative AI for language. They power the chat tools this book focuses on: ChatGPT, Claude, Gemini, and Microsoft Copilot.
+
+The focus is on chat tools for a practical reason. You can use them yourself, today, in plain language, on your own work. But the judgement in this book applies to any AI output. A fraud score, a forecast, and a chatbot reply all have to be placed and checked. If someone asks whether your organisation's forecasting model is AI, the answer is yes, and Chapter 2 applies to it in full.
+
+## What these tools actually do
+
+A language model is trained on an enormous amount of text. It learns to predict which words are likely to come next. It is then tuned to follow instructions and be helpful. Ask it a question, and it produces the most plausible response to that question, one word at a time.
+
+Modern assistants add more on top. Many can search the web, read your files, and write and run small programs to do calculations. That has made them far better at arithmetic and current events than they used to be. Underneath, though, the core is still prediction. That one fact explains both what they are good at and how they fail.
+
+What you get back is a **convincing average**. Fluent, well structured, and usually about right. For a first draft, a summary, or a list of options, about right is often exactly what you need. For a contract figure, a citation, or a client's account balance, about right is the same as wrong.
+
+::: {.callout-note title="Key idea"}
+A language model does not look things up in a store of facts, unless the product around it does that for it. It generates the response that best fits the request. A wrong figure and a right one are produced by the same process, in the same tone. Nothing in the output marks the difference. That marking is your job.
+:::
+
+## Where they help, and where they go wrong
+
+| Usually strong | Watch closely |
+|---|---|
+| Drafting emails, reports, proposals, and job ads | Specific facts: names, figures, dates, citations, legal detail |
+| Summarising and restructuring long documents | Your context: it knows nothing about your organisation unless you tell it |
+| Brainstorming options and counter-arguments | Agreeing with you: models are tuned to please, and often back down when challenged |
+| Explaining unfamiliar topics in plain language | Analysis framing: what was counted, what was left out, what was read as cause |
+| First-pass analysis of a spreadsheet | Anything that needs a person to be accountable for the decision |
+
+Read the right-hand column as the agenda for this book. Context is fixed by briefing (Part 2). Specific facts and framing are fixed by checking (Part 3). Accountability is fixed by deciding where a person stays in charge (Part 4). Agreement is fixed by pushing back (Chapter 4).
+
+## The trap: mistakes that don't look like mistakes
+
+You have spent your career learning to spot weak work. A rushed draft looks rushed. Gaps show. A junior colleague who is guessing sounds like it.
+
+AI output breaks that signal. Its wrong answers arrive polished, complete, and confident. They use the same headings, the same tone, and the same level of detail as its right answers. So the alarm you normally rely on stays quiet exactly when you need it.
+
+There is a second, quieter version of the same trap. You catch the tool's errors easily in your own field. Then you trust it on the law, the market, or the numbers, exactly where you are least able to check. Michael Crichton named this pattern in 2002, after the physicist Murray Gell-Mann: **Gell-Mann amnesia**. Chapter 7 gives you a method for it. For now, hold the rule: be most sceptical where you know least.
+
+::: {.callout-warning title="Watch out"}
+The most dangerous output is not the obvious mistake. It is the one that sounds completely right. Polish is part of the product. It tells you nothing about accuracy.
+:::
+
+## Your pass first
+
+The first habit costs five minutes and protects everything after it. Before you give a task that matters to AI, do a rough pass yourself.
+
+Not a finished draft. A sketch: the structure you would use, the three points that matter, the figure you expect to be roughly true. Then run the AI. Then compare.
+
+The comparison is where the value sits. Where you beat the tool is almost always context: the history, the politics, the thing nobody wrote down. Name that for what it is. That is your edge, and no model update takes it away. Where the tool beat you is a blind spot worth practising. Chapter 11 turns this into a weekly habit.
+
+::: {.callout-tip title="Try this: your pass first (25 minutes)"}
+Take this task, or one like it from your own week:
+
+> I manage a team of 8 in a mid-sized company. One of my team, a strong performer for three years, has been late and missing deadlines for the past month. Others are starting to notice. Write me a plan to address this.
+
+1. **Your pass first.** Five minutes, no AI. Sketch your own plan.
+2. **Then AI's.** Paste the task, unedited, into an AI tool. Use two tools if you have them.
+3. **Compare side by side.** Where did you beat it? Where did it beat you? What did it get confidently wrong?
+
+In the masterclass, the comparison reliably surfaces the same things: different assumptions about tone, nobody asking about personal circumstances, confident employment advice nobody in the room could verify, and plans that are too punitive or too soft. The sentence to listen for in yourself is: "I'd take its structure and my judgement." That sentence is this book in miniature.
+:::
+
+Before anyone pastes anything into a tool, one rule comes first. Nothing confidential or personal goes into a tool your organisation has not approved. Appendix D covers data, privacy, and disclosure in full.
+
+## What to carry forward
+
+- The output is a convincing average. About right is useful, until the task needs exactly right.
+- Mistakes do not look like mistakes. Your usual alarm will not fire.
+- You trust the tool most where you know least. Reverse that instinct.
+- Your pass first. Five minutes of your own thinking turns you from a forwarder into an editor.
+
+The next chapter turns "can I trust this?" into a ten-second decision you can make about any output, on any tool.

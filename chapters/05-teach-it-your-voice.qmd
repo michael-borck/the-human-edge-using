@@ -1,0 +1,74 @@
+<!-- Seed chapter: seeded from site/go-deeper.md (Write Like Me, two-chat
+     workflow, handover prompt) and site/beyond.md (Set it once),
+     October 2026. Editorial pass pending. Source archive: notes/source-site/. -->
+
+# Teach It Your Voice {#sec-voice}
+
+> *Write like me teaches it how you sound. Chapter 8 teaches it how you choose. In both, it drafts and you decide.*
+
+## From prompt library to standing brief
+
+All through Part 2 you have typed the brief fresh: role, task, context, format, and a check. That is the right way to learn. It is a poor way to work forever, because half of most briefs never changes.
+
+Every major tool lets you save the unchanging half as a standing brief, sent with every message. The generic name is a system prompt. The trade names differ: custom instructions and Projects in ChatGPT, instructions and Projects in Claude, Gems in Gemini, custom instructions in Copilot. Appendix E has the table of where each one lives, with the usual warning that menu names move.
+
+What goes in: your Role, the Context that is true every time, your Format preferences, and your Done line. What stays out: the Task, which changes each chat, and anything confidential you would not paste into a conversation.
+
+Review the saved brief each quarter. Your role shifts, your standards sharpen, and the Trust Tool corners move as models improve. A standing brief should move with them. Chapter 11 returns to that review rhythm.
+
+## Write like me
+
+The + Example upgrade from Chapter 4, made permanent.
+
+1. **Give it a sample.** About 100 words of your own writing that sounds like you on a good day. Nothing you can paste? Write 100 words on why your current project matters. Spoken and transcribed also works, and often sounds more like you than typed text does.
+2. **Ask for a rewrite.** Have the tool rewrite a piece of its own generic output in the voice of the sample. Compare. Correct what it got wrong: too formal, sentences too long, a phrase you would never use.
+3. **Ask for the style brief.** Have it describe your voice as short instructions: sentence length, directness, words you favour, words you avoid, how you open and close.
+4. **Save the brief, not the sample.** Put the style brief into your standing brief. A screen of rules travels better than pasted examples, and carries no client detail with it.
+
+::: {.callout-note title="Key idea"}
+A voice brief is a small act of professional self-knowledge. Most people have never described how they write. The tool's first description will be flattering and vague. Push back with specifics ("shorter than that; I don't use exclamation marks; I state the problem in the first line") until the brief would let a colleague imitate you. Then it will work on the tool, too.
+:::
+
+Voice is also a disclosure issue, handled in Appendix D. Output in your voice is still AI-assisted output. Your name goes on it, which means the check in Part 3 applies in full.
+
+## The two-chat workflow
+
+One chat for everything produces one muddled artefact: half thinking, half draft, with your early guesses baked into the final text. Separate the two activities.
+
+1. **Thinking chat.** Explore. Challenge assumptions, follow tangents, find out what your actual question is. Messy by design, and disposable. Use the push-back moves from Chapter 4 here, or the chat drifts toward your first view.
+2. **In between: you curate.** Read what came out. Keep what matters, drop what doesn't, and write a short, focused brief in your own words. Do not copy and paste the chat across. The curation is where your judgement lives.
+3. **Building chat.** A fresh chat that produces the output from your brief. Better input, better output, and no residue from your discarded first ideas.
+
+Neither chat holds the whole picture. Only you do. That is what "human in the loop" means in practice, at the scale of one professional and one task.
+
+Two practical notes. First, for thinking out loud, the model barely matters. You are the filter, an average idea is a fine stimulus, and a small or local model is enough. Save the strongest tool you have for exact facts and data work. Second, dialogue works as a thinking method only if the other side pushes back. Research on teaching critical thinking finds dialogue one of the strongest levers available (Abrami et al., 2015). That research is about people talking with people. The AI version earns the same benefit only when you demand disagreement.
+
+## The handover prompt
+
+Long chats drift. Early instructions fade as the conversation grows, and output quality slides in ways that are hard to notice from inside. Before you close a long chat, extract its value:
+
+```text
+Write a handover prompt that captures everything important from this
+conversation: the context, the decisions made, open questions, and where
+we left off. I'll paste it into a new chat to continue.
+```
+
+Read the handover before you reuse it. It is output, so it goes on the Trust Tool like anything else. Edit out the dead ends while you still remember they were dead ends. That edit is, again, the judgement.
+
+## Practice
+
+::: {.callout-tip title="Try this: your standing brief (20 minutes)"}
+1. Take your three saved prompts from Chapter 4. Extract what they share: role, recurring context, format habits, your Done line.
+2. Add a voice brief from the Write Like Me steps above.
+3. Save the result where your tool keeps standing instructions. Run one old task with and without it, in fresh chats. Score both from 1 to 5.
+4. Put a quarterly reminder in your calendar to review the brief.
+:::
+
+## What to carry forward
+
+- Save what never changes. Keep the task in the chat.
+- Teach it your voice with a sample, a rewrite, and a style brief you have corrected.
+- Think in one chat, build in another. You are the only one holding both.
+- Hand over deliberately when a chat gets long. Read the handover like any other output.
+
+Your briefs now produce output that sounds like you and fits your work. That makes the next part more important, not less. Output in your own voice is easier to forward without checking. Part 3 is the checking.

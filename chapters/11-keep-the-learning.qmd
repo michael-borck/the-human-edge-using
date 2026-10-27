@@ -1,0 +1,74 @@
+<!-- Seed chapter: seeded from the masterclass closing slides and field
+     guide (two-pass habit, if you lead people), October 2026.
+     Evidence: DEWR (2026), Jobs and Skills Australia (2025),
+     Brynjolfsson, Chandar and Chen (revised 2026). Editorial pass pending. -->
+
+# Keep the Learning {#sec-keep-learning}
+
+> *Delegate the task. Keep the learning.*
+
+## The reps you no longer get
+
+Routine work used to teach you while you did it, whether you wanted the lesson or not. Drafting the dull report taught structure. Working the spreadsheet by hand taught you what a wrong number smells like. Handling the easy enquiries built the pattern library you now call experience.
+
+AI takes the routine work first. The efficiency is real and so is the side effect. The reps disappear. Practice stops being something the job supplies for free and becomes something you have to choose.
+
+The employment evidence, read carefully, points the same way without supporting panic. Australia's Department of Employment and Workplace Relations reported in July 2026 that there is no broad AI-driven upheaval, with one signal worth watching. Jobs more exposed to AI automation have grown more slowly than others. Jobs and Skills Australia found in 2025 that some employers now hire more senior staff and fewer juniors, though entry-level roles had not fallen economy-wide yet. The sharper signal comes from the United States, where Stanford researchers estimate employment for 22 to 25 year olds in AI-exposed jobs runs about 19 percent below trend, mostly through fewer hires rather than mass layoffs (Brynjolfsson, Chandar, and Chen, revised 2026).
+
+One Australian employer told Jobs and Skills Australia there is no logical business reason to take on a junior and train them in the old way. The same employer kept one door open. Juniors still start in customer support, where the work teaches judgement that transfers.
+
+Read that as the design problem it is. If juniors lose the easy reps, where do the seniors of 2036 come from, the people who can place an output in the right corner and smell a wrong figure? Chapter 2's skills rest on experience. Experience rests on practice. Somebody has to put the practice back on purpose. That somebody is partly your organisation and, for your own capability, entirely you.
+
+## The two-pass habit
+
+Half an hour a week defends more capability than people expect. Pick one task that matters, one you would normally hand to the tool.
+
+First pass, yours. Ten minutes, rough. Sketch the answer the way Chapter 1 taught, before any AI gets a vote.
+
+Second pass, the tool's. Same task, your best saved brief, fresh chat.
+
+Then compare, and read the comparison in both directions. Where it beat you sits a blind spot. Practise there next week. Where you beat it sits one of its limits, and now you know exactly where its output needs your check. The comparison is a diagnosis you produce for yourself, weekly, for the price of a coffee.
+
+Participants sometimes object that the first pass wastes the time the tool was meant to save. For that one task, yes, it does, deliberately. You are not optimising Tuesday. You are keeping the instrument calibrated that every other chapter depends on. A pilot who only ever monitors the autopilot has a plan for the day it disengages. So should you.
+
+## The corners move
+
+Revisit your placements every few months, because they expire.
+
+Each model generation widens the territory where a light review is honestly enough. Tasks that needed line-by-line verification last year may need a spot check now, provided you have tested that on your own work rather than believed a launch post. Chapter 8's blind test, run again, is the honest way to move a corner.
+
+But follow the axis to the end. The top-right corner never empties. Precision multiplied by consequences always leaves a residue of work where a person decides and signs. The line moves. The check stays. Anyone selling you a future with no checking in it is selling you the demo from Chapter 10.
+
+The same review covers your standing brief from Chapter 5 and your decision rules from Chapter 8. Models change under them. A quarterly hour spent re-testing beats discovering the drift in front of Karen.
+
+## If you lead people
+
+Everything above applies twice to team leaders, because your juniors lost reps they never got to choose.
+
+Say the reasoning out loud. When you fix a junior's work, explain why the standard is the standard. They used to absorb that through repetition, volume, and osmosis. The volume is gone. The explanation now has to be deliberate, which costs you minutes and pays back for years.
+
+Run side-by-side drills. By hand first, then with AI, then compare what each one missed. It is the two-pass habit as a team sport, and the comparison discussion teaches faster than either pass alone.
+
+Choose what stays human, then write it down. Which fundamentals does your team keep practising regardless of what the tools can do? Name them, protect time for them, and revisit the list as the corners move. Delivering AI well includes growing the people who can check it. A team that can only operate the tool, and never evaluate it, has automated its own apprenticeship away. Dylan Davis calls the junior pipeline problem the broken ladder. Team leaders are the ones holding the ladder.
+
+## Your action plan
+
+Close the book the way the masterclass closes the day. One line each, specific enough to put in a calendar.
+
+**This week, practise.** Two-pass one task that matters. Use one saved prompt on real work. Example, with the specificity that makes it happen. Thursday 9 am, draft the steering committee update myself, then with my saved prompt, and compare.
+
+**This month, deliver.** Run the delivery plan from Chapter 10. Checkpoints in place from day one, not added after the first mistake.
+
+**Day 30, gate.** Scale, pivot, or kill, against the criteria you wrote before starting.
+
+**This quarter, revisit.** Name what must stay human in your work. Re-test one set of decision rules. Check whether the corners have moved on tasks you placed months ago.
+
+Put this week's line and your day-30 date in your calendar now, before the intention cools. A plan with two calendar entries beats a page of resolutions.
+
+## The edge, restated
+
+Everyone in your field has the same tools this morning that they will have tomorrow. The tools produce the convincing average on demand, for anyone. What they cannot produce is the judgement wrapped around the output. Knowing what to ask. Knowing how far to trust the answer. Checking from outside. Keeping a person in charge where the stakes demand it, and keeping your own hand in often enough that the judgement stays real.
+
+That is the human edge. It is not a talent. After eleven chapters it should read as what it is. A set of habits, practised on ordinary work, on purpose.
+
+Direct it. Don't delegate. Never surrender.

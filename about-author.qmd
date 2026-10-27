@@ -1,0 +1,48 @@
+# About the Author {.unnumbered}
+
+![Photo of Michael Borck](images/author-photo.jpg){fig-alt="Photo of Michael Borck, the author" width=200px fig-align="center"}
+
+**Michael Borck** is a software developer and educator working at the intersection of human expertise and artificial intelligence. He teaches applied AI and AI in business at Curtin University, and runs *The Human Edge* masterclasses through Curtin Executive Education. The question that started this book (*when everyone has the same AI tools, where does my edge live?*) is the one participants bring to every run of the day.
+
+His earlier book, *Conversation, Not Delegation*, argues that AI is most valuable not as a tool you delegate to, but as a thinking partner you converse with. *The Human Edge: Using AI with Judgement* takes that method to the professional's desk: four tools for briefing, trusting, checking, and delivering with AI, tested in the classroom and in executive education before they were written down. The companion volume, *The Human Edge: Leading AI with Judgement*, takes the same judgement to the organisation and is in development.
+
+The tools in this book grew out of watching capable professionals forward fluent AI output they had not checked, not from carelessness, but because nothing about the output told them to stop. The durable skill is not a better prompt. It is judgement: deciding what to ask, how much to trust, and where a person stays in charge. That skill does not expire when the next model arrives, and it cannot be delegated to the model itself.
+
+Michael builds educational software and resources, and writes about the 80/20 principle in learning and professional judgement.
+
+---
+
+\newpage
+
+**Connect**
+
+- [GitHub projects](https://github.com/michael-borck): Software and educational resources
+- [Free book collection](https://books.borck.education): Current online editions and downloads
+- [8020workshop.com](https://8020workshop.com): Passion projects and workshops
+- [LinkedIn](https://linkedin.com/in/michaelborck)
+
+---
+
+**Other Books in This Series**
+
+*The Human Edge:*
+
+- *The Human Edge: Leading AI with Judgement* (in development): choosing which AI projects to back, and making sure they deliver
+
+*AI-Collaboration and Judgement Track:*
+
+- *Conversation, Not Delegation: How to Think With AI, Not Just Use It*: the general method behind this book
+- *Prove, Don't Persuade: Why Proof Beats the Demo in Applied AI*
+- *Substantiate, Don't Assume: Why the Auditor's Opinion Matters More Than Ever in the Age of AI*
+- *Partner, Don't Police: AI in the Business Classroom*
+
+*Python Track:*
+
+- *Think Python, Direct AI: Computational Thinking for Beginners*
+- *Code Python, Consult AI: Python Fundamentals for the AI Era*
+- *Ship Python, Orchestrate AI: Professional Python in the AI Era*
+- *Converse Python, Partner AI: The Intentional Prompting Methodology*
+
+*Web Track:*
+
+- *Build Web, Guide AI: Business Web Development with AI*

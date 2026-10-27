@@ -1,0 +1,13 @@
+version: 1
+style: editorial-c
+art: cover-art.png
+family: JUDGEMENT / WORKPLACE AI
+accent: '#7A5E14'
+background: '#F2E8D0'
+title_lines:
+- The Human
+- Edge
+dark: false
+pixel: false
+scene: trust-tool
+art_origin: Locally constructed editable vector illustration.

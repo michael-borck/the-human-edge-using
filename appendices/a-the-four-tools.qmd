@@ -1,0 +1,70 @@
+<!-- Seed appendix: the masterclass desk card and field guide condensed
+     to book form, October 2026. Printable versions:
+     desk-card.pdf and field-guide.pdf on the course site. -->
+
+# The four tools on two pages {#sec-four-tools}
+
+The whole book, for the wall above your desk. Printable versions sit on the course site: the one-page [desk card](https://michael-borck.github.io/the-human-edge/downloads/desk-card.pdf) and the ten-page [field guide](https://michael-borck.github.io/the-human-edge/downloads/field-guide.pdf).
+
+::: {.desk-card}
+**One question each. All four work on any AI tool.**
+
+| Tool | The question | The move |
+|---|---|---|
+| 1 · Trust Tool | How much should I trust this output? | Two questions place it in a corner. The corner sets the check. |
+| 2 · RTCF | How do I ask for what I need? | Brief it like a capable new colleague. Context does most of the work. |
+| 3 · Check Loop | How do I know it's right? | Frame, explore, verify from outside, then say what you checked. |
+| 4 · Opportunity Finder | Where does AI fit, and will it work every week? | Spot, assign, prioritise. Deliver with checkpoints and a 30-day gate. |
+:::
+
+## 1 · Trust Tool (Chapter 2)
+
+Ask of any output. How exact must it be, average or precise? What happens if it is wrong, small or large?
+
+|  | Average | Precise |
+|---|---|---|
+| **Large** | B · Verify the load-bearing bits | D · Human in the loop |
+| **Small** | A · Trust with light review | C · Verify before you ship |
+
+Check from outside the tool. "Are you sure?" is not a check. Be most sceptical where you know least. Before pasting, classify the material, leave out what identifies people, and know what the tool remembers.
+
+## 2 · RTCF (Chapters 3 to 5)
+
+**Role.** Who should it write as? **Task.** What exactly, and how much? **Context.** Audience, situation, stakes, constraints, material. **Format.** Length, structure, tone.
+
+Still weak, add one upgrade. Example (match one you liked). Done (define success, mark gaps `[CHECK]`). Questions (let it ask first). Steps (outline, then section by section).
+
+Push back three ways. Guardrail: change your view only for a new fact, and name it. Devil's advocate: three reasons this fails, and the assumption it rests on. Board: CFO, sceptical customer, frontline manager, then where they disagree.
+
+Save what works as a standing brief, with its Trust Tool corner attached.
+
+## 3 · Check Loop (Chapters 6 to 8)
+
+1. **Frame** the question and the decision it feeds. Fresh chat.
+2. **Explore.** Describe the data first. Broad, then deep.
+3. **Verify** from outside. Filter, recount, open the source.
+4. **Shape** for the reader. End with what you checked.
+
+Claims you cannot recount get VET. Verify the source yourself. Explain it in your own words. Test the edges.
+
+Watch for miscounts after filtering, correlation sold as cause, missing rows skipped in silence, numbers that cannot all be true, and detail that is not in the file.
+
+Decide Like Me in one line: write your repeatable decision as if-then rules, test them blind on past calls in a new chat, keep the call.
+
+## 4 · Opportunity Finder (Chapters 9 and 10)
+
+**Spot.** Automate (same work, same way), Assist (reading and comparing), Generate (blank page), Analyse (meaning in numbers).
+
+**Assign** each step: AI leads, AI assists, you lead, human only. Keep one step human on purpose.
+
+**Prioritise** quick wins. High time saved, low setup, cheap checking. Count the checking as effort.
+
+**Deliver.** One workflow, one owner, one measure, baseline recorded. A named checker with a specific check at every amber or red step. People told before you start. A 30-day gate with scale, pivot, and kill criteria written in advance.
+
+Why AI projects fail differently, in five lines. Done cannot be fully specified, so define good enough. The demo is a trap. The data is the uncertainty. Checking is the product. Everyone has the same models, so compete on judgement.
+
+## Keep it (Chapter 11)
+
+Delegate the task, keep the learning. Once a week, your pass first on a task that matters, then the tool's, then compare both ways. Review your corners, your standing brief, and your decision rules each quarter. The corners move. The check stays.
+
+Direct it. Don't delegate. Never surrender.

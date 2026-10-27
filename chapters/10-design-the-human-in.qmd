@@ -1,0 +1,83 @@
+<!-- Seed chapter: seeded from site/tools.md (Deliver), the field guide
+     (worked example), and facilitator guide Session 4, October 2026.
+     Editorial pass pending. -->
+
+# Design the Human In {#sec-deliver}
+
+> *Treat one redesigned workflow as a small AI project. Because it is one.*
+
+## Why AI projects fail differently
+
+AI projects do not fail more often than other projects, in my experience. They fail differently. Five assumptions that hold up fine on ordinary work break on contact with AI, and each break has a design response.
+
+**"Done" can be specified.** Ordinary software has right answers. AI output varies. It produces a spread of responses, some better than others, and the same input can land differently tomorrow. So decide in advance what good enough means for this workflow, in words a checker can use. Without that line, every output starts an argument.
+
+**A working demo means nearly there.** The demo is a trap. It shows the happy path, on clean inputs, probably chosen by someone who wants the project funded. Treat a successful demo as the start of the hard part. The hard part is everything the demo did not meet.
+
+**The data is a known input.** On AI work the data is the uncertainty. It is messier, thinner, or more sensitive than the plan assumed, and finding that out takes the time people later call slippage. Plan for discovery. Budget the first weeks for learning what the data actually is.
+
+**The build is the product.** With AI, checking is the product. The draft is cheap. The review step, the second pair of eyes, the audit trail, that is what the organisation is really buying. Design the checking in and ship it as part of the workflow, with an owner and a time allowance. Bolted-on checking gets skipped by Friday.
+
+**Capability is our edge.** Everyone has access to the same models, including the competitor across town and the team down the corridor. If the workflow's value rests only on the tool doing something fluent, that value evaporates on contact. Compete on what the tool cannot supply. Your data, your context, your people's judgement.
+
+Two of these five do most of the damage in practice. The demo trap and the data surprise between them account for a large share of the stalled pilots people describe to me. Both have the same cure. Small scope, real inputs, and a date where the evidence gets judged.
+
+## Four decisions before you start
+
+A redesigned workflow is a small AI project, so plan it like one. Four decisions, made before anyone builds anything, carry most of the weight.
+
+**Scope.** One workflow, one owner, one success measure. Write the measure down while you can still be honest about it. Record today's baseline too, the time it takes and the quality it reaches now. Without a baseline, the 30-day judgement later is just competing impressions.
+
+**Checkpoints.** Every step sitting in an amber or red corner of the Trust Tool gets a named person and a specific check. Named matters. "The team reviews it" means nobody reviews it. Pick someone who knows what right looks like, which is not always the most senior person available. And keep the step you chose to leave human in Chapter 9. It is where capability gets built while the workflow runs.
+
+**People.** Who is affected, who has to agree, and who ends up doing the checking. Tell them before you start, not at the launch email. People resist surprises more than they resist change. The person whose Friday task halves deserves to hear what fills the space, from you, early.
+
+**Gate.** A date about 30 days out, and the criteria for each call at that date. Write the criteria now. Criteria invented at the gate have a way of fitting whatever happened.
+
+### A worked example
+
+The weekly steering committee update from Chapters 3 and 9, planned properly.
+
+Scope is one update, owned by the project manager, with success measured as production time under 20 minutes and zero corrections from the committee across the month. Baseline is 55 minutes and roughly one correction a fortnight. Assembly from notes is AI-led with the saved RTCF brief. Risk wording stays you-lead, since the manager knows which delay needs softening and which needs stating plainly. The checkpoint is the manager reading the draft once as a committee member would, checking figures against the source notes, before anything is sent. Affected people are told first, including the analyst who used to compile the first cut and now spot-checks the numbers instead. The gate sits at day 30. Scale if time held under 20 minutes with no increase in corrections. Pivot if time fell but checking ballooned. Kill if a wrong figure reaches the committee.
+
+Nothing exotic. That is rather the point. Small, owned, measured, and judged on a date.
+
+## The 30-day gate
+
+At the gate, three honest calls exist.
+
+**Scale** when the workflow met its measure under a light review. Hand it over as business as usual, and keep the check its corner calls for. Scaling is not a licence to stop checking.
+
+**Pivot** when it came close but the checking costs too much, or the wrong step has the wrong owner. Change the brief, the step, or who leads. Run another month.
+
+**Kill** when it missed the measure, or the errors mattered. Keep the work human. Revisit next quarter if the tools move.
+
+Killing is a good outcome and this book means that plainly. You found where the line is, cheaply, with evidence. The expensive outcome is the fourth one nobody lists. Drift. The workflow neither scales nor dies, the checking thins out because nobody owns it, and a year later nobody can say what it saves or who verified last month's output.
+
+Three mistakes gather at gates. Sunk cost, where spent effort argues for continuing. Cherry-picking, where the measures that passed get quoted and the others get lost. And treating "not perfect" as "broken", which kills workflows that were genuinely better than the baseline. Judge against the criteria written at the start. That sentence is easy to say in October and hard to honour in November, which is why the criteria exist on paper.
+
+## Agents, briefly
+
+Sooner or later someone proposes letting the system run the loop itself. Plan, act, check, retry, no person between steps. That is an agent, and Appendix E unpacks the vocabulary around it.
+
+One principle covers most of what a professional needs at this book's scale. An agent can run the loop. You set the standard it runs against. An agent checking its own work shares its own blind spots, so the test, the data, and the reviewer have to come from outside it, exactly as Chapter 2 demands for a single output. Your saved briefs and decision rules are, in agent vocabulary, the first draft of a skill. The gate discipline in this chapter is how you find out whether the skill deserves more rope.
+
+::: {.callout-tip title="Try this: plan one delivery (35 minutes)"}
+Take the workflow you assigned in Chapter 9.
+
+1. **Scope.** One workflow, one owner, one measure. Record today's baseline in time and quality (10 min).
+2. **Checkpoints.** List every amber or red step. Name the person and the exact check for each (10 min).
+3. **People.** Who is affected, who must agree, who checks. Draft the two sentences you will tell each of them before starting (7 min).
+4. **Gate.** Pick the date 30 days out. Write the scale, pivot, and kill criteria now (8 min).
+
+Put the gate date in your calendar before you close the book. Plans without dates are wishes with headings.
+:::
+
+## What to carry forward
+
+- The demo is the start of the hard part. The data is the uncertainty. Checking is the product.
+- Scope small, name the checkers, tell the people, fix the gate date. In that order.
+- Judge at the gate against criteria written at the start.
+- Killing a workflow on evidence is a success. Drift is the failure.
+
+One delivery makes you more effective this month. It does nothing, by itself, to keep you capable next year. That takes a separate, deliberate habit, and it is where this book closes.

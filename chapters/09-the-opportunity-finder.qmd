@@ -1,0 +1,68 @@
+<!-- Seed chapter: seeded from site/tools.md (Tool 4), the field guide,
+     and site/exercises.md (Exercise 7), October 2026.
+     Editorial pass pending. -->
+
+# The Opportunity Finder {#sec-opportunity-finder}
+
+> *Spot, assign, prioritise. Then deliver.*
+
+## From your desk to shared work
+
+Everything so far has lived at the scale of one person and one task. Part 4 changes the scale. A workflow other people depend on, running every week, with your name somewhere in its history.
+
+The questions change with the scale. Not "can AI do this?" because the answer is now nearly always "a demo can". The better questions run in order. Where in my week does AI actually fit? Who should lead each step, the tool or a person? What do I try first? The Opportunity Finder answers them in that order. Spot, Assign, Prioritise.
+
+## Spot: four signals
+
+Look at your own week, not at a vendor's list of use cases. Four patterns mark where AI tends to pay.
+
+You do the same work the same way, often. Call that signal **Automate**. Minutes from your own notes. The Friday update assembled from the same five sources. Repetition with a stable shape.
+
+You spend the time reading, gathering, and comparing before the real work starts. **Assist**. Three proposals to line up side by side. A long tender to reduce to its load-bearing facts, corner B from Chapter 2.
+
+You face the blank page. **Generate**. First drafts of anything, where a mediocre start beats a perfect intention because editing is faster than inventing.
+
+You hunt for meaning in numbers. **Analyse**. The spreadsheet someone sends you monthly, the ticket data from Chapter 6, anywhere the pattern matters more than any single row.
+
+Walk one real week and mark what you find. Bring three tasks that take half an hour or more. Most people spot more candidates than they can use, which is what the next two steps are for.
+
+## Assign: who leads each step
+
+Break the candidate workflow into steps, then give each step an owner. Four assignments cover nearly everything.
+
+| AI leads | AI assists | You lead | Human only |
+|---|---|---|---|
+| AI drafts it. You review and approve. | You steer. AI does much of the work. | You think. AI takes sub-tasks. | Empathy, ethics, accountability. |
+| Minutes from your notes | A client proposal | A strategy paper | Telling someone their role is going |
+
+The Trust Tool does the heavy lifting here. Steps in the green corner can be AI-led with a light review. Steps in the amber corners suit assist or you-lead, with the matching check. Steps in the top-right corner stay human only, whatever the demo showed.
+
+Be careful with a common slide. A step starts as "AI assists" in the design, then drifts into AI-led in practice because checking takes effort and the output mostly looks fine. Nobody decided that. It just happened on a busy Thursday. Chapter 10 designs against the drift by naming the checker in advance. For now, assign on the record.
+
+One deliberate choice is worth making at this stage. Keep at least one step human on purpose, even where AI could do it. Pick the step that teaches the work, the one where a junior learns what good looks like, or where you keep your own feel for the material. Chapter 11 explains why that choice compounds.
+
+## Prioritise: quick wins first
+
+Rank candidates by a rough ratio. Time saved each week, against effort to set up. Then correct the effort figure, because almost everyone undercounts it the same way.
+
+Count the checking as effort. A workflow that saves forty minutes of drafting and adds thirty-five minutes of verification saves five minutes, plus whatever quality change comes with it. Sometimes that trade is still worth it. Often it explains why a pilot that dazzled in week one quietly dies by week six.
+
+Quick wins share a shape. High time saved, low setup, and cheap checking. That last part is why they usually sit in the Trust Tool's green corner, or low in an amber one. Start there. A small win that survives a month teaches your team more than an ambitious redesign that needs constant defence. It also earns you the credibility to attempt the harder one second.
+
+Work one example through. Take the weekly steering committee update from Chapter 3. Spot it under Automate and Generate. Assign the assembly to AI-led from your notes, with you reviewing. Keep the risk judgements at you-lead, because you know which delays matter politically. Keep the conversation about the delay human only. Prioritise it early because you already own the brief, the format, and the check. That workflow becomes the delivery plan in the next chapter.
+
+::: {.callout-tip title="Try this: find your first workflow (20 minutes)"}
+1. List three tasks from your week taking 30 minutes or more. Mark each with a Spot signal.
+2. For the most promising one, break it into steps. Assign each step: AI leads, AI assists, you lead, human only.
+3. Estimate weekly time saved and setup effort. Add the checking time to the effort side. Be honest.
+4. Circle any step you will keep human on purpose, and write why in one line.
+:::
+
+## What to carry forward
+
+- Spot in your own week. Repeat work, reading load, blank pages, number hunting.
+- Assign every step an owner. The Trust Tool corner makes most of the decision for you.
+- Count the checking as effort, or the business case is fiction.
+- Keep one step human on purpose. Pick the one that teaches the work.
+
+Spotting and assigning takes an afternoon. Making the workflow survive contact with a real team, real data, and a real month is the harder problem. AI projects fail, but they fail in their own particular ways. The next chapter names them.

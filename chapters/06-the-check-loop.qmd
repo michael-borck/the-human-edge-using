@@ -1,0 +1,125 @@
+<!-- Seed chapter: seeded from site/tools.md (Tool 3), site/exercises.md
+     (Exercise 5), and the facilitator guide RetailFlow answer key,
+     October 2026. All figures recomputed from
+     resources/retailflow-customer-service-data.csv. Editorial pass pending. -->
+
+# The Check Loop {#sec-check-loop}
+
+> *Fast analysis, slow trust.*
+
+## The brief Karen nearly got
+
+Karen runs customer service at RetailFlow, a fictional retailer invented for the masterclass. She needs a short brief on six months of support tickets. She needs it before a meeting. Someone on her team uploads the data to an AI tool, asks what is going on, and gets back a clean, confident answer.
+
+Three claims from that answer will run through this chapter. Read them the way Karen would.
+
+- **Claim A.** Email is our slowest channel. Average first response is about three times slower than Live Chat.
+- **Claim B.** Account Issues has the lowest customer satisfaction of any category. These queries are the most complex, and many never get resolved.
+- **Claim C.** Sundays are a staffing problem. Response times on Sundays are double the overall average.
+
+All three sound plausible. All three arrived in the same professional tone. One is verified. One is refuted, twice over. One is overstated. If the brief goes to Karen unchecked, she may fix the wrong category and overstate a staffing case by a third. She will do both in good faith, because the document gave her no reason not to.
+
+Hold your verdicts. The chapter teaches the loop first, then checks the claims against the data.
+
+## The loop
+
+AI makes analysis fast. It does not make analysis trustworthy. The Check Loop separates those two facts into four steps.
+
+**1. Frame.** Write the question and the decision it feeds. Start a fresh chat. "What is happening in this data?" is not a frame. "Which two changes would most lift satisfaction next quarter, and what would we stop doing to fund them?" is a frame, because it names the decision.
+
+**2. Explore.** Ask the tool to describe the data before it analyses anything. How many rows, which columns, what date range, how many missing values. Compare that description with what you know. Most people skip this step, and it is the cheapest error detector in the chapter. If the tool has already miscounted the file, everything after it is fiction with headings. Then go broad to deep. Overall patterns first, then the category, channel, or period the decision turns on.
+
+**3. Verify.** If a number would change a decision, check it yourself. Filter the spreadsheet. Recount. Open the source rows. If the number does not hold, go back to Explore with what you learned. Verification comes from outside the tool, as Chapter 2 insists. A second AI agreeing with the first one is not verification. It is two guesses in the same accent.
+
+**4. Shape.** Write for the reader, who is usually Karen at 8.55 before a 9 o'clock meeting. End with one line that says what you checked and how. That line is small and it changes the document. It tells the reader someone did the work, and it commits you to having done it.
+
+::: {.callout-important title="Critical point"}
+Write the "what I checked" line even when nobody asks for it. Especially then. A brief that ends with *Checked: category averages and channel response times recomputed from the source file, 27 October* is a different artefact from one that ends with a confident paragraph. The first one can be trusted, challenged, and reused. The second can only be forwarded.
+:::
+
+## Five ways a smooth answer goes wrong
+
+Watch for these in any AI analysis, including your own.
+
+1. **Miscounts after filtering.** The tool reports a total for a subset it never isolated. Averages drift. Row counts shrink.
+2. **Correlation sold as cause.** Slow responses and unhappy customers travel together. That does not prove one caused the other, and it matters for what you fix.
+3. **Missing rows skipped silently.** Blank satisfaction scores vanish from the average. Nobody mentions it.
+4. **Numbers that cannot all be true.** Category shares that sum past 100 percent. An overall average outside the range of its parts.
+5. **Detail that is not in the file.** A plausible explanation for a pattern, invented to fill a paragraph. The data contains no such fact.
+
+That last one catches experienced people. The explanation is often good. It is just not evidence.
+
+## Checking the three claims
+
+The RetailFlow file has 260 tickets from 3 July to 29 December 2024, handled by 8 agents. You can download it from the course site and repeat every check below in a spreadsheet. Do that at least once. Reading about verification is not verification.
+
+::: {.retailflow-case}
+**By category**
+
+| Category | Tickets | Satisfaction | Response (h) | Resolved |
+|---|---|---|---|---|
+| Returns and Refunds | 48 | 1.56 | 13.3 | 77% |
+| Delivery Problems | 43 | 2.17 | 11.0 | 77% |
+| Billing Queries | 40 | 2.79 | 9.8 | 92% |
+| Account Issues | 28 | 3.06 | 8.8 | 96% |
+| Product Information | 37 | 3.88 | 5.5 | 89% |
+| Order Tracking | 64 | 3.90 | 6.7 | 92% |
+
+**Response time.** Overall 9.2 hours. By channel, fastest to slowest: Live Chat 4.0, Phone 6.1, Social Media 9.4, Email 13.2. By day, Sunday is slowest at 13.7 hours and Thursday fastest at 7.4. December blows out to 13.6 hours against 7.2 in November.
+
+**Response time and satisfaction.** Tickets answered within 4 hours average 4.09 for satisfaction. Tickets that wait over 12 hours average 1.64.
+:::
+
+**Claim A is verified.** Email at 13.2 hours against Live Chat at 4.0 is 3.3 times slower. Note what that felt like to read. The true claim sounded no more confident than the false ones. Tone carried no information at all.
+
+**Claim B is refuted, twice.** The lowest satisfaction belongs to Returns and Refunds at 1.56. Account Issues sits mid-table at 3.06. The excuse built into the claim also collapses. Account Issues has the highest resolution rate in the file, 96 percent, so "most complex, often unresolved" is the opposite of the record. This is the dangerous kind of error. It comes with a reason attached, and the reason makes it feel checked. Forwarded to Karen, it sends next quarter's effort to the wrong team.
+
+**Claim C is overstated.** Sunday runs at 13.7 hours against an overall 9.2. That is about one and a half times, not double. In a staffing case the word "double" inflates the argument by a third. This output sits in the precise, large corner of the Trust Tool, and in that corner close is the same as wrong.
+
+One more trap hides in most tool output on this file. Asked why Sundays are slow, tools often explain that nobody works on Sundays. The data says otherwise. Named agents handle Sunday tickets all through the file. Plausible, fluent, and unsupported. Claim 5 on the list above, caught in the wild.
+
+## The confident miscount
+
+Cloud tools get the RetailFlow sums right mostly because they run code on the file behind the scenes. Take that away and the underlying weakness shows. In class testing in October 2026, a capable local model given the raw CSV reported 130 rows instead of 260. It put Email at 12.4 hours and Live Chat at 5.8, against true values of 13.2 and 4.0. It judged the Sunday claim with numbers that would have given the wrong verdict for the wrong reason. A smaller model got none of the figures right. Both answered in complete, confident sentences.
+
+I find that demo more persuasive than any warning slide. The model was not lying. It was predicting plausible numbers, because plausible numbers are its product. Arithmetic is not.
+
+Which points to the fix. Do not ask a language model to count your file in its head. Ask it for the spreadsheet formulas, or a short script, and let software built for sums do the sums. The starter prompts in Appendix B include this pattern. It has a second benefit, covered next.
+
+## When your data cannot go into a tool
+
+Plenty of real data should never be uploaded anywhere. The Check Loop still works. Use the shape trick.
+
+Describe the columns, types, and rough size of your data. Leave the data itself on your machine. Ask the tool for formulas, a script, or a single web page that runs in your browser and reads the file locally. Test what it gives you on RetailFlow first, where you know the answers. Then run it on the real file.
+
+Two cautions. If you cannot read the code it produced, the output belongs in the top-right corner of the Trust Tool, however neat it looks. And check that a generated web page sends the file nowhere. Local means local, or the whole exercise was theatre.
+
+## What a strong brief to Karen says
+
+With the claims settled, the brief writes itself.
+
+- Returns and Refunds and Delivery Problems are the worst categories, by a clear margin.
+- Response time is the factor that cuts across everything. Fast answers sit near 4 out of 5 for satisfaction. Slow ones sit near 1.6.
+- The blow-outs are predictable. Sundays, Mondays, December, and the Email channel.
+- So fix the returns process first. Steer customers toward Live Chat where the query suits it. Staff for the peaks you can already see coming.
+- End with what was checked.
+
+Notice that none of that required a better model. It required a frame, a description check, three verified claims, and the discipline to fix the brief before Karen saw it. In the exercise, that order is deliberate. People draft the brief first, then check the claims against their own draft. Anyone whose brief repeated Claim B finds out in the room, which is a much better place to find out than Karen's meeting.
+
+::: {.callout-tip title="Try this: RetailFlow (35 minutes)"}
+Download `retailflow-customer-service-data.csv` from the course site or this book's resources.
+
+1. **Frame and explore (10 min).** Fresh chat. Ask the tool to describe the file before analysing it. Check the description against the file.
+2. **First brief (7 min).** Write Karen a one-page brief: what is wrong, what to fix first.
+3. **Check the claims (10 min).** Test Claims A, B, and C from this chapter in your spreadsheet. Verdicts: verified, overstated, refuted, or can't tell yet.
+4. **Fix and sign (8 min).** Correct your brief. Add the line that says what you checked.
+:::
+
+## What to carry forward
+
+- Frame the decision, describe the data, verify outside the tool, then shape for the reader.
+- The true claim and the false one arrive in the same tone. Check the load-bearing numbers every time.
+- Let spreadsheets do arithmetic. Let language models do language.
+- End every brief with what you checked. Your name is on it.
+
+Data you own can be checked against the source file. Claims about the world cannot. The next chapter covers those.

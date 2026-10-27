@@ -1,0 +1,13 @@
+# Acknowledgments {.unnumbered}
+
+This book began as a one-day Curtin Executive Education masterclass, first marketed as *AI for Professionals: Building Everyday Capability* and renamed, mid-flight, to the better title it now carries. The renaming slide, which strikes the old title through and sticks the new one over it, survives in the course deck. It is a fair picture of how this material was made: practical first, honest about what it replaced.
+
+The argument was shaped in the room. Participants who placed the same scenario in different corners of the Trust Tool, and then had to defend the placement, taught the author more about stakes than any framework could. The RetailFlow exercise works because people really did forward the fluent claim to the fictional Karen before checking it. The Decide Like Me exercise works because roughly four calls in five match, and the fifth one is always interesting. Every improvement in these pages can be traced to a debrief that ran long.
+
+This book sits in a small family, and the family made it better. *Conversation, Not Delegation* supplied the method: converse, push back, verify from outside the tool. *Prove, Don't Persuade* supplied the insistence that a demo is not evidence. *The Human Edge* is where those ideas meet an ordinary working week.
+
+Several specific debts deserve naming. The Decide Like Me method, and the "broken ladder" framing of the junior pipeline problem discussed in Chapter 11, draw on Dylan Davis. The Australian employment evidence draws on the Department of Employment and Workplace Relations (2026) and Jobs and Skills Australia (2025). "Gell-Mann amnesia" is Michael Crichton's term. RetailFlow, Northbridge, and their data are invented for teaching; any resemblance to real organisations is coincidental.
+
+The open-source community behind Quarto, Pandoc, and GitHub made it possible to write, build, and publish this book alongside the course site, the workbook, and the Trust Tool game, all from text files the reader can inspect.
+
+This book was written using the method it teaches. AI drafted, summarised, and proposed structures at every stage. It also produced fluent errors on schedule, including about the dataset in Chapter 6, which is why every figure there was recomputed from the source file. The machine made the work faster. The judgement, and the responsibility for every claim that remains, are the author's.

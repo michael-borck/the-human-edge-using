@@ -1,0 +1,85 @@
+<!-- Seed chapter: seeded from site/go-deeper.md (VET in depth),
+     site/responsible-use.md (quiet defaults), and site/tools.md,
+     October 2026. Full VET treatment: Conversation, Not Delegation,
+     "VET your AI". Editorial pass pending. -->
+
+# VET and the Quiet Defaults {#sec-vet}
+
+> *The Trust Tool says how much to check. VET says how.*
+
+## Claims you cannot recount
+
+Chapter 6 worked because the truth sat in a file you could open. Most claims at work offer no such comfort. A market figure. A legal summary. A study that shows something convenient. A benchmark with a percentage in it.
+
+You cannot filter a spreadsheet to settle those. You need a different discipline, and it has three moves. Verify, Explain, Test. VET.
+
+Use it hardest in two situations. A decision hangs on the claim. Or people will assume you checked because checking is your job. The second one catches more professionals than the first.
+
+## Verify the source yourself
+
+Can you find this claim without the tool's help?
+
+AI produces references that do not exist. This still surprises people, and it should not. A citation is text. The tool generates a fake one the same way it generates a real one, by predicting what a citation in this spot probably looks like. Authors with plausible names, a journal that exists, a year that fits, a title on topic. Nothing underneath.
+
+So look the source up directly. If the paper exists, open it and check the claim says what the tool said it says. Summaries of real sources drift too, usually toward whatever you asked for. Citation checkers such as CiteSight can do the existence check for you. The judgement about whether the source supports your use of it stays yours.
+
+Verify applies to numbers as much as papers. "Where does that figure come from?" has ended more bad briefs than any other question I know. If the answer is another AI summary, you have a chain of copies with no original. Walk it back, or drop the figure.
+
+One extension matters more every year. Verify the channel, not just the claim. A voice that sounds like your CFO asking for new bank details, a face on a video call asking for a password, both get checked outside the channel they arrived on. Hang up. Call back on a number you already have. A familiar face on a screen is no longer proof of anything, and Appendix E treats deepfakes on the Trust Tool in more detail.
+
+## Explain it back
+
+Can you say the claim in your own words, including why it would be true?
+
+This sounds like a study trick because it is one. It works anyway. Where your rephrasing goes vague, your understanding has a gap, and the gap usually sits exactly where the claim is weakest. "This method is 95 percent effective" survives until you try to say what 95 percent counts, out of what, compared to what. Then it either sharpens or falls apart. Both outcomes help.
+
+Write the explanation down for claims that carry a decision. Two or three sentences. If you cannot produce them, you are forwarding, not reporting, and Chapter 1 has a name for that.
+
+## Test the edges
+
+Does the claim survive a what-if?
+
+Change one variable. Try the awkward case. Ask where, when, or for whom this stops being true. Fragile answers break under that pressure. Sound ones bend and tell you their limits, which is useful information in itself.
+
+| The tool says | Verify | Explain | Test |
+|---|---|---|---|
+| "Studies show..." | Find the actual studies | Can I explain the mechanism? | Does it hold in a different context? |
+| "The best figure is X" | Where does X come from? | Why X, specifically? | What changes if one input moves? |
+| "95% effective" | Source? | 95% of what, against what? | Under what conditions does it fail? |
+
+VET is the practical answer to Gell-Mann amnesia. You know least in a new field, so your instincts help least there. VET replaces instinct with procedure. Slow, unglamorous, and much harder to fool.
+
+## The quiet defaults
+
+There is a second kind of checking, and it is about values hiding inside fluent text rather than facts.
+
+Ask a tool to write about a senior manager and then about an administrative officer. Compare what comes back. In class, tables run a few pairs like this and look at names, warmth against capability, and who gets handed authority. The differences are rarely crude. That is the point. The defaults are quiet. One role gets decisive verbs and a surname. The other gets helpfulness and a first name. One leads the meeting. The other takes the minutes.
+
+Models learn these patterns from text the world already wrote. Left alone, they hand the patterns back to you, polished. In a job ad, a reference check summary, or a performance draft, a quiet default stops being a curiosity. It shapes who applies, who gets believed, and who gets promoted.
+
+Catching defaults takes the same outside check as catching numbers, pointed in a different direction.
+
+- Run pairs. Swap the role, the name, the gender, the location. Read the two outputs side by side and look at what moved that should not have.
+- Read for who acts and who is described. Agents get verbs. Everyone else gets adjectives.
+- Ask who is missing. A stakeholder list, a customer persona, a risk register. Absence is a default too, and harder to see than a stereotype.
+
+Appendix D runs this further, with Australia's six essential practices, data governance that stays proportionate, and four dilemmas worth arguing about with your team. The short version belongs here. Bias in AI output rarely arrives wearing a label. It arrives as tone, and tone is exactly what a busy reader skims.
+
+::: {.callout-tip title="Try this: the four-minute defaults check"}
+Pick a pair relevant to your work. A senior manager and an administrative officer. A surgeon and a nurse. A founder and an office manager.
+
+1. Ask the tool for a short paragraph introducing each person at a work event. Nothing else in the prompt changes.
+2. Compare names, verbs, warmth, competence, and authority.
+3. Ask what a reader would assume about each person, and whether your organisation wants to say that.
+
+Four minutes. Most tables need less before the room goes quiet.
+:::
+
+## What to carry forward
+
+- Verify means find it yourself. A citation the tool invented looks exactly like a real one.
+- If you cannot explain a claim in your own words, you do not understand it yet. The struggle marks the gap.
+- Test an edge. Sound claims state their limits. Fragile ones shatter.
+- Check the defaults as well as the facts. Run the pair, read who acts, ask who is missing.
+
+So far, checking has meant testing outputs. The next chapter turns the same idea on your own decisions. You will write down how you decide something, then test whether those rules actually describe you.

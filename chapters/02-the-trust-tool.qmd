@@ -1,0 +1,95 @@
+<!-- Seed chapter: seeded from site/tools.md (Tool 1), site/exercises.md
+     (Exercises 1 to 2), and the facilitator guide answer keys, October 2026.
+     Editorial pass pending. Source archive: notes/source-site/. -->
+
+# The Trust Tool {#sec-trust-tool}
+
+> *Two questions place the output. The corner sets the check.*
+
+## A ten-second habit
+
+"Can I trust this?" is too vague to answer. It collapses two different questions into one feeling, and the feeling is usually wrong, because fluent output feels trustworthy whether it is or not.
+
+The Trust Tool separates the questions. Ask both about any output, before you act on it.
+
+1. **How exact must it be?** *Average* means the ballpark is fine: a draft, a summary, a list of ideas. *Precise* means there is one right answer, and close is the same as wrong: a figure, a name, a date, a citation, a clause.
+2. **What happens if it is wrong?** *Small* means cheap to fix and nobody harmed. *Large* means money, safety, reputation, or someone's job or wellbeing.
+
+Two questions, four corners. Precision runs across. Consequences run up.
+
+|  | Average is fine | Precise, one right answer |
+|---|---|---|
+| **Large consequences** | **B · Verify the load-bearing bits.** Check the claims the output rests on. | **D · Human in the loop.** AI can help. A person decides, and signs. |
+| **Small consequences** | **A · Trust with light review.** Use it. Skim before it goes out. | **C · Verify before you ship.** Check every figure, name, and date. |
+
+The corners come with examples worth memorising. A birthday message for a colleague is corner A. A statistic quoted in a newsletter is corner C: easy to check, embarrassing in print. A strategy memo for the executive team is corner B: the prose can be average, but the three claims it rests on cannot. The figures in a board paper are corner D.
+
+**Rule of thumb:** lean in where about-right on low stakes is fine. Keep a person in charge where exactly-right meets high stakes.
+
+## The corner sets the check
+
+Placement is useless without the matching behaviour.
+
+- **Corner A:** read it once, as its reader would. Then use it. Spending twenty minutes verifying a birthday message is its own kind of failure.
+- **Corner B:** find the load-bearing claims. There are usually two or three: a deadline, an eligibility rule, a budget figure. Verify those against the source. Let the rest of the prose be average.
+- **Corner C:** check every precise element before it leaves you. Figures, names, dates, citations. One wrong publication year in print means a correction and a dent in credibility.
+- **Corner D:** AI may draft, structure, and list options. A person owns every word and figure, and makes the decision. Entitlements, safety figures, and anything about a person's livelihood live here.
+
+## Check from outside the tool
+
+::: {.callout-important title="Critical point"}
+Asking the AI "are you sure?" does not count as a check. The tool tends to agree with itself, because agreement is what it was tuned to produce. The check comes from outside: the source document, the data itself, your own arithmetic, or a colleague who knows. Better models move the corners. They never remove the check.
+:::
+
+This one rule does most of the work in Part 3. Verification from outside feels slower than asking the tool to double-check. It is also the only kind that works.
+
+## Place it: five scenarios
+
+In the masterclass, the room votes blind on scenarios like these, without seeing how anyone else voted. Blind matters, because it stops the room following the most senior person. Place each one yourself before reading the usual answer.
+
+1. **Rewrite your out-of-office message to sound friendlier.** Corner A. The ballpark is fine, and a mistake is cheap. If you said B, ask what would actually go wrong.
+2. **Summarise a 40-page tender so your team can decide whether to bid.** Corner B. The deadline, eligibility rules, and budget carry the decision. The decision to bid is already human. What needs checking is the three facts it rests on.
+3. **The publication year of a study you will cite in an internal newsletter.** Corner C. One right answer. Wrong in print means a correction. If you said A because it is "only internal", ask who forwards newsletters.
+4. **Talking points for a difficult conversation with a team member.** This one splits B and D, and the split is the lesson. B voters see a draft to adapt. D voters see a person's wellbeing. Both are right about something.
+5. **A letter telling a staff member their role is redundant.** Corner D. Entitlements, law, and a livelihood. AI can help with structure. A person owns every word and figure.
+
+Two spares, for the pattern. Meeting minutes from your own notes are corner A, because you were there and minutes get corrected at the next meeting. A dosage or safety figure in a site procedure is corner D, because precise meets safety, and a person sources it and signs it.
+
+::: {.callout-note title="Key idea"}
+When people disagree about a corner, they almost always disagree about stakes, not precision. And stakes depend on who sees the output next. A formula in a budget spreadsheet is corner C if you will check it before it leaves you. It becomes corner D the moment it feeds a decision without another pair of eyes.
+:::
+
+## Two traps that distort placement
+
+**Gell-Mann amnesia**, from Chapter 1, pushes everything in your own field toward D and everything outside it toward A. That is exactly backwards. Your expertise is a checking instrument. Where you lack it, the output needs more outside verification, not less.
+
+The mirror-image trap is the **AI dismissal fallacy**: "that's just ChatGPT" offered as a critique. It is a refusal to engage, not an argument. Judge the reasoning, not where it came from. A correct claim from a tool is still correct, and a polished claim from a person can still be wrong.
+
+## Practise until it is a reflex
+
+::: {.callout-tip title="Try this: place three tasks from your week (15 minutes)"}
+1. List three tasks from your own week where you used AI, or wanted to.
+2. Place each one in a corner. Write down the check the corner calls for.
+3. Swap with a colleague, or argue the opposite corner yourself. Where do you disagree, and is the disagreement really about who sees the output next?
+
+The online Trust Tool game at [trusttool.borck.education](https://trusttool.borck.education/) gives you ten scenarios from a domain you choose, with an explanation on every card. Ten minutes of play does more than an hour of reading about the grid.
+:::
+
+## Three rules before you paste
+
+Placement protects what comes out. One more habit protects what goes in.
+
+1. **Classify it, then pick the tool.** Know whether your material is public, internal, or confidential, and which tools your organisation has approved for each kind.
+2. **Leave out what identifies people.** Names, client details, and personal information rarely change what the tool produces. Describe the case instead.
+3. **Know what the tool remembers.** Check the training, memory, and history settings of any tool you use for work, and review them when the product changes.
+
+Appendix D develops all three, with Australia's six essential practices and the privacy rule for automated decisions.
+
+## What to carry forward
+
+- Two questions: how exact, and what if wrong. The corner sets the check.
+- Disagreement about corners is usually disagreement about stakes. Stakes live with the next reader.
+- Check from outside the tool. "Are you sure?" is not a check.
+- Classify before you paste. Leave out what identifies people.
+
+You can now decide how much any output can be trusted. Part 2 is about the other half of the exchange: asking well enough that the first output deserves your time.

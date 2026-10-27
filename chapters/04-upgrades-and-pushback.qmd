@@ -1,0 +1,78 @@
+<!-- Seed chapter: seeded from site/tools.md (upgrades, push back),
+     site/prompts.md, and site/go-deeper.md, October 2026.
+     Editorial pass pending. Source archive: notes/source-site/. -->
+
+# Upgrades and Pushback {#sec-upgrades}
+
+> *Add one upgrade before you rewrite from scratch. Push back before you believe.*
+
+## Still weak? Add one upgrade
+
+A solid RTCF brief on a strong model usually lands close. Two situations still produce weak output. The task is long or multi-part, so the tool spreads itself thin. Or your organisation has approved a smaller, older, or cheaper model, which needs more scaffolding than the flagship in the advertisements.
+
+In both cases, resist the urge to rewrite the whole prompt. Add one upgrade.
+
+| Upgrade | Line to add | Use it when |
+|---|---|---|
+| + Example | `Match the length and tone of this example: [paste one you liked]. Don't copy its content.` | The shape is wrong, whatever you say |
+| + Done | `Done means under 200 words, figures only from my notes, and anything you're unsure of marked [CHECK].` | Output keeps missing the same way |
+| + Questions | `Before you start, ask me up to five questions, one at a time.` | You don't yet know what context it needs |
+| + Steps | `Give me an outline only. We'll draft one section at a time.` | Long work, or a weaker model |
+
+**Example is the strongest single upgrade.** One artefact you already like (a past update, a good email, last quarter's brief) communicates length, tone, and structure faster than any description of them. Chapter 5 turns this into teaching the tool your voice.
+
+**Done converts omission into a visible mark.** The `[CHECK]` instruction matters. Without it, a model fills a gap with a plausible guess. With it, the gap arrives labelled. You still verify from outside. Now you know where to look.
+
+**Questions reverse the briefing.** If you cannot tell what context is missing, let the tool ask. Cap the number, and ask for one at a time, or you will get a questionnaire instead of a conversation.
+
+**Steps protect quality on long jobs.** An outline first means structure is agreed before prose exists. Section by section means each part gets the tool's full attention, and your corrections land early, while they are cheap.
+
+## Push back: three ways
+
+Models are tuned on human approval, and people prefer agreeable answers. The result is sycophancy: the tool endorses your plan, praises your draft, and folds the moment you disagree with it. An agreeable second opinion is worth nothing. You already had that opinion. It was yours.
+
+Ask badly ("what do you think?") and you will get flattery. Ask for attack, and you get something useful.
+
+| Move | Line to add |
+|---|---|
+| **Guardrail** | `Only change your assessment if I give you a new fact. Name the fact that changed it.` |
+| **Devil's advocate** | `Don't flatter me. Give me three reasons this fails, and name the assumption it all rests on.` |
+| **Board of directors** | `Respond as a board: a CFO, a sceptical customer, and a frontline manager. One paragraph each, then where they disagree.` |
+
+The guardrail is for analytical work, where you plan to add information in stages and need to know what moved the answer. The devil's advocate is for plans and drafts you are fond of, which is exactly when you need it. The board is for decisions, where the disagreement between perspectives is the valuable part. Read the disagreement paragraph twice. It usually names the real trade-off.
+
+::: {.callout-warning title="Watch out"}
+Long chats drift toward your view. The tool has your framing, your vocabulary, and your earlier conclusions in front of it, and agreement gets easier with every turn. For an independent read on something that matters, start a fresh chat, brief it cold, and compare. Two-chat discipline returns in Chapter 5.
+:::
+
+## The three cognitive traps, revisited
+
+Pushback is the behavioural fix for traps worth naming together, because knowing their names is the first defence.
+
+- **Gell-Mann amnesia.** Sharp where you know, trusting where you don't. Be more sceptical where you know less.
+- **The AI dismissal fallacy.** "That's just ChatGPT" is not a critique. Judge the reasoning, not the source.
+- **Sycophancy.** The tool agrees because agreement was rewarded in training. Treat agreement as no evidence at all.
+
+None of these are technical problems. All three are human ones, which is why a model upgrade will not fix them.
+
+## Practice: upgrade and save
+
+::: {.callout-tip title="Try this: build the start of a library (25 minutes)"}
+1. Take your best prompt from Chapter 3. Add one upgrade. Run it in a fresh chat.
+2. Apply one push-back move to the output. Note what changed, and whether the change was earned by a new fact or was just folding.
+3. Repeat for two more tasks from your week.
+4. Save all three prompts, each with a name, the situation it is for, and the check its output needs (its Trust Tool corner from Chapter 2).
+
+Three saved prompts, each paired with its check, is a personal prompt library. It is also the masterclass promise: you leave with tools that fit your role, not a list of someone else's. The prompt builder on the course site formats and exports a library like this. A plain text file works just as well.
+:::
+
+Fast finishers in the room do the voice pass here: give the tool a 100-word sample of your own writing, have it rewrite its output in your voice, and ask it to describe the voice as a short style brief. That is the bridge to the next chapter.
+
+## What to carry forward
+
+- Weak output gets one upgrade, not a new prompt. Example first, then Done, Questions, or Steps.
+- Agreement is not evidence. Ask for the three reasons it fails.
+- Fresh chats think independently. Long chats agree with you.
+- Save what works, with its check attached.
+
+You now have briefs that work once. Chapter 5 makes them work every time: your voice, your standing brief, and the discipline of separating thinking from building.

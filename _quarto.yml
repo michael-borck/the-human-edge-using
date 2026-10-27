@@ -1,0 +1,113 @@
+project:
+  type: book
+  output-dir: _book
+  resources:
+    - LICENSE
+    - LICENSE-CONTENT.md
+    - LICENSE-CODE.md
+    - resources/**
+    - tools/**
+
+book:
+  cover-image: cover.png
+  title: "The Human Edge"
+  subtitle: "Using AI with Judgement"
+  author: "Michael Borck"
+  date: today
+  license: "CC BY 4.0 International"
+  favicon: favicon.svg
+  page-navigation: true
+  description: "When everyone has the same AI tools, generic competence is the baseline. The edge is judgement: knowing what to ask, when to trust the answer, and where a person stays in charge. A field guide for professionals, built from the Curtin Executive Education masterclass of the same name."
+  site-url: https://michael-borck.github.io/the-human-edge-using
+  repo-url: https://github.com/michael-borck/the-human-edge-using
+  repo-branch: main
+  chapters:
+    - index.qmd
+    - copyright.qmd
+    - part: "Part 1 · Judge: How much should I trust this output?"
+      chapters:
+        - chapters/01-the-convincing-average.qmd
+        - chapters/02-the-trust-tool.qmd
+    - part: "Part 2 · Brief: How do I ask for what I need?"
+      chapters:
+        - chapters/03-brief-like-a-colleague.qmd
+        - chapters/04-upgrades-and-pushback.qmd
+        - chapters/05-teach-it-your-voice.qmd
+    - part: "Part 3 · Check: How do I know it's right?"
+      chapters:
+        - chapters/06-the-check-loop.qmd
+        - chapters/07-vet-and-the-quiet-defaults.qmd
+        - chapters/08-decide-like-me.qmd
+    - part: "Part 4 · Deliver: Will it work every week?"
+      chapters:
+        - chapters/09-the-opportunity-finder.qmd
+        - chapters/10-design-the-human-in.qmd
+        - chapters/11-keep-the-learning.qmd
+  appendices:
+    - appendices/a-the-four-tools.qmd
+    - appendices/b-starter-prompts.qmd
+    - appendices/c-the-eight-exercises.qmd
+    - appendices/d-responsible-use.qmd
+    - appendices/e-beyond-the-day.qmd
+    - appendices/f-further-reading.qmd
+    - acknowledgments.qmd
+    - about-author.qmd
+  other-links:
+    - text: Download PDF
+      icon: file-pdf
+      href: /the-human-edge-using.pdf
+    - text: Download EPUB
+      icon: book
+      href: /the-human-edge-using.epub
+    - text: Download llm.txt
+      icon: robot
+      href: llm.txt
+    - text: The masterclass
+      icon: mortarboard
+      href: https://michael-borck.github.io/the-human-edge/
+    - text: GitHub
+      icon: github
+      href: https://github.com/michael-borck/the-human-edge-using
+    - text: DeepWiki
+      icon: search
+      href: https://deepwiki.com/michael-borck/the-human-edge-using
+    - text: "Companion: Conversation, Not Delegation"
+      icon: chat-left-text
+      href: https://michael-borck.github.io/conversation-not-delegation/
+    - text: All Books
+      icon: collection
+      href: https://books.borck.education
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: [styles.css, book-design.css]
+    include-after-body: chatbot.html
+    toc: true
+    toc-depth: 3
+    number-sections: true
+  pdf:
+    pdf-engine: lualatex
+    fontsize: 11pt
+    linestretch: 1.08
+    documentclass: book
+    toc: true
+    toc-depth: 1
+    number-sections: true
+    geometry:
+      - paperwidth=6in
+      - paperheight=9in
+      - inner=1in
+      - outer=0.625in
+      - top=0.75in
+      - bottom=0.75in
+    include-in-header: [pdf-header.tex, book-design.tex]
+    include-before-body:
+      - copyright-page.tex
+  epub:
+    epub-cover-image: cover.png
+    toc: true
+    toc-depth: 1
+    css: [epub-styles.css, book-design-epub.css]

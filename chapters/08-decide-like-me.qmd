@@ -1,0 +1,114 @@
+<!-- Seed chapter: seeded from site/decide-like-me.md and the facilitator
+     guide Session 3 notes, October 2026. Method after Dylan Davis.
+     Editorial pass pending. -->
+
+# Decide Like Me {#sec-decide-like-me}
+
+> *Teach it your rules. Keep the call.*
+
+## The decision in your head
+
+Every experienced professional makes some decision over and over. Which enquiries get a same-day reply. Which invoices get queried. Which requests go up to a senior colleague, and which ones you absorb.
+
+You are probably good at yours. You are also probably unable to say exactly how you do it. Ask, and the honest answer comes out. "It depends."
+
+This chapter gets that reasoning out of your head and into if-then rules, then tests the rules against calls you have already made. The method comes from Dylan Davis. The wording, examples, and limits here are the course's own, and one limit matters from the start. The rules draft the call. You still make it. Davis goes further and lets the tool decide alone once the rules pass their test. This book stops short of that, for reasons the end of the chapter makes plain.
+
+The prize is bigger than saved time, though it saves time. Most people who do this exercise learn something about their own judgement they did not know. That discovery is the chapter.
+
+Pick the decision with care. It should repeat, you should be able to explain it at least roughly, and you should have past cases to test against. Leave anything in the top-right corner of the Trust Tool alone. Writing a decision down does not lower its stakes.
+
+## Say, interview, or mine
+
+Start with one question. Could you tell a new starter, out loud, why you decide the way you do?
+
+If yes, **Say** it. Talk it through and let the tool transcribe. People trim the exceptions when they type. Spoken, the exceptions stay in, probably because talking feels less like publishing. Then have the tool ask three to five follow-up questions, one at a time, to fill the gaps.
+
+If your answer is "it depends", take the **Interview**. The tool questions you in turn, building each question on your last answer, until every "it depends" has become a branch. Fifteen to twenty questions usually does it. "It depends" always means a rule exists that has not been put into words yet. A team lead who says same-day replies depend, pushed a little, produces this. An existing client with a deadline this week gets a reply today. A general enquiry waits for the Monday batch. Those branches are the rules.
+
+If you cannot explain it but the record exists, **Mine** it. Give the tool past cases with what came in and what you decided. It works backward to the rules you were actually following, including ones you never wrote down and may not love once you see them.
+
+Appendix B has the interview and mining prompts ready to copy.
+
+Mining comes with a warning that deserves its own paragraph. Showing a tool your past decisions means showing it your clients. Classify before you paste, strip names and identifiers, or describe the cases instead of pasting them. Chapter 2's rules apply with full force here, because the material feels internal and safe in a way that invites carelessness.
+
+## Save the rules, short
+
+Stay in the same chat, while it still holds the conversation, and ask:
+
+```text
+Write these decision rules up as a short brief I can reuse on new cases
+of this decision. Take out the names, clients and figures from the cases
+we talked about, and keep the rules.
+```
+
+Keep the result to about a screen of if-then lines. A brief stuffed with history and anecdotes buries the rules, and the tool gives buried rules less weight. This cuts against the + Example habit from Chapter 4, and that is fine. An example teaches tone and shape. Here the rules are the content, and real cases drag client detail along with them. If a rule truly needs an example, invent one.
+
+Save the brief where your tool keeps standing instructions, the same place Chapter 5 put your voice. Agent tools call a saved brief like this a skill. Whatever the label, it is the finished form of the prompt library you started in Chapter 4. Your judgement, written down, reusable.
+
+## Test it blind
+
+Now the part people skip, which is the part that makes any of this trustworthy.
+
+Take three to five cases you have already decided. Mix routine ones with at least one awkward case. Write down the inputs only, what you knew at the time, with your decision removed. Write your own calls on paper first, before running anything. Then open a new chat, load only the saved rules, and ask for a call on each case with the rule it used and brief reasoning.
+
+Put the results side by side.
+
+| Case | Its call | Your call | Result |
+|---|---|---|---|
+| 1 | Same day. Existing client, deadline Friday | Same day | Match |
+| 2 | Monday batch. General question about services | Monday batch | Match |
+| 3 | Monday batch. New contact, no deadline | Same day. Referred by a current client | Mismatch |
+
+Case 3 earns the exercise its keep. You answer referrals the same day. You never said so, possibly never noticed. The rules did exactly what you told them. You just had not told them everything.
+
+Expect about four matches in five on a first run. Resist pushing for five. The mismatch is where the learning sits, and mismatches come in three recurring kinds.
+
+A **threshold never put into words**. You had a cut-off in mind, an amount, a wait time, a risk level, and it never made it into the brief.
+
+An **exception applied without noticing**. A referral. A precedent. A long relationship that quietly changes the rule.
+
+A **loose rule applied strictly**. You treat something as a preference, a tie-breaker. Written down, it hardened into a requirement, and the tool obeyed the hard version.
+
+Each kind tells you something true about how you work. I have watched people stare at a mismatch table for a long moment, then start explaining their job to their neighbour with more clarity than they had managed in years. That alone justifies the half hour.
+
+## Fix it, then test again somewhere clean
+
+Add the missing rule as one if-then line. Leave the other rules alone. Add no explanation. Then run the whole batch again in a new chat.
+
+The new chat is not fussiness. The chat where you built the rules watched you decide. It can pass the test from memory, the way a student passes with the answers open. A fresh chat with only the rules loaded tests the rules themselves. Chapter 2 again. Check from outside.
+
+Two practical notes. Models are not deterministic, so the same case can flip on a second run. One flip does not mean the rules broke. Judge the batch, and re-run any case that matters before relying on it. And expect the tool to praise its own rules at every stage. Sycophancy, Chapter 4. The blind test exists precisely because the tool cannot agree with an answer it has not seen.
+
+In class, four from five is a good result and we move on. At work, hold a harder line. Every case in the batch matches, in a new chat, before the rules go anywhere near a live decision.
+
+## After you sign it off
+
+The rules draft the call. You make it. Hold that line even when the test results look perfect, and hold it for practical reasons, not sentiment.
+
+Place every new case on the Trust Tool. The rules came from you, so the accountability did too. A case outside the rules' experience, or one where the stakes jump, goes back to being your decision without a draft.
+
+Keep a person in the loop wherever the decision affects someone, and tell people when a tool drafted a decision about them. In Australia this stops being courtesy on 10 December 2026. From that date the Privacy Act requires an organisation's privacy policy to say where a computer program makes, or substantially informs, a decision that could significantly affect a person's rights or interests using their personal information (APP 1.7 to 1.9). Saved decision rules can fall squarely inside that. If your team uses rules like these on decisions about people, tell whoever owns your privacy policy. Appendix D has the OAIC guidance.
+
+Set a 30-day gate, the same as any delivery in Part 4. Are the rules holding up? Does checking their drafts cost more than deciding unaided? Scale, pivot, or kill on the evidence. Then re-test each quarter. Models change. So do your rules, and so does the work.
+
+::: {.callout-tip title="Try this: Decide Like Me (25 minutes)"}
+Bring one repeatable decision and three past cases. Nothing usable without client detail? Appendix C has decision cards, each with past calls, test cases, and an answer key hiding a different kind of mismatch.
+
+1. Get the rules out by Say, Interview, or Mine (10 min).
+2. Save them as a short brief, names and figures removed (3 min).
+3. Write your calls for the test cases first. Run the cases blind in a new chat (7 min).
+4. Compare. Name each mismatch: threshold, exception, or loose rule made strict. Fix one, re-test clean if time allows (5 min).
+5. Answer the last question in writing. What would I never let it decide?
+:::
+
+That last question is the argument of this book in one line. The rules that pass can draft the routine calls. The cases no rule caught, the exceptions, the judgement calls with a person on the other end, are where your edge earns its keep. Keep those cases. They show what a page of rules cannot do, and they are exactly what to talk through in person when you teach someone the job.
+
+## What to carry forward
+
+- "It depends" means an unwritten rule. Say, Interview, or Mine gets it into words.
+- Save rules short and clean. No names, no client figures, no anecdotes.
+- Test blind, in a new chat, against calls you wrote down first. Four from five teaches more than five from five.
+- The rules draft. You decide. Some decisions never get a draft at all.
+
+You can brief, trust, and check at your own desk. Part 4 takes the same discipline into shared work, where a workflow has to hold up every week, for other people as well.
