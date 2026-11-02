@@ -102,6 +102,16 @@ Bring one repeatable decision and three past cases. Nothing usable without clien
 
 The rules that pass can draft the routine calls. The cases no rule caught, the exceptions, the judgement calls with a person on the other end, are where your edge earns its keep. Keep those cases. They show what a page of rules cannot do, and they are what to talk through in person when you teach someone the job.
 
+## The rules cannot carry the room
+
+A rule handles the cases it has seen. The live decision brings facts the rule has not met: a late constraint, a change in the relationship, a detail that matters only today. The rule can still draft a call. It cannot see the room.
+
+**The brief is a photograph. The decision is the room.** The photograph is useful. It carries the stable context, the thresholds you have made explicit, and the exceptions you have learned to name. It cannot carry the weather.
+
+Two habits keep the distinction honest. When a case arrives with new facts, say so before you load the rules. When the stakes rise, stop drafting and decide. The rules give you a head start. Attention still decides.
+
+The tool's confidence is least useful here. A model can produce a fluent call for a case it does not understand. Check whether the rules still fit the case in front of you, rather than whether the answer sounds consistent with them.
+
 ## What to carry forward
 
 - "It depends" means an unwritten rule. Say, Interview, or Mine gets it into words.

@@ -103,7 +103,11 @@ If that makes you ask whether you should trust it, Chapter 1 gives you a tool fo
 
 The online version is always the most current.
 
-## The companion books
+## Where this book sits
+
+The series has a conceptual trunk and domain branches. [*Conversation, Not Delegation*](https://michael-borck.github.io/conversation-not-delegation/) is the method; this book is the practice. The branches take those habits into code, web work, security, teaching, evidence and building with agents.
+
+The trunk was named after the branches grew. The books came first, and the same ideas kept returning under different names. Naming them now makes the relationship explicit; it does not make the series a hierarchy.
 
 | Route | Start here | Continue with |
 |---|---|---|
@@ -111,5 +115,7 @@ The online version is always the most current.
 | Choosing AI investments | The Human Edge: Using AI with Judgement | The Human Edge: Leading AI with Judgement (in development) |
 | Evaluating applied AI | Prove, Don't Persuade | Substantiate, Don't Assume |
 | Teaching with AI | Partner, Don't Police | Conversation, Not Delegation |
+| Building with agents | Speak Software | Build AI, Understand AI |
+| Understanding the machinery | Build AI, Understand AI | Speak Software |
 
 Start here if you want judgement at your own desk first. Start with *Conversation, Not Delegation* if you want the general method of thinking with AI before the workplace tools.

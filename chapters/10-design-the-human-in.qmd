@@ -8,7 +8,7 @@
 
 ## Why AI projects fail differently
 
-AI projects do not fail more often than other projects, in my experience. They fail differently. Five assumptions that hold up fine on ordinary work break on contact with AI, and each break has a design response.
+AI projects do not fail more often than other projects, in my experience. They fail differently. Six assumptions that hold up fine on ordinary work break on contact with AI, and each break has a design response.
 
 **"Done" can be specified.** Ordinary software has right answers. AI output varies. It produces a spread of responses, some better than others, and the same input can land differently tomorrow. So decide in advance what good enough means for this workflow, in words a checker can use. Without that line, every output starts an argument.
 
@@ -20,7 +20,25 @@ AI projects do not fail more often than other projects, in my experience. They f
 
 **Capability is our edge.** Everyone has access to the same models, including the competitor across town and the team down the corridor. If the workflow's value rests only on the tool doing something fluent, that value evaporates on contact. Compete on what the tool cannot supply. Your data, your context, your people's judgement.
 
-Two of these five do most of the damage in practice. The demo trap and the data surprise between them account for a large share of the stalled pilots people describe to me. Both have the same cure: small scope, real inputs, and a date where the evidence gets judged.
+**The interaction is the product.** Some steps are valuable because a person is doing them. Automate the preparation and you can keep the value. Automate the presence and you remove the reason the other person engaged.
+
+Two of these six do most of the damage in practice. The demo trap and the data surprise between them account for a large share of the stalled pilots people describe to me. Both have the same cure: small scope, real inputs, and a date where the evidence gets judged.
+
+## Some steps are the service
+
+The interaction failure is easy to miss because the automation works exactly as specified.
+
+A professional services team automated its weekly client update. The draft was assembled from the project notes, checked against the plan, and sent in the client's preferred format. Response rates fell. The clients had not been reading the update for the timetable. They had been reading it as a signal that someone was paying attention. The automation preserved the information and removed the signal. A better email would not fix it. A short call from the account lead did, using the draft as notes.
+
+Call this the step that should never have been automated. Some steps only work when a person does them. A complaint reply, a welcome message, a performance conversation, a sensitive renewal: the words can be drafted, but the presence is the service. Automate the preparation and the value can survive. Automate the presence and the other person notices, even when they cannot say what changed.
+
+Ask one question: what is the person contributing in this step? If the answer is attention, reassurance, authority, or a relationship, keep the person in the step. AI can prepare the notes, summarise the history, or list the options. A person still makes the call, signs the message, or sits in the room.
+
+The multiplier can also work against you. AI is a multiplier, and multipliers multiply whatever you feed them. Feed it a good draft and a clear check, and it multiplies your capacity. Feed it a relationship and remove the person, and it multiplies the absence.
+
+The multiplier does not decide whether you become more capable or more dependent. Feed it judgement, context, curiosity and collaboration, and it multiplies capability. Feed it passivity, and it multiplies dependence.
+
+Most steps are not the service. The minutes, the first draft, the comparison table, the reminder: automate those and keep the human attention for the steps that earn it. Ask what is lost if no person does it, rather than only whether AI can.
 
 ## Four decisions before you start
 
@@ -55,6 +73,14 @@ At the gate, three honest calls exist.
 Killing is a good outcome and this book means that plainly. You found where the line is, cheaply, with evidence. The expensive outcome is the fourth one nobody lists: drift. The workflow neither scales nor dies, the checking thins out because nobody owns it, and a year later nobody can say what it saves or who verified last month's output.
 
 Three mistakes gather at gates. Sunk cost, where spent effort argues for continuing. Cherry-picking, where the measures that passed get quoted and the others get lost. And treating "not perfect" as "broken", which kills workflows that were genuinely better than the baseline. Judge against the criteria written at the start. That sentence is easy to say in October and hard to honour in November, which is why the criteria exist on paper.
+
+## Add a chair, not a replacement
+
+The strongest workflows do more than save time. They change who can take part. A tool that drafts the first pass lets a junior join a task that used to require a senior. A shared brief lets a colleague in another office contribute without a meeting. A summary that arrives before the discussion lets the quiet person speak with the same information as the loud one.
+
+The collaboration case for AI is stronger than the headcount case. The value sits in the connections between people. Headcount alone does not create them. Groups can coordinate more than individuals, and they can also waste more time, repeat each other, and agree too quickly. Lowering the cost of connection does not remove those problems. It makes the design of the connection more important.
+
+Ask who is missing from the workflow, and whether the tool can bring them in. Add a chair at the table. Do not remove the person already sitting there.
 
 ## Agents, briefly
 
