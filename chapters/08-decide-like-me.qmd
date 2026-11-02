@@ -14,7 +14,7 @@ You are probably good at yours. You are also probably unable to say exactly how 
 
 This chapter gets that reasoning out of your head and into if-then rules, then tests the rules against calls you have already made. The method comes from Dylan Davis. The wording, examples, and limits here are the course's own, and one limit matters from the start. The rules draft the call. You still make it. Davis goes further and lets the tool decide alone once the rules pass their test. This book stops short of that, for reasons the end of the chapter makes plain.
 
-The prize is bigger than saved time, though it saves time. Most people who do this exercise learn something about their own judgement they did not know. That discovery is the chapter.
+The prize is bigger than saved time, though it saves time. Most people who do this exercise learn something about their own judgement they did not know.
 
 Pick the decision with care. It should repeat, you should be able to explain it at least roughly, and you should have past cases to test against. Leave anything in the top-right corner of the Trust Tool alone. Writing a decision down does not lower its stakes.
 
@@ -42,13 +42,11 @@ of this decision. Take out the names, clients and figures from the cases
 we talked about, and keep the rules.
 ```
 
-Keep the result to about a screen of if-then lines. A brief stuffed with history and anecdotes buries the rules, and the tool gives buried rules less weight. This cuts against the + Example habit from Chapter 4, and that is fine. An example teaches tone and shape. Here the rules are the content, and real cases drag client detail along with them. If a rule truly needs an example, invent one.
+Keep the result to about a screen of if-then lines. A brief stuffed with history and anecdotes buries the rules, and the tool gives buried rules less weight. This cuts against the + Example habit from Chapter 4, and that is fine. An example teaches tone and shape. Here the rules are the content, and real cases drag client detail along with them. If a rule needs an example, invent one.
 
-Save the brief where your tool keeps standing instructions, the same place Chapter 5 put your voice. Agent tools call a saved brief like this a skill. Whatever the label, it is the finished form of the prompt library you started in Chapter 4. Your judgement, written down, reusable.
+Save the brief where your tool keeps standing instructions, the same place Chapter 5 put your voice. Agent tools call a saved brief like this a skill. Whatever the label, it is the finished form of the prompt library you started in Chapter 4.
 
 ## Test it blind
-
-Now the part people skip, which is the part that makes any of this trustworthy.
 
 Take three to five cases you have already decided. Mix routine ones with at least one awkward case. Write down the inputs only, what you knew at the time, with your decision removed. Write your own calls on paper first, before running anything. Then open a new chat, load only the saved rules, and ask for a call on each case with the rule it used and brief reasoning.
 
@@ -66,7 +64,7 @@ Expect about four matches in five on a first run. Resist pushing for five. The m
 
 A **threshold never put into words**. You had a cut-off in mind, an amount, a wait time, a risk level, and it never made it into the brief.
 
-An **exception applied without noticing**. A referral. A precedent. A long relationship that quietly changes the rule.
+An **exception applied without noticing**: a referral, a precedent, or a long relationship that changes the rule.
 
 A **loose rule applied strictly**. You treat something as a preference, a tie-breaker. Written down, it hardened into a requirement, and the tool obeyed the hard version.
 
@@ -78,7 +76,7 @@ Add the missing rule as one if-then line. Leave the other rules alone. Add no ex
 
 The new chat is not fussiness. The chat where you built the rules watched you decide. It can pass the test from memory, the way a student passes with the answers open. A fresh chat with only the rules loaded tests the rules themselves. Chapter 2 again. Check from outside.
 
-Two practical notes. Models are not deterministic, so the same case can flip on a second run. One flip does not mean the rules broke. Judge the batch, and re-run any case that matters before relying on it. And expect the tool to praise its own rules at every stage. Sycophancy, Chapter 4. The blind test exists precisely because the tool cannot agree with an answer it has not seen.
+Two practical notes. Models are not deterministic, so the same case can flip on a second run. One flip does not mean the rules broke. Judge the batch, and re-run any case that matters before relying on it. And expect the tool to praise its own rules at every stage (sycophancy, Chapter 4). The blind test exists because the tool cannot agree with an answer it has not seen.
 
 In class, four from five is a good result and we move on. At work, hold a harder line. Every case in the batch matches, in a new chat, before the rules go anywhere near a live decision.
 
@@ -102,7 +100,7 @@ Bring one repeatable decision and three past cases. Nothing usable without clien
 5. Answer the last question in writing. What would I never let it decide?
 :::
 
-That last question is the argument of this book in one line. The rules that pass can draft the routine calls. The cases no rule caught, the exceptions, the judgement calls with a person on the other end, are where your edge earns its keep. Keep those cases. They show what a page of rules cannot do, and they are exactly what to talk through in person when you teach someone the job.
+The rules that pass can draft the routine calls. The cases no rule caught, the exceptions, the judgement calls with a person on the other end, are where your edge earns its keep. Keep those cases. They show what a page of rules cannot do, and they are what to talk through in person when you teach someone the job.
 
 ## What to carry forward
 

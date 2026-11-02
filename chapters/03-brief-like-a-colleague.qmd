@@ -10,9 +10,9 @@
 
 Most professional frustration with AI has the same shape. You type a short request, the way you would type a search query. Back comes something generic: correct in outline, useless in detail, written for nobody in particular. You conclude the tool is overrated, or you spend ten turns nudging it toward what you needed.
 
-The tool was not the main problem. The brief was. A language model fills gaps with the average. Every detail you leave out (the audience, the history, the constraint, what good looks like) comes back as a guess, and the guesses are what make output feel generic.
+The brief was the main problem. A language model fills gaps with the average. Every detail you leave out (the audience, the history, the constraint, what good looks like) comes back as a guess, and the guesses are what make output feel generic.
 
-Write the prompt the way you would brief a smart, fast colleague who is new to your job. That sentence contains nearly everything this chapter teaches. RTCF is the checklist that makes it repeatable.
+Write the prompt the way you would brief a smart, fast colleague who is new to your job. RTCF is the checklist that makes it repeatable.
 
 ## RTCF: Role, Task, Context, Format
 
@@ -67,7 +67,7 @@ RTCF shapes the prompt you type for one job. It also shapes the standing brief y
 
 The standing brief holds what is true every time: who it writes as, the context that does not change, your usual format, and your definition of done. The Task stays in each chat. Chapter 5 builds that brief, and Appendix E shows where each product keeps it.
 
-When a vendor demo claims the AI "understands you", look for this setting. It is a text box. By the end of Part 2, you will have written a better one.
+When a vendor demo claims the AI "understands you", look for this setting: it is a text box, and by the end of Part 2 you will have written a better one.
 
 ## Practice: brief it, score it
 

@@ -14,13 +14,11 @@ Ask an AI tool for a plan, a brief, or an analysis. Forward what comes back. The
 
 Programmers have a name for the coding version of this. Vibe coding means describing software, accepting what the tool produces, and not reading the code. The professional version deserves the same name: **vibe professionalism**. It is reports, analyses, and proposals produced on vibes, polished output with no judgement behind it.
 
-This book is the alternative. Not slower work, and not refusing the tools. The same tools, used with judgement: briefed well, placed before they are trusted, checked from outside, and delivered with a person visibly in charge.
+The alternative is the same tools, used with judgement and without slowing the work: briefed well, placed before they are trusted, checked from outside, and delivered with a person visibly in charge.
 
-To use them that way, you need ten minutes of background. Not computer science. Just enough to know what kind of thing you are talking to, and why it fails the way it does.
+To use them that way, you need ten minutes of background and no computer science: just enough to know what kind of thing you are talking to, and why it fails the way it does.
 
 ## AI is a bigger pie
-
-"AI" covers a lot.
 
 **Machine learning** learns patterns from data rather than following hand-written rules. It sits behind fraud scores, demand forecasts, spam filters, and recommendations. It is probably already running inside your organisation, whether anyone calls it AI or not.
 
@@ -58,9 +56,9 @@ Read the right-hand column as the agenda for this book. Context is fixed by brie
 
 You have spent your career learning to spot weak work. A rushed draft looks rushed. Gaps show. A junior colleague who is guessing sounds like it.
 
-AI output breaks that signal. Its wrong answers arrive polished, complete, and confident. They use the same headings, the same tone, and the same level of detail as its right answers. So the alarm you normally rely on stays quiet exactly when you need it.
+AI output breaks that signal. Its wrong answers arrive polished, complete, and confident. They use the same headings, the same tone, and the same level of detail as its right answers. So the alarm you normally rely on stays quiet when you need it.
 
-There is a second, quieter version of the same trap. You catch the tool's errors easily in your own field. Then you trust it on the law, the market, or the numbers, exactly where you are least able to check. Michael Crichton named this pattern in 2002, after the physicist Murray Gell-Mann: **Gell-Mann amnesia**. Chapter 7 gives you a method for it. For now, hold the rule: be most sceptical where you know least.
+There is a second, quieter version of the same trap. You catch the tool's errors easily in your own field. Then you trust it on the law, the market, or the numbers, where you are least able to check. Michael Crichton named this pattern in 2002, after the physicist Murray Gell-Mann: **Gell-Mann amnesia**. Chapter 7 gives you a method for it. For now, hold the rule: be most sceptical where you know least.
 
 ::: {.callout-warning title="Watch out"}
 The most dangerous output is not the obvious mistake. It is the one that sounds completely right. Polish is part of the product. It tells you nothing about accuracy.
@@ -70,7 +68,7 @@ The most dangerous output is not the obvious mistake. It is the one that sounds 
 
 The first habit costs five minutes and protects everything after it. Before you give a task that matters to AI, do a rough pass yourself.
 
-Not a finished draft. A sketch: the structure you would use, the three points that matter, the figure you expect to be roughly true. Then run the AI. Then compare.
+A sketch is enough: the structure you would use, the three points that matter, the figure you expect to be roughly true. Then run the AI. Then compare.
 
 The comparison is where the value sits. Where you beat the tool is almost always context: the history, the politics, the thing nobody wrote down. Name that for what it is. That is your edge, and no model update takes it away. Where the tool beat you is a blind spot worth practising. Chapter 11 turns this into a weekly habit.
 

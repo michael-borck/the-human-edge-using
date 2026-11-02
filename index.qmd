@@ -10,7 +10,7 @@ A report arrives. It is fluent, well structured, and complete. So does a data br
 
 This book has a name for working that way without noticing: **vibe professionalism**. Vibe coding produces plausible software without understanding it. Vibe professionalism produces plausible reports, analyses, and proposals without briefing them well, checking what they rest on, or owning the decision they feed. The work looks professional. The professionalism is missing.
 
-The failure is hard to spot. A rushed human draft looks rushed, and gaps show. An AI output that is wrong arrives polished, complete, and confident, in the same tone as an output that is right. The instinct you have spent your career building, the one that tells you weak work when you see it, stays quiet exactly when you need it.
+The failure is hard to spot. A rushed human draft looks rushed, and gaps show. An AI output that is wrong arrives polished, complete, and confident, in the same tone as an output that is right. The instinct you have spent your career building, the one that tells you weak work when you see it, stays quiet when you need it.
 
 This book teaches the alternative. When everyone has the same tools, the edge moves to what the tool cannot manufacture: your judgement. That means knowing what to ask for, deciding how much to trust the answer, checking it from outside the tool, and keeping a person in charge where the stakes require it. You will practise each of those on your own work.
 
@@ -88,7 +88,7 @@ This book began as a one-day masterclass, *The Human Edge: Using AI with Judgeme
 
 It was written using the method it teaches. AI drafted, the author pushed back. Claims that sounded right were checked against the dataset and the sources. Every figure in the RetailFlow case was recomputed from the file readers download.
 
-If that makes you ask whether you should trust it, good. That question is Chapter 1, and this book gives you a tool for answering it about any output, including its own.
+If that makes you ask whether you should trust it, Chapter 1 gives you a tool for answering that question about any output, including this book's own.
 
 **Sources and credits.** Australian evidence in Chapter 11 draws on the Department of Employment and Workplace Relations (2026) and Jobs and Skills Australia (2025). The Decide Like Me method in Chapter 8 draws on Dylan Davis. "Gell-Mann amnesia" is Michael Crichton's term (2002), named after the physicist Murray Gell-Mann. The Trust Tool, RTCF, and conversation-not-delegation ideas are developed at greater length in *Conversation, Not Delegation*.
 

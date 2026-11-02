@@ -10,7 +10,7 @@
 
 Everything so far has lived at the scale of one person and one task. Part 4 changes the scale. A workflow other people depend on, running every week, with your name somewhere in its history.
 
-The questions change with the scale. Not "can AI do this?" because the answer is now nearly always "a demo can". The better questions run in order. Where in my week does AI actually fit? Who should lead each step, the tool or a person? What do I try first? The Opportunity Finder answers them in that order. Spot, Assign, Prioritise.
+The questions change with the scale. "Can AI do this?" is no longer the useful question, because the answer is now nearly always "a demo can". The better questions run in order. Where in my week does AI actually fit? Who should lead each step, the tool or a person? What do I try first? The Opportunity Finder answers them in that order. Spot, Assign, Prioritise.
 
 ## Spot: four signals
 
@@ -37,7 +37,7 @@ Break the candidate workflow into steps, then give each step an owner. Four assi
 
 The Trust Tool does the heavy lifting here. Steps in the green corner can be AI-led with a light review. Steps in the amber corners suit assist or you-lead, with the matching check. Steps in the top-right corner stay human only, whatever the demo showed.
 
-Be careful with a common slide. A step starts as "AI assists" in the design, then drifts into AI-led in practice because checking takes effort and the output mostly looks fine. Nobody decided that. It just happened on a busy Thursday. Chapter 10 designs against the drift by naming the checker in advance. For now, assign on the record.
+Be careful with a common slide. A step starts as "AI assists" in the design, then drifts into AI-led in practice because checking takes effort and the output mostly looks fine. Nobody decided that; it just happened on a busy Thursday. Chapter 10 designs against the drift by naming the checker in advance. For now, assign on the record.
 
 One deliberate choice is worth making at this stage. Keep at least one step human on purpose, even where AI could do it. Pick the step that teaches the work, the one where a junior learns what good looks like, or where you keep your own feel for the material. Chapter 11 explains why that choice compounds.
 

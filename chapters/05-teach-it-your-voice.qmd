@@ -18,7 +18,7 @@ Review the saved brief each quarter. Your role shifts, your standards sharpen, a
 
 ## Write like me
 
-The + Example upgrade from Chapter 4, made permanent.
+This makes the + Example upgrade from Chapter 4 permanent.
 
 1. **Give it a sample.** About 100 words of your own writing that sounds like you on a good day. Nothing you can paste? Write 100 words on why your current project matters. Spoken and transcribed also works, and often sounds more like you than typed text does.
 2. **Ask for a rewrite.** Have the tool rewrite a piece of its own generic output in the voice of the sample. Compare. Correct what it got wrong: too formal, sentences too long, a phrase you would never use.
@@ -39,7 +39,7 @@ One chat for everything produces one muddled artefact: half thinking, half draft
 2. **In between: you curate.** Read what came out. Keep what matters, drop what doesn't, and write a short, focused brief in your own words. Do not copy and paste the chat across. The curation is where your judgement lives.
 3. **Building chat.** A fresh chat that produces the output from your brief. Better input, better output, and no residue from your discarded first ideas.
 
-Neither chat holds the whole picture. Only you do. That is what "human in the loop" means in practice, at the scale of one professional and one task.
+Only you hold the whole picture, which is what "human in the loop" means in practice at the scale of one professional and one task.
 
 Two practical notes. First, for thinking out loud, the model barely matters. You are the filter, an average idea is a fine stimulus, and a small or local model is enough. Save the strongest tool you have for exact facts and data work. Second, dialogue works as a thinking method only if the other side pushes back. Research on teaching critical thinking finds dialogue one of the strongest levers available (Abrami et al., 2015). That research is about people talking with people. The AI version earns the same benefit only when you demand disagreement.
 
@@ -53,7 +53,7 @@ conversation: the context, the decisions made, open questions, and where
 we left off. I'll paste it into a new chat to continue.
 ```
 
-Read the handover before you reuse it. It is output, so it goes on the Trust Tool like anything else. Edit out the dead ends while you still remember they were dead ends. That edit is, again, the judgement.
+Read the handover before you reuse it. It is output, so it goes on the Trust Tool like anything else. Edit out the dead ends while you still remember they were dead ends.
 
 ## Practice
 
@@ -71,4 +71,4 @@ Read the handover before you reuse it. It is output, so it goes on the Trust Too
 - Think in one chat, build in another. You are the only one holding both.
 - Hand over deliberately when a chat gets long. Read the handover like any other output.
 
-Your briefs now produce output that sounds like you and fits your work. That makes the next part more important, not less. Output in your own voice is easier to forward without checking. Part 3 is the checking.
+Your briefs now produce output that sounds like you and fits your work. That makes the next part more important. Output in your own voice is easier to forward without checking. Part 3 is the checking.

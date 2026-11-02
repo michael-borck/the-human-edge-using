@@ -6,7 +6,7 @@ The free source and online edition are the primary versions. The book is built f
 
 ## Status
 
-Seed manuscript, October 2026. Chapters 1 to 11 and Appendices A and F were drafted for the book from the course deck, facilitator guide, and field guide. Appendices B to E were converted from the course companion site. Verbatim course sources are archived under `notes/source-site/` for provenance. Editorial pass, fresh-reader pass, ISBN, and print build are pending. See `EDITORIAL-REVISION.md`.
+Seed manuscript, October 2026. Chapters 1 to 11 and Appendices A and F were drafted for the book from the course deck, facilitator guide, and field guide. Appendices B to E were converted from the course companion site and reframed for book readers on 2026-11-02, when the online edition (HTML, PDF, EPUB, `llm.txt`) was first built locally through the shared publisher. Verbatim course sources are archived under `notes/source-site/` for provenance. A full editorial pass across the chapters, the fresh-reader pass, ISBN, and print proof are pending, as is first publish. See `EDITORIAL-REVISION.md`.
 
 The companion volume, *The Human Edge: Leading AI with Judgement*, is deliberately not part of this repo. Its course is still being redesigned. It gets its own book after it has run.
 

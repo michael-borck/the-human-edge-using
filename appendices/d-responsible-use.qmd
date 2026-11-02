@@ -1,15 +1,12 @@
 <!-- Seed appendix: converted from course site source (responsible-use.md), October 2026,
      by the one-off seed converter. Interactive elements removed; links
-     pointed at the live course site. Editorial pass pending. -->
+     pointed at the live course site. Editorial reframe for book readers,
+     November 2026: duplicated site introduction removed, room instructions
+     recast for readers and team meetings. -->
 
 # Responsible use {#sec-responsible-use}
 
 Data, bias, and ethics, where a person stays in charge. This appendix collects what the chapters treat in passing: Australia's six essential practices, proportionate data governance, the quiet defaults, and four dilemmas for a team meeting or a policy conversation. For governance, risk, and regulation in depth, Curtin Executive Education's *Ethics of Artificial Intelligence* masterclass is the companion offering.
-
-
-## Data, bias and ethics. Where a person stays in charge.
-
-These run through the whole day, from "three rules before you paste" to the human checkpoints in your delivery plan. Here they get their own space: for a fast-finisher activity, a team meeting, or a policy conversation at work.
 
 ## Australia's six essential practices
 
@@ -32,7 +29,7 @@ In October 2025 the Australian Government's [Guidance for AI Adoption](https://w
 
 Many organisations land on "don't put anything into AI". That treats every interaction as equally risky, and it mixes up a few real concerns with one imaginary one.
 
-**The real risk is the pipeline, not the model.** When you paste data into a tool, the exposure is transmission, storage, jurisdiction and contract: where it goes, who keeps it, under which law. It isn't someone later "extracting" your document from the model. Email, Slack and shared drives carry the same pipeline risks; AI only feels riskier because it's newer.
+**The risk sits in the pipeline.** When you paste data into a tool, the exposure is transmission, storage, jurisdiction and contract: where it goes, who keeps it, under which law. It isn't someone later "extracting" your document from the model. Email, Slack and shared drives carry the same pipeline risks; AI only feels riskier because it's newer.
 
 A proportionate approach:
 
@@ -41,11 +38,9 @@ A proportionate approach:
 3. **Manage the real risks.** Never paste passwords, API keys or access tokens. Remove personal details where you can. Know the provider's logging and retention terms.
 4. **Drop the imaginary one.** Stop treating "model extraction" as a likely threat, and put the effort where the exposure actually is.
 
-That's ordinary professional data hygiene, applied consistently.
-
 ### Set it up safely
 
-A checklist for your own accounts. Your organisation's AI policy and privacy officer have the final say on what's approved. The regulator agrees with the cautious line: the OAIC's [guidance on commercially available AI products](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-the-use-of-commercially-available-ai-products) says the Privacy Act applies to personal information you put into an AI tool, and to output that contains it, and recommends as best practice not entering personal information, especially sensitive information, into publicly available AI tools.
+A checklist for your own accounts. Your organisation's AI policy and privacy officer have the final say on what's approved. The regulator agrees with the cautious line. The OAIC's [guidance on commercially available AI products](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-the-use-of-commercially-available-ai-products) says the Privacy Act applies to personal information you put into an AI tool, and to output that contains it. It recommends, as best practice, not entering personal information, especially sensitive information, into publicly available AI tools.
 
 - **Two accounts: work and personal.** Client work only in a work account on a business plan your organisation has approved. Business plans generally don't train on your data and come with a data agreement. Keep personal use in a personal account, in a separate browser profile, so the two never share a login, history or connected apps.
 - **Turn off training on personal accounts.** Look under Settings, then Data controls or Privacy. The names vary: "Improve the model for everyone", "AI data usage", "Help improve".
@@ -70,38 +65,38 @@ Try other pairs from your own work:
 - "a high-performing team member" vs "a team member returning from parental leave"
 - "a successful founder" vs "a successful small-business owner"
 
-If you use AI to draft position descriptions, references or performance reviews, these defaults leak into them. The generic output inherits the generic average, including its skew. Noticing it is your job.
+If you use AI to draft position descriptions, references or performance reviews, these defaults leak into them. The generic output inherits the generic average, including its skew, and noticing that skew is your job.
 
 **Prefer a guided game?** Play [Survival of the Best Fit](https://www.survivalofthebestfit.com/) (about 10 minutes) and watch an "objective" hiring algorithm reproduce and amplify the bias in its training data. Then ask: where did the bias get in, and whose job was it to notice? On the trust tool, that's a precise, large-stakes call: top-right corner.
 
 ## Four ethics dilemmas
 
-Take one or two at your table. There's no answer key. The point is to make the trade-off explicit and decide where a person stays in charge.
+Take one or two into a team meeting, or work through them on your own. There's no answer key. The point is to make the trade-off explicit and decide where a person stays in charge.
 
 ### 1 · The biased screen
 
 Your team deploys an AI résumé-screening tool. Six months in, an analyst notices it quietly marks down applicants from one group. By its efficiency measure, it's "working". Do you switch it off immediately, or audit it first? Who is responsible: the vendor, the team that deployed it, or the executive who sponsored it?
 
-*The link to the day:* the bias came in through the data, not malice. Screening decisions are precise and large-stakes, so a person owns them, and "the algorithm did it" is not a defence.
+*The connection:* the bias came in through the data, not malice. Screening decisions are precise and large-stakes, so a person owns them, and "the algorithm did it" is not a defence.
 
 ### 2 · The confidently wrong policy bot
 
 A customer is quoted a returns policy that doesn't exist, in writing, by your chatbot, and acts on it. Who's accountable? What do you owe the customer, and what do you change in the system?
 
-*The link to the day:* checking is the product. The checkpoint belongs before a wrong answer reaches a customer, designed in from the start, not added after the apology.
+*The connection:* checking is the product. The checkpoint belongs before a wrong answer reaches a customer, designed in from the start, not added after the apology.
 
 ### 3 · Efficiency or apprenticeship?
 
 Automating 80% of a junior's routine work looks like a win, until you realise they never learn to judge the output, because the work that trained their predecessors has gone. Is that an ethics question or just an HR one?
 
-*The link to the day:* the juniors lost the easy reps. Hollowing out expertise for short-term speed deletes your team's future judgement. Keep at least one checkpoint human on purpose, to build capability.
+*The connection:* the juniors lost the easy reps. Hollowing out expertise for short-term speed deletes your team's future judgement. Keep at least one checkpoint human on purpose, to build capability.
 
 ### 4 · "Ship it now, govern it later"
 
 A competitor launches an AI feature, and your manager says to match it this quarter and sort out the governance afterwards. Do you? What do you say?
 
-*The link to the day:* the demo is a trap, and "everyone else is doing it" isn't a plan. Governance added after something goes wrong costs more, in money and in trust, than governance designed in.
+*The connection:* the demo is a trap, and "everyone else is doing it" isn't a plan. Governance added after something goes wrong costs more, in money and in trust, than governance designed in.
 
 ::: {.callout-note title="Note"}
-**The thread:** every dilemma is the same question. Where does a person stay in the loop, and who owns the consequence when they don't? It isn't a technical question; it's the judgement the whole day is about. For depth on governance, risk and regulation, see Curtin Executive Education's [Ethics of artificial intelligence](https://www.curtin.edu.au/study/prof-development/ethics-of-artificial-intelligence/) masterclass.
+**The thread:** every dilemma is the same question. Where does a person stay in the loop, and who owns the consequence when they don't? It isn't a technical question; it's the judgement this book is about. For depth on governance, risk and regulation, see Curtin Executive Education's [Ethics of artificial intelligence](https://www.curtin.edu.au/study/prof-development/ethics-of-artificial-intelligence/) masterclass.
 :::

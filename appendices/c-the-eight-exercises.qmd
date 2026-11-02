@@ -1,15 +1,14 @@
 <!-- Seed appendix: converted from course site source (exercises.md), October 2026,
      by the one-off seed converter. Interactive elements removed; links
-     pointed at the live course site. Editorial pass pending. -->
+     pointed at the live course site. Editorial reframe for book readers,
+     November 2026: duplicated site introduction removed, room instructions
+     recast as solo or with-a-colleague instructions. -->
 
 # The eight exercises {#sec-exercises}
 
-The masterclass exercises in book form. Work solo or with a colleague. Most take 12 to 35 minutes and need one AI tool you are allowed to use at work, plus a spreadsheet for Exercise 5. Keep your answers with your prompt library. The [digital workbook](https://michael-borck.github.io/the-human-edge/workbook.html) on the course site holds the same exercises with autosave and export. Exercise 5 uses `retailflow-customer-service-data.csv`, in this book's resources and on the course site. The answer key for its three claims is worked in Chapter 6.
+The masterclass exercises in book form. Work solo or with a colleague. Most take 12 to 35 minutes and need one AI tool you are allowed to use at work, plus a spreadsheet for Exercise 5. Keep your answers with your prompt library. The [digital workbook](https://michael-borck.github.io/the-human-edge/workbook.html) on the course site holds the same exercises with autosave and export. If your own work is confidential, use a [scenario card](#scenario-cards) or a [decision card](#decision-cards) instead. Exercise 5 uses `retailflow-customer-service-data.csv`, in this book's resources and on the course site.
 
-
-## Eight exercises. Mostly your own work.
-
-Copy the prompts from here and write your answers in the [digital workbook](https://michael-borck.github.io/the-human-edge/workbook.html); it saves in your browser and exports before you leave. If your own work is confidential, use a [scenario card](#scenario-cards) or a [decision card](#decision-cards) instead.
+Worked answers live where the method is taught. Exercise 5's three claims are checked, with the figures, in Chapter 6, which also shows what a strong brief to Karen says. The decision cards below carry their own answer keys. The other exercises run on your own work, so there is no single answer to key. Do each one blind, then compare your result with the worked method in the chapter it belongs to.
 
 | | Exercise | Session | Time |
 |---|---|---|---|
@@ -24,21 +23,21 @@ Copy the prompts from here and write your answers in the [digital workbook](http
 
 ## Exercise 1 · Your pass first {#ex1}
 
-25 min · solo, then tables
+25 min · solo, then compare with a colleague if you can
 
 1. **Your pass first.** Five minutes, no AI: sketch your own plan for the task below, in the workbook.
-2. **Then AI's.** Paste the task, unedited, into an AI tool (two tools if you have them; the [class chat](https://chat.locopuente.org/register) has two, on course days).
+2. **Then AI's.** Paste the task, unedited, into an AI tool (two tools if you have them; masterclass participants used a [class chat](https://chat.locopuente.org/register) with two).
 3. **Compare side by side.** Where did you beat it? Where did it beat you? What did it get confidently wrong?
 
 > I manage a team of 8 in a mid-sized company. One of my team, a strong performer for three years, has been late and missing deadlines for the past month. Others are starting to notice. Write me a plan to address this.
 
 ## Exercise 2 · Place it {#ex2}
 
-22 min · room, then solo
+22 min · solo, or with a colleague
 
-1. **Blind vote.** The facilitator reads a scenario. Decide in silence, then vote on "three": in ClassPulse (scan the code on screen), or by showing 1 to 4 fingers for corners A to D.
+1. **Commit blind.** Take a scenario from Chapter 2. Decide its corner (A to D) and write it down before you look at the chapter's usual answer. In the masterclass the room voted blind, so nobody followed the most senior person. On your own, writing it down first does the same job. With a colleague, commit separately, then compare.
 2. **Play the game** at [trusttool.borck.education](https://trusttool.borck.education/). Choose your domain and place all ten cards.
-3. **Place three tasks from your own week** in the [workbook](https://michael-borck.github.io/the-human-edge/workbook.html). For each, note the check it needs. Swap with a neighbour: where do you disagree, and why?
+3. **Place three tasks from your own week** in the [workbook](https://michael-borck.github.io/the-human-edge/workbook.html). For each, note the check it needs. If you worked with a colleague, swap placements: where do you disagree, and why? On your own, argue the opposite corner for one of them.
 
 ## Exercise 3 · Brief it {#ex3}
 
@@ -68,11 +67,11 @@ The [prompt builder](https://michael-borck.github.io/the-human-edge/prompt-build
 > BOARD: Respond as a board: a CFO, a sceptical customer and a frontline manager. One paragraph each, then where they disagree.
 
 3. Save three prompts to your library: a name, when to use it, the prompt with [blanks], and the check it needs. Use the [workbook](https://michael-borck.github.io/the-human-edge/workbook.html) or the [prompt builder](https://michael-borck.github.io/the-human-edge/prompt-builder.html).
-4. **Stretch: the voice pass.** Paste about 100 words you actually wrote (sanitised), then ask: *"Rewrite your last output in my voice, leading with the one thing only I would say."* What changed? Optionally, ask it to summarise your style as a short brief and paste that into your tool's custom instructions. Nothing you can paste? Write 100 words now, to a colleague, on why you came today. It's your voice, and it's safe. The full version is [Write like me](https://michael-borck.github.io/the-human-edge/go-deeper.html#write-like-me).
+4. **Stretch: the voice pass.** Paste about 100 words you actually wrote (sanitised), then ask: *"Rewrite your last output in my voice, leading with the one thing only I would say."* What changed? Optionally, ask it to summarise your style as a short brief and paste that into your tool's custom instructions. Nothing you can paste? Write 100 words now, to a colleague, on a decision you made at work this month and how you made it. It's your voice, and it's safe. The full version is [Write like me](https://michael-borck.github.io/the-human-edge/go-deeper.html#write-like-me).
 
 ## Exercise 5 · RetailFlow: Karen needs answers by Monday {#ex5}
 
-35 min · solo or pairs, then blind vote
+35 min · solo or in pairs. Commit to your verdicts in writing before you compare them with Chapter 6.
 
 Karen manages customer service at RetailFlow, an online retailer. She has six months of ticket data and three questions:
 
@@ -102,9 +101,9 @@ Verdicts: **Verified** (accurate as stated), **Overstated** (right direction, wr
 
 ## Exercise 6 · Decide like me {#ex6}
 
-24 min · solo, then tables
+24 min · solo, then compare with a colleague if you can
 
-Pick one decision you make over and over: small, repeatable, explainable, and nothing from the top-right corner of the trust tool. Get your rules out of your head, then test them blind on your own past calls. Method after Dylan Davis; the [full method](https://michael-borck.github.io/the-human-edge/decide-like-me.html) has its own page. If you followed [Before the day](https://michael-borck.github.io/the-human-edge/before.html), you've brought the decision and three past cases. If not, or if your work can't go into an AI tool, take a [decision card](#decision-cards).
+Pick one decision you make over and over: small, repeatable, explainable, and nothing from the top-right corner of the trust tool. Get your rules out of your head, then test them blind on your own past calls. Method after Dylan Davis; the [full method](https://michael-borck.github.io/the-human-edge/decide-like-me.html) has its own page. Have the decision and three past cases ready before you start: the inputs, and the call you made on each. Masterclass participants prepared theirs beforehand ([the masterclass preparation page](https://michael-borck.github.io/the-human-edge/before.html)). If you have no suitable decision, or if your work can't go into an AI tool, take a [decision card](#decision-cards).
 
 1. **Get the rules out.** Talk the why through, or let it interview you:
 
@@ -119,29 +118,29 @@ Describe your past cases. Don't paste anything confidential.
 
 ## Exercise 7 · Plan one delivery {#ex7}
 
-35 min · solo, then tables
+35 min · solo, then compare with a colleague if you can
 
-1. **Map** a task you do weekly that takes 30 minutes or more. Five to eight steps, with honest minutes for each. Note the owner, a success measure and today's baseline.
+1. **Map** a task you do weekly that takes 30 minutes or more. Five to eight steps, with honest minutes for each. Note the owner, a success measure and the current baseline.
 2. **Assign** each step: who leads (AI leads, AI assists, you lead, human only) and its trust corner.
 3. **Design the checkpoints.** Who checks each amber or red step, and how? Pick someone who knows what right looks like. Who is affected, who has to agree, and who will do the checking?
 4. **Test** one AI step live with an RTCF brief. Then **set your 30-day gate**: what result would make you scale, pivot or kill?
 
 The [Map my workflow](https://michael-borck.github.io/the-human-edge/prompts.html#map-my-workflow) and [Pre-mortem](https://michael-borck.github.io/the-human-edge/prompts.html#pre-mortem) starter prompts help with steps 1 and 3.
 
-Mapping your workflow needs no data, only step names and minutes. If the inputs for the live test can't go into a tool, invent a few lines in the same shape (rule 2 from the morning: describe it, don't paste it). Can't use your own workflow at all? Plan [scenario card 3](#scenario-cards) (the Friday status update) or scenario card 6 (monthly invoicing), and test with the notes on the card.
+Mapping your workflow needs no data, only step names and minutes. If the inputs for the live test can't go into a tool, invent a few lines in the same shape (Chapter 2's second rule before you paste: describe it, don't paste it). Can't use your own workflow at all? Plan [scenario card 3](#scenario-cards) (the Friday status update) or scenario card 6 (monthly invoicing), and test with the notes on the card.
 
 ## Exercise 8 · Your action plan {#ex8}
 
-12 min · quiet, then share
+12 min · solo. Share it with a colleague or your manager if that helps it stick.
 
 One line each: a specific task, tool and day.
 
 - **This week (practise):** two-pass one task that matters, and use one saved prompt for real.
 - **This month (deliver):** run your delivery plan, with checkpoints in place from day one.
-- **Day 30 (gate):** scale, pivot or kill, against the criteria you set today.
+- **Day 30 (gate):** scale, pivot or kill, against the criteria you set now.
 - **This quarter (revisit):** name what must stay human in your role, and check whether the corners have moved.
 
-Before you leave, put this week's line and your day-30 gate in your calendar.
+Before you close the book, put this week's line and your day-30 gate in your calendar.
 
 ## Scenario cards {#scenario-cards}
 
@@ -185,7 +184,7 @@ You're the only person who knows monthly invoicing: export billable hours from H
 
 ## Decision cards {#decision-cards}
 
-For Exercise 6, if you didn't bring a decision or your work can't go into an AI tool. The people and figures are invented, so everything here is safe to paste.
+For Exercise 6, if you have no suitable decision of your own or your work can't go into an AI tool. The people and figures are invented, so everything here is safe to paste.
 
 Each card hands you someone else's decision. You're taking it over from the person who made it, and their record is below.
 

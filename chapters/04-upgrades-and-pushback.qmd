@@ -29,7 +29,7 @@ In both cases, resist the urge to rewrite the whole prompt. Add one upgrade.
 
 ## Push back: three ways
 
-Models are tuned on human approval, and people prefer agreeable answers. The result is sycophancy: the tool endorses your plan, praises your draft, and folds the moment you disagree with it. An agreeable second opinion is worth nothing. You already had that opinion. It was yours.
+Models are tuned on human approval, and people prefer agreeable answers. The result is sycophancy: the tool endorses your plan, praises your draft, and folds the moment you disagree with it. An agreeable second opinion adds nothing to the opinion you already had.
 
 Ask badly ("what do you think?") and you will get flattery. Ask for attack, and you get something useful.
 
@@ -39,7 +39,7 @@ Ask badly ("what do you think?") and you will get flattery. Ask for attack, and 
 | **Devil's advocate** | `Don't flatter me. Give me three reasons this fails, and name the assumption it all rests on.` |
 | **Board of directors** | `Respond as a board: a CFO, a sceptical customer, and a frontline manager. One paragraph each, then where they disagree.` |
 
-The guardrail is for analytical work, where you plan to add information in stages and need to know what moved the answer. The devil's advocate is for plans and drafts you are fond of, which is exactly when you need it. The board is for decisions, where the disagreement between perspectives is the valuable part. Read the disagreement paragraph twice. It usually names the real trade-off.
+The guardrail is for analytical work, where you plan to add information in stages and need to know what moved the answer. The devil's advocate is for plans and drafts you are fond of, which is when you need it. The board is for decisions, where the disagreement between perspectives is the useful part. Read the disagreement paragraph twice. It usually names the real trade-off.
 
 ::: {.callout-warning title="Watch out"}
 Long chats drift toward your view. The tool has your framing, your vocabulary, and your earlier conclusions in front of it, and agreement gets easier with every turn. For an independent read on something that matters, start a fresh chat, brief it cold, and compare. Two-chat discipline returns in Chapter 5.
@@ -53,7 +53,7 @@ Pushback is the behavioural fix for traps worth naming together, because knowing
 - **The AI dismissal fallacy.** "That's just ChatGPT" is not a critique. Judge the reasoning, not the source.
 - **Sycophancy.** The tool agrees because agreement was rewarded in training. Treat agreement as no evidence at all.
 
-None of these are technical problems. All three are human ones, which is why a model upgrade will not fix them.
+All three are human problems, so a model upgrade will not fix them.
 
 ## Practice: upgrade and save
 

@@ -28,8 +28,6 @@ The corners come with examples worth memorising. A birthday message for a collea
 
 ## The corner sets the check
 
-Placement is useless without the matching behaviour.
-
 - **Corner A:** read it once, as its reader would. Then use it. Spending twenty minutes verifying a birthday message is its own kind of failure.
 - **Corner B:** find the load-bearing claims. There are usually two or three: a deadline, an eligibility rule, a budget figure. Verify those against the source. Let the rest of the prose be average.
 - **Corner C:** check every precise element before it leaves you. Figures, names, dates, citations. One wrong publication year in print means a correction and a dent in credibility.
@@ -61,9 +59,9 @@ When people disagree about a corner, they almost always disagree about stakes, n
 
 ## Two traps that distort placement
 
-**Gell-Mann amnesia**, from Chapter 1, pushes everything in your own field toward D and everything outside it toward A. That is exactly backwards. Your expertise is a checking instrument. Where you lack it, the output needs more outside verification, not less.
+**Gell-Mann amnesia**, from Chapter 1, pushes everything in your own field toward D and everything outside it toward A. That is backwards. Your expertise is a checking instrument. Where you lack it, the output needs more outside verification.
 
-The mirror-image trap is the **AI dismissal fallacy**: "that's just ChatGPT" offered as a critique. It is a refusal to engage, not an argument. Judge the reasoning, not where it came from. A correct claim from a tool is still correct, and a polished claim from a person can still be wrong.
+The mirror-image trap is the **AI dismissal fallacy**: "that's just ChatGPT" offered as a critique. That refuses to engage with the claim. Judge the reasoning, not where it came from. A correct claim from a tool is still correct, and a polished claim from a person can still be wrong.
 
 ## Practise until it is a reflex
 

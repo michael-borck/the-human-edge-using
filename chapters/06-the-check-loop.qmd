@@ -47,11 +47,11 @@ Watch for these in any AI analysis, including your own.
 4. **Numbers that cannot all be true.** Category shares that sum past 100 percent. An overall average outside the range of its parts.
 5. **Detail that is not in the file.** A plausible explanation for a pattern, invented to fill a paragraph. The data contains no such fact.
 
-That last one catches experienced people. The explanation is often good. It is just not evidence.
+That last one catches experienced people, because a good explanation still is not evidence.
 
 ## Checking the three claims
 
-The RetailFlow file has 260 tickets from 3 July to 29 December 2024, handled by 8 agents. You can download it from the course site and repeat every check below in a spreadsheet. Do that at least once. Reading about verification is not verification.
+The RetailFlow file has 260 tickets from 3 July to 29 December 2024, handled by 8 agents. You can download it from the course site and repeat every check below in a spreadsheet. Do that at least once.
 
 ::: {.retailflow-case}
 **By category**
@@ -76,13 +76,13 @@ The RetailFlow file has 260 tickets from 3 July to 29 December 2024, handled by 
 
 **Claim C is overstated.** Sunday runs at 13.7 hours against an overall 9.2. That is about one and a half times, not double. In a staffing case the word "double" inflates the argument by a third. This output sits in the precise, large corner of the Trust Tool, and in that corner close is the same as wrong.
 
-One more trap hides in most tool output on this file. Asked why Sundays are slow, tools often explain that nobody works on Sundays. The data says otherwise. Named agents handle Sunday tickets all through the file. Plausible, fluent, and unsupported. Claim 5 on the list above, caught in the wild.
+One more trap hides in most tool output on this file. Asked why Sundays are slow, tools often explain that nobody works on Sundays. The data says otherwise. Named agents handle Sunday tickets all through the file. That explanation is plausible, fluent, and unsupported: Claim 5 on the list above, caught in the wild.
 
 ## The confident miscount
 
 Cloud tools get the RetailFlow sums right mostly because they run code on the file behind the scenes. Take that away and the underlying weakness shows. In class testing in October 2026, a capable local model given the raw CSV reported 130 rows instead of 260. It put Email at 12.4 hours and Live Chat at 5.8, against true values of 13.2 and 4.0. It judged the Sunday claim with numbers that would have given the wrong verdict for the wrong reason. A smaller model got none of the figures right. Both answered in complete, confident sentences.
 
-I find that demo more persuasive than any warning slide. The model was not lying. It was predicting plausible numbers, because plausible numbers are its product. Arithmetic is not.
+I find that demo more persuasive than any warning slide. The model was not lying. It was predicting plausible numbers, because plausible numbers are its product.
 
 Which points to the fix. Do not ask a language model to count your file in its head. Ask it for the spreadsheet formulas, or a short script, and let software built for sums do the sums. The starter prompts in Appendix B include this pattern. It has a second benefit, covered next.
 
@@ -96,7 +96,7 @@ Two cautions. If you cannot read the code it produced, the output belongs in the
 
 ## What a strong brief to Karen says
 
-With the claims settled, the brief writes itself.
+With the claims settled, the brief is straightforward:
 
 - Returns and Refunds and Delivery Problems are the worst categories, by a clear margin.
 - Response time is the factor that cuts across everything. Fast answers sit near 4 out of 5 for satisfaction. Slow ones sit near 1.6.

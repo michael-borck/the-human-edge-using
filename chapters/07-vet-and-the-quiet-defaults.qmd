@@ -9,7 +9,7 @@
 
 ## Claims you cannot recount
 
-Chapter 6 worked because the truth sat in a file you could open. Most claims at work offer no such comfort. A market figure. A legal summary. A study that shows something convenient. A benchmark with a percentage in it.
+Chapter 6 worked because the truth sat in a file you could open. Most claims at work offer no such comfort: a market figure, a legal summary, a study that shows something convenient, a benchmark with a percentage in it.
 
 You cannot filter a spreadsheet to settle those. You need a different discipline, and it has three moves. Verify, Explain, Test. VET.
 
@@ -25,13 +25,13 @@ So look the source up directly. If the paper exists, open it and check the claim
 
 Verify applies to numbers as much as papers. "Where does that figure come from?" has ended more bad briefs than any other question I know. If the answer is another AI summary, you have a chain of copies with no original. Walk it back, or drop the figure.
 
-One extension matters more every year. Verify the channel, not just the claim. A voice that sounds like your CFO asking for new bank details, a face on a video call asking for a password, both get checked outside the channel they arrived on. Hang up. Call back on a number you already have. A familiar face on a screen is no longer proof of anything, and Appendix E treats deepfakes on the Trust Tool in more detail.
+One extension matters more every year. Verify the channel, not just the claim. A voice that sounds like your CFO asking for new bank details and a face on a video call asking for a password both get checked outside the channel they arrived on. Hang up. Call back on a number you already have. A familiar face on a screen is no longer proof of anything, and Appendix E treats deepfakes on the Trust Tool in more detail.
 
 ## Explain it back
 
 Can you say the claim in your own words, including why it would be true?
 
-This sounds like a study trick because it is one. It works anyway. Where your rephrasing goes vague, your understanding has a gap, and the gap usually sits exactly where the claim is weakest. "This method is 95 percent effective" survives until you try to say what 95 percent counts, out of what, compared to what. Then it either sharpens or falls apart. Both outcomes help.
+This sounds like a study trick because it is one. It works anyway. Where your rephrasing goes vague, your understanding has a gap, and the gap usually sits where the claim is weakest. "This method is 95 percent effective" survives until you try to say what 95 percent counts, out of what, compared to what. Then it either sharpens or falls apart. Both outcomes help.
 
 Write the explanation down for claims that carry a decision. Two or three sentences. If you cannot produce them, you are forwarding, not reporting, and Chapter 1 has a name for that.
 
@@ -47,13 +47,13 @@ Change one variable. Try the awkward case. Ask where, when, or for whom this sto
 | "The best figure is X" | Where does X come from? | Why X, specifically? | What changes if one input moves? |
 | "95% effective" | Source? | 95% of what, against what? | Under what conditions does it fail? |
 
-VET is the practical answer to Gell-Mann amnesia. You know least in a new field, so your instincts help least there. VET replaces instinct with procedure. Slow, unglamorous, and much harder to fool.
+VET is the practical answer to Gell-Mann amnesia. You know least in a new field, so your instincts help least there. VET replaces instinct with a slower, unglamorous procedure that is much harder to fool.
 
 ## The quiet defaults
 
 There is a second kind of checking, and it is about values hiding inside fluent text rather than facts.
 
-Ask a tool to write about a senior manager and then about an administrative officer. Compare what comes back. In class, tables run a few pairs like this and look at names, warmth against capability, and who gets handed authority. The differences are rarely crude. That is the point. The defaults are quiet. One role gets decisive verbs and a surname. The other gets helpfulness and a first name. One leads the meeting. The other takes the minutes.
+Ask a tool to write about a senior manager and then about an administrative officer. Compare what comes back. In class, tables run a few pairs like this and look at names, warmth against capability, and who gets handed authority. The differences are rarely crude. The defaults are quiet: one role gets decisive verbs and a surname. The other gets helpfulness and a first name. One leads the meeting. The other takes the minutes.
 
 Models learn these patterns from text the world already wrote. Left alone, they hand the patterns back to you, polished. In a job ad, a reference check summary, or a performance draft, a quiet default stops being a curiosity. It shapes who applies, who gets believed, and who gets promoted.
 
@@ -63,7 +63,7 @@ Catching defaults takes the same outside check as catching numbers, pointed in a
 - Read for who acts and who is described. Agents get verbs. Everyone else gets adjectives.
 - Ask who is missing. A stakeholder list, a customer persona, a risk register. Absence is a default too, and harder to see than a stereotype.
 
-Appendix D runs this further, with Australia's six essential practices, data governance that stays proportionate, and four dilemmas worth arguing about with your team. The short version belongs here. Bias in AI output rarely arrives wearing a label. It arrives as tone, and tone is exactly what a busy reader skims.
+Appendix D runs this further, with Australia's six essential practices, data governance that stays proportionate, and four dilemmas worth arguing about with your team. The short version belongs here. Bias in AI output rarely arrives wearing a label. It arrives as tone, and tone is what a busy reader skims.
 
 ::: {.callout-tip title="Try this: the four-minute defaults check"}
 Pick a pair relevant to your work. A senior manager and an administrative officer. A surgeon and a nurse. A founder and an office manager.

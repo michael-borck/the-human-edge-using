@@ -1,19 +1,13 @@
 <!-- Seed appendix: converted from course site source (prompts.md), October 2026,
      by the one-off seed converter. Interactive elements removed; links
-     pointed at the live course site. Editorial pass pending. -->
+     pointed at the live course site. Editorial reframe for book readers,
+     November 2026: duplicated site introduction removed. -->
 
 # Starter prompts {#sec-starter-prompts}
 
 Twenty-seven prompts from the masterclass, ready to copy and adapt. Replace the [square brackets] with your own detail. That detail is where your edge goes in. Each prompt notes the Trust Tool corner its output usually lands in, from Chapter 2, so the check travels with the prompt. Corners: **A** trust with light review, **B** verify the load-bearing bits, **C** verify before you ship, **D** human in the loop.
 
 The interactive version, with a prompt builder that saves your own library, lives on the [course site](https://michael-borck.github.io/the-human-edge/prompt-builder.html).
-
-
-## Copy, adapt, then check.
-
-Twenty-seven prompts from the day, ready to adapt. Replace the [square brackets] with your own detail, which is where your edge goes in. Each one notes the trust tool corner its output usually lands in, so you know how hard to check it.
-
-Corners: **A** trust with light review · **B** verify the load-bearing bits · **C** verify before you ship · **D** human in the loop.
 
 ## Brief it
 
@@ -205,7 +199,7 @@ Here are two versions of the same [task]: mine (A) and an AI draft (B). [paste b
 
 ## Decide like me
 
-Turn one decision you make over and over into if-then rules, then test them blind on your own past calls. The [Decide like me](https://michael-borck.github.io/the-human-edge/decide-like-me.html) page has the full method, including how to save the rules and why the re-test goes in a new chat. Method after Dylan Davis.
+Turn one decision you make over and over into if-then rules, then test them blind on your own past calls. The [Decide like me](https://michael-borck.github.io/the-human-edge/decide-like-me.html) page has the full method, including how to save the rules and why the re-test goes in a new chat (method after Dylan Davis).
 
 ### 22 · Interview me for my rules
 

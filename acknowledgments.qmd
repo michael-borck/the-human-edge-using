@@ -6,7 +6,7 @@ The argument was shaped in the room. Participants who placed the same scenario i
 
 This book sits in a small family, and the family made it better. *Conversation, Not Delegation* supplied the method: converse, push back, verify from outside the tool. *Prove, Don't Persuade* supplied the insistence that a demo is not evidence. *The Human Edge* is where those ideas meet an ordinary working week.
 
-Several specific debts deserve naming. The Decide Like Me method, and the "broken ladder" framing of the junior pipeline problem discussed in Chapter 11, draw on Dylan Davis. The Australian employment evidence draws on the Department of Employment and Workplace Relations (2026) and Jobs and Skills Australia (2025). "Gell-Mann amnesia" is Michael Crichton's term. RetailFlow, Northbridge, and their data are invented for teaching; any resemblance to real organisations is coincidental.
+The Decide Like Me method, and the "broken ladder" framing of the junior pipeline problem discussed in Chapter 11, draw on Dylan Davis. The Australian employment evidence draws on the Department of Employment and Workplace Relations (2026) and Jobs and Skills Australia (2025). "Gell-Mann amnesia" is Michael Crichton's term. RetailFlow, Northbridge, and their data are invented for teaching; any resemblance to real organisations is coincidental.
 
 The open-source community behind Quarto, Pandoc, and GitHub made it possible to write, build, and publish this book alongside the course site, the workbook, and the Trust Tool game, all from text files the reader can inspect.
 

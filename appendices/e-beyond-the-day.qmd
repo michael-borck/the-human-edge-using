@@ -1,19 +1,16 @@
 <!-- Seed appendix: converted from course site source (beyond.md), October 2026,
      by the one-off seed converter. Interactive elements removed; links
-     pointed at the live course site. Editorial pass pending. -->
+     pointed at the live course site. Editorial reframe for book readers,
+     November 2026: duplicated site introduction removed, course-day voice
+     recast as book voice, title changed from "Beyond the day". -->
 
-# Beyond the day {#sec-beyond}
+# Beyond the chapters {#sec-beyond}
 
-The chapters are tool-agnostic on purpose. This appendix is not. It names products, settings, and jargon, and it will date faster than anything else in the book. Menu names were checked in October 2026. When one has moved, search the product's help for "instructions" and apply the same ideas. The four tools do not change when the menus do.
-
-
-## The course was tool-agnostic. This page isn't.
-
-The four tools work on any AI, including the ones that ship next, which is why the day named no vendor. This page names them: where each product keeps the standing brief, what the jargon in vendor pitches means, what the tools make beyond text, and where agents fit. The details here change monthly. The four tools don't. At the end: the big questions that come up in the room but weren't on the agenda.
+The chapters are tool-agnostic on purpose, because the four tools work on any AI, including the ones that ship next. This appendix is not. It names products, settings, and jargon: where each product keeps the standing brief, what the words in vendor pitches mean, what the tools make beyond text, and where agents and the terminal fit. It ends with the big questions that sit outside the chapters. This appendix will date faster than anything else in the book. Menu names were checked in October 2026. When one has moved, search the product's help for "instructions" and apply the same ideas. The four tools do not change when the menus do.
 
 ## Set it once
 
-All day you typed the brief fresh, every chat: role, task, context, format, and its check. Every major tool lets you save that as the standing brief it sends with every message. The generic name is a **system prompt**. The trade names differ.
+In the chapters and exercises you typed the brief fresh, every chat: role, task, context, format, and its check. Every major tool lets you save that as the standing brief it sends with every message. The generic name is a **system prompt**. The trade names differ.
 
 | Tool (web) | The setting is called | Where it lives |
 |---|---|---|
@@ -41,8 +38,11 @@ You'll hear these in every vendor pitch. None of them removes the check.
 | Context window | The model's working memory. | Long chats drift and early instructions fade. That's why the two-chat workflow and the handover prompt on [Go deeper](https://michael-borck.github.io/the-human-edge/go-deeper.html) help. |
 | RAG · "grounded on your documents" | The tool reads your files first, then answers. | Better grounding, new failure mode: check what it read, not just what it said. |
 | Harness | The software around the model: standing instructions, what it can read, what tools it may call. | You already use several. Configuring one well is "set it once", above. |
+| Skill | A saved, reusable brief that an agent or assistant loads when a task matches. The generic idea is a standing brief; agent tools call it a skill. | Your judgement, written down and reusable. The check still belongs in the brief, and a person still reviews the output. |
 | Agent | A model in a loop with tools: plans, acts, checks, retries. | Automates the loop, not the standard. The check still comes from outside. |
 | Prompt injection | Instructions hidden in something the tool reads: a web page, an email, a document, often in white or tiny text. | The tool may follow them as if you wrote them. The risk grows with every connection, and is highest for agents that read and act with nobody watching. Keep a person between what it reads and what it does. [Try it](#try-it-a-document-that-talks-to-the-ai). |
+
+Skills in practice: *Build Web, Guide AI*, "The Agent-Ready Repo and Handover", shows how a repeated workflow becomes a tested skill file.
 
 ### Try it: a document that talks to the AI
 
@@ -57,7 +57,7 @@ If the tool ignored the hidden note, that's partly good news: many tools now res
 
 ## Beyond text
 
-The day worked in text because judgement shows clearest there. The same models make images, audio, music and video, and the trust tool moves straight over.
+The chapters worked in text because judgement shows clearest there. The same models make images, audio, music and video, and the trust tool moves straight over.
 
 | Output | On the grid | The check |
 |---|---|---|
@@ -67,11 +67,11 @@ The day worked in text because judgement shows clearest there. The same models m
 | Music or video for a public asset | Amber to red | Copyright here is unsettled; follow your organisation's policy and disclose |
 | A voice or video call asking for a payment, a password or a change of bank details | Red, however familiar the face | Check outside the channel it arrived on: hang up and call back on a number you already have. In 2024 an Arup employee in Hong Kong paid out about US$25.6 million after a video call in which every other "colleague" was a deepfake ([CNN](https://www.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk)). |
 
-Two habits from the day transfer exactly: classify before you paste (a face is personal information), and tell people when AI made the thing they're looking at ([Responsible use](https://michael-borck.github.io/the-human-edge/responsible-use.html)).
+Two habits from the chapters transfer: classify before you paste (a face is personal information), and tell people when AI made the thing they're looking at ([Responsible use](https://michael-borck.github.io/the-human-edge/responsible-use.html)).
 
 ## The terminal, if you want it
 
-Everything above is the web interface on purpose: it's where the judgement work happens, and where your account already is. The same ideas carry over to developer tools. Agent CLIs take a brief in your terminal and work in a loop, and your review still decides what ships. Local models run on your own laptop, which is the answer when your writing samples can't leave it. They're weaker than the big cloud tools, but for brainstorming and thinking out loud that matters less than you'd think: the point is the ideas they trigger in you. Save the strongest tool for exact facts and data. [Msty Studio](https://msty.ai/products/studio/) is the easiest start: one install, then a local model or your own API key. [Ollama](https://ollama.com) is the engine many local apps run on, and [Open WebUI](https://openwebui.com) and [LibreChat](https://www.librechat.ai) are chat interfaces an IT team can host for a whole organisation. You can also describe a small tool in plain English and have an AI write it. Treat the result like any other output: if you can't read the code, it belongs in the top-right corner, so test it on data where you know the answer, and keep it away from anything confidential until someone who can read it has. None of this is required. It's the same four tools, faster.
+Everything above is the web interface on purpose: it's where the judgement work happens, and where your account already is. The same ideas carry over to developer tools. Agent CLIs take a brief in your terminal and work in a loop, and your review still decides what ships. Local models run on your own laptop, which is the answer when your writing samples can't leave it. They're weaker than the big cloud tools, but for brainstorming and thinking out loud that matters less than you'd think: the point is the ideas they trigger in you. Save the strongest tool for exact facts and data. [Msty Studio](https://msty.ai/products/studio/) is the easiest start: one install, then a local model or your own API key. [Ollama](https://ollama.com) is the engine many local apps run on, and [Open WebUI](https://openwebui.com) and [LibreChat](https://www.librechat.ai) are chat interfaces an IT team can host for a whole organisation. You can also describe a small tool in plain English and have an AI write it. Treat the result like any other output: if you can't read the code, it belongs in the top-right corner. Test it on data where you know the answer, and keep it away from anything confidential until someone who can read it has. None of this is required. It's the same four tools, faster.
 
 ::: {.callout-note title="Note"}
 **Whatever the product,** set the standing brief once, connect tools on purpose, and keep the check outside the tool. More in [Resources](https://michael-borck.github.io/the-human-edge/resources.html).
@@ -79,15 +79,15 @@ Everything above is the web interface on purpose: it's where the judgement work 
 
 ## The big questions
 
-Not on the agenda, but they come up in the room. Short answers, and where to read more.
+These sit outside the chapters. They came up in the masterclass, and readers ask them too. Short answers, and where to read more.
 
 ### Is AI just software?
 
-For governance, yes. Procurement, privacy, security and a named owner apply as they do to any system. For testing, no. Nobody wrote its logic, so nobody can read it. The same input can give a different output. It fails fluently, and an agent can act without asking. That's why the day put the check outside the tool and a gate before scale ([why AI projects fail differently](https://michael-borck.github.io/the-human-edge/tools.html#deliver-it-why-ai-projects-fail-differently)).
+For governance, yes. Procurement, privacy, security and a named owner apply as they do to any system. For testing, no. Nobody wrote its logic, so nobody can read it. The same input can give a different output. It fails fluently, and an agent can act without asking. That's why this book puts the check outside the tool and a gate before scale ([why AI projects fail differently](https://michael-borck.github.io/the-human-edge/tools.html#deliver-it-why-ai-projects-fail-differently)).
 
 ### AGI and superintelligence
 
-AGI usually means a system that can do most work a person can. Superintelligence means one far better than people at nearly everything. Several AI labs say they are building towards it. Whether and when it arrives is disputed, and the disagreement runs through the field: in a survey of 2,778 published AI researchers, between 38% and 51% gave at least a 10% chance that advanced AI leads to outcomes as bad as human extinction ([Grace and others, 2024](https://arxiv.org/abs/2401.02843)).
+AGI usually means a system that can do most work a person can. Superintelligence means one far better than people at nearly everything. Several AI labs say they are building towards it. Whether and when it arrives is disputed, and the disagreement runs through the field. In a survey of 2,778 published AI researchers, between 38% and 51% gave at least a 10% chance that advanced AI leads to outcomes as bad as human extinction ([Grace and others, 2024](https://arxiv.org/abs/2401.02843)).
 
 Two serious positions, both worth reading:
 
@@ -98,7 +98,7 @@ Two serious positions, both worth reading:
 
 Most engineering improves by failing: ship it, watch it break, fix it. The worry about superintelligence is that this loop might not be there. A system far more capable than us, pursuing goals that aren't quite ours, might not leave room for a second attempt. That is the core of the alignment argument, and it's why some researchers want the safety work done before the capability arrives rather than after.
 
-The argument's logic holds. It also rests on open questions: whether capability arrives in a jump or by degrees, whether these systems become agents with goals of their own, and whether we keep the ability to watch and correct them. Serious people answer those differently. Nobody knows yet.
+The argument's logic holds. It also rests on open questions: whether capability arrives in a jump or by degrees, whether these systems become agents with goals of their own, and whether we keep the ability to watch and correct them. Serious people answer those differently, and nobody knows yet.
 
 ### What about the energy cost?
 
@@ -106,14 +106,14 @@ Real, and growing fast in total, but smaller per question than most people guess
 
 ### You've already met the small version
 
-Alignment means getting a system to do what we actually want. Today you saw it fall short in small ways:
+Alignment means getting a system to do what we actually want. The chapters showed it falling short in small ways:
 
 - a model tuned to please you, which folds when you push back with no new evidence
 - mistakes that don't look like mistakes, so your alarm stays quiet
 - values nobody chose, in the quiet defaults
 - an agent checking its own work and sharing its own blind spots
 
-The day's answers were a check from outside the tool, a blind test before you rely on anything, and a gate where kill is a real option. Safety researchers ask for the same things at a much larger scale. The one-shot worry is about what happens if those habits stop being possible.
+This book's answers are a check from outside the tool, a blind test before you rely on anything, and a gate where kill is a real option. Safety researchers ask for the same things at a much larger scale. The one-shot worry is about what happens if those habits stop being possible.
 
 ::: {.callout-note title="Note"}
 **To follow it:** the [International AI Safety Report](https://internationalaisafetyreport.org) publishes yearly with updates in between. Australia's [AI Safety Institute](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute) was announced in November 2025 to monitor and test emerging AI. For governance and regulation in depth, Curtin's [Ethics of artificial intelligence](https://www.curtin.edu.au/study/prof-development/ethics-of-artificial-intelligence/) masterclass.
