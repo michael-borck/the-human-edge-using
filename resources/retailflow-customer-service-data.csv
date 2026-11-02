@@ -1,0 +1,261 @@
+ticket_id,date,day_of_week,month,category,channel,priority,agent,response_time_hours,resolution_time_hours,satisfaction_score,resolved
+RF-5010,2024-07-03,Wednesday,July,Account Issues,Live Chat,High,Lisa C,3.9,6.3,3.3,Yes
+RF-5231,2024-07-03,Wednesday,July,Product Information,Phone,Medium,David L,2.3,5.0,4.3,Yes
+RF-5189,2024-07-05,Friday,July,Order Tracking,Live Chat,Medium,David L,2.7,6.1,4.5,Yes
+RF-5242,2024-07-05,Friday,July,Order Tracking,Social Media,Medium,Sarah M,7.8,10.1,4.7,Yes
+RF-5052,2024-07-06,Saturday,July,Account Issues,Phone,Medium,James K,4.4,7.1,3.7,Yes
+RF-5002,2024-07-07,Sunday,July,Product Information,Email,High,Amy T,11.5,15.0,3.7,Yes
+RF-5149,2024-07-07,Sunday,July,Returns & Refunds,Email,Medium,Priya R,20.0,36.3,1.0,Yes
+RF-5165,2024-07-07,Sunday,July,Account Issues,Phone,High,Tom W,9.4,6.6,3.1,Yes
+RF-5102,2024-07-08,Monday,July,Order Tracking,Email,Medium,James K,15.8,10.4,2.5,Yes
+RF-5205,2024-07-09,Tuesday,July,Order Tracking,Phone,Medium,Sarah M,3.8,8.1,3.6,Yes
+RF-5119,2024-07-10,Wednesday,July,Order Tracking,Social Media,Low,James K,6.0,11.0,4.1,Yes
+RF-5162,2024-07-10,Wednesday,July,Order Tracking,Phone,Medium,David L,2.3,9.5,3.7,No
+RF-5175,2024-07-10,Wednesday,July,Billing Queries,Phone,Medium,Lisa C,6.7,5.7,3.4,Yes
+RF-5259,2024-07-10,Wednesday,July,Product Information,Social Media,High,Amy T,3.1,6.0,4.5,Yes
+RF-5030,2024-07-11,Thursday,July,Delivery Problems,Phone,Medium,James K,5.1,17.9,3.1,No
+RF-5120,2024-07-11,Thursday,July,Product Information,Social Media,High,Marcus B,4.5,8.2,4.5,Yes
+RF-5154,2024-07-11,Thursday,July,Delivery Problems,Live Chat,Low,Lisa C,5.0,16.1,3.1,Yes
+RF-5036,2024-07-12,Friday,July,Delivery Problems,Live Chat,Critical,Tom W,3.9,6.9,2.5,No
+RF-5063,2024-07-12,Friday,July,Billing Queries,Email,High,Priya R,12.7,33.5,2.1,Yes
+RF-5018,2024-07-14,Sunday,July,Account Issues,Social Media,Low,Amy T,18.0,9.7,2.6,Yes
+RF-5130,2024-07-14,Sunday,July,Account Issues,Social Media,Medium,James K,14.4,9.9,2.2,Yes
+RF-5007,2024-07-15,Monday,July,Order Tracking,Live Chat,Medium,Lisa C,4.8,8.5,4.3,Yes
+RF-5254,2024-07-17,Wednesday,July,Returns & Refunds,Email,Critical,Tom W,9.4,25.7,1.1,Yes
+RF-5016,2024-07-18,Thursday,July,Billing Queries,Social Media,Low,Tom W,6.6,18.8,3.3,Yes
+RF-5026,2024-07-18,Thursday,July,Delivery Problems,Phone,Low,Lisa C,6.4,25.4,2.9,Yes
+RF-5077,2024-07-18,Thursday,July,Returns & Refunds,Email,Medium,Lisa C,19.3,35.0,1.8,Yes
+RF-5144,2024-07-18,Thursday,July,Order Tracking,Email,Medium,Sarah M,8.2,18.0,3.6,Yes
+RF-5185,2024-07-18,Thursday,July,Billing Queries,Email,Medium,Priya R,14.0,33.8,1.5,No
+RF-5147,2024-07-19,Friday,July,Product Information,Social Media,Medium,James K,5.2,12.2,4.6,Yes
+RF-5260,2024-07-20,Saturday,July,Product Information,Live Chat,High,Sarah M,1.4,5.0,4.9,Yes
+RF-5132,2024-07-21,Sunday,July,Returns & Refunds,Live Chat,Critical,Marcus B,7.4,11.7,1.9,Yes
+RF-5209,2024-07-21,Sunday,July,Product Information,Social Media,Low,Amy T,4.9,9.1,4.1,Yes
+RF-5221,2024-07-22,Monday,July,Order Tracking,Phone,High,Priya R,3.3,11.9,4.0,Yes
+RF-5174,2024-07-23,Tuesday,July,Account Issues,Phone,High,Sarah M,5.7,6.6,4.0,Yes
+RF-5235,2024-07-23,Tuesday,July,Product Information,Social Media,High,Tom W,3.1,10.2,4.2,Yes
+RF-5020,2024-07-24,Wednesday,July,Billing Queries,Social Media,Low,David L,8.1,26.4,2.2,Yes
+RF-5040,2024-07-24,Wednesday,July,Delivery Problems,Email,High,Tom W,16.7,23.8,1.7,Yes
+RF-5060,2024-07-24,Wednesday,July,Returns & Refunds,Email,Medium,Marcus B,14.8,46.8,1.0,Yes
+RF-5072,2024-07-24,Wednesday,July,Product Information,Email,Medium,James K,7.4,9.3,3.5,No
+RF-5239,2024-07-24,Wednesday,July,Returns & Refunds,Email,High,Marcus B,14.5,44.8,1.3,Yes
+RF-5042,2024-07-28,Sunday,July,Delivery Problems,Phone,High,David L,8.4,22.9,2.6,Yes
+RF-5115,2024-07-28,Sunday,July,Order Tracking,Email,Medium,Amy T,19.7,10.7,2.8,Yes
+RF-5055,2024-07-31,Wednesday,July,Delivery Problems,Email,Low,Amy T,15.1,20.7,1.2,Yes
+RF-5146,2024-07-31,Wednesday,July,Returns & Refunds,Phone,Medium,Lisa C,7.8,30.7,2.0,Yes
+RF-5113,2024-08-03,Saturday,August,Returns & Refunds,Email,Medium,Marcus B,9.6,62.6,2.5,No
+RF-5151,2024-08-03,Saturday,August,Product Information,Social Media,Low,James K,4.2,6.5,3.6,No
+RF-5229,2024-08-04,Sunday,August,Returns & Refunds,Phone,Low,Marcus B,14.1,18.4,1.4,Yes
+RF-5246,2024-08-04,Sunday,August,Account Issues,Email,Low,Sarah M,13.8,19.1,2.8,Yes
+RF-5084,2024-08-07,Wednesday,August,Order Tracking,Email,High,Priya R,5.4,8.5,4.0,Yes
+RF-5099,2024-08-07,Wednesday,August,Delivery Problems,Email,Medium,Priya R,18.8,39.4,1.7,Yes
+RF-5166,2024-08-07,Wednesday,August,Delivery Problems,Phone,Medium,James K,4.3,15.8,2.6,Yes
+RF-5078,2024-08-08,Thursday,August,Product Information,Email,Medium,Amy T,5.5,9.2,4.1,Yes
+RF-5003,2024-08-09,Friday,August,Order Tracking,Email,Low,Amy T,4.9,20.6,4.2,Yes
+RF-5031,2024-08-09,Friday,August,Billing Queries,Phone,Low,Priya R,6.7,5.9,3.6,Yes
+RF-5110,2024-08-09,Friday,August,Order Tracking,Email,High,Lisa C,7.2,13.9,3.8,Yes
+RF-5067,2024-08-10,Saturday,August,Order Tracking,Email,Low,Amy T,7.2,16.6,3.6,Yes
+RF-5053,2024-08-12,Monday,August,Account Issues,Social Media,High,Priya R,7.7,15.9,3.7,No
+RF-5232,2024-08-12,Monday,August,Order Tracking,Live Chat,High,Lisa C,2.7,8.4,4.7,Yes
+RF-5255,2024-08-14,Wednesday,August,Order Tracking,Email,High,Priya R,7.5,12.7,4.3,Yes
+RF-5117,2024-08-15,Thursday,August,Billing Queries,Email,Medium,David L,13.1,37.1,1.5,No
+RF-5019,2024-08-16,Friday,August,Returns & Refunds,Phone,Critical,David L,8.5,27.7,1.7,Yes
+RF-5023,2024-08-17,Saturday,August,Order Tracking,Live Chat,High,Amy T,1.7,7.1,4.4,Yes
+RF-5074,2024-08-18,Sunday,August,Product Information,Email,Medium,David L,8.9,11.9,3.4,Yes
+RF-5194,2024-08-18,Sunday,August,Order Tracking,Phone,Medium,Sarah M,5.3,8.6,4.4,Yes
+RF-5116,2024-08-19,Monday,August,Billing Queries,Phone,High,Priya R,5.2,16.4,3.6,Yes
+RF-5112,2024-08-22,Thursday,August,Returns & Refunds,Phone,Low,Lisa C,5.5,12.1,2.4,Yes
+RF-5167,2024-08-22,Thursday,August,Returns & Refunds,Email,Critical,Sarah M,17.8,46.2,1.0,No
+RF-5224,2024-08-22,Thursday,August,Product Information,Phone,Low,David L,2.1,4.0,4.4,Yes
+RF-5022,2024-08-25,Sunday,August,Billing Queries,Email,Medium,Marcus B,22.2,26.5,2.3,Yes
+RF-5104,2024-08-25,Sunday,August,Product Information,Social Media,Medium,David L,9.6,6.6,3.3,No
+RF-5159,2024-08-25,Sunday,August,Account Issues,Live Chat,Medium,David L,3.5,4.5,3.4,Yes
+RF-5094,2024-08-26,Monday,August,Account Issues,Email,Medium,Lisa C,10.1,14.2,2.4,Yes
+RF-5198,2024-08-26,Monday,August,Delivery Problems,Live Chat,Medium,Amy T,4.9,17.2,2.9,No
+RF-5126,2024-08-27,Tuesday,August,Billing Queries,Phone,Medium,James K,5.1,12.2,3.6,Yes
+RF-5152,2024-08-27,Tuesday,August,Returns & Refunds,Social Media,High,James K,8.6,37.4,1.4,Yes
+RF-5169,2024-08-27,Tuesday,August,Billing Queries,Social Media,High,Tom W,9.5,18.9,2.9,No
+RF-5188,2024-08-28,Wednesday,August,Order Tracking,Phone,Medium,James K,2.0,7.8,4.2,No
+RF-5079,2024-08-29,Thursday,August,Delivery Problems,Email,Medium,David L,15.6,50.1,1.8,No
+RF-5190,2024-08-29,Thursday,August,Product Information,Email,High,Priya R,5.7,8.8,4.0,Yes
+RF-5201,2024-08-29,Thursday,August,Order Tracking,Phone,Medium,David L,3.0,7.5,4.3,Yes
+RF-5128,2024-08-30,Friday,August,Billing Queries,Email,High,David L,8.8,19.2,2.8,Yes
+RF-5013,2024-08-31,Saturday,August,Delivery Problems,Social Media,Low,David L,12.1,41.0,1.1,Yes
+RF-5137,2024-08-31,Saturday,August,Delivery Problems,Email,High,Marcus B,9.1,32.0,2.4,Yes
+RF-5058,2024-09-01,Sunday,September,Delivery Problems,Email,High,Marcus B,31.2,25.2,1.3,No
+RF-5172,2024-09-01,Sunday,September,Order Tracking,Social Media,Medium,Tom W,9.2,13.4,4.1,Yes
+RF-5171,2024-09-04,Wednesday,September,Delivery Problems,Phone,High,Lisa C,8.1,20.3,2.5,Yes
+RF-5044,2024-09-05,Thursday,September,Delivery Problems,Social Media,Medium,David L,10.6,20.9,2.1,Yes
+RF-5050,2024-09-05,Thursday,September,Returns & Refunds,Phone,Medium,Amy T,5.4,29.7,2.3,No
+RF-5197,2024-09-05,Thursday,September,Returns & Refunds,Social Media,Medium,David L,13.4,26.6,1.2,Yes
+RF-5011,2024-09-06,Friday,September,Billing Queries,Email,Medium,James K,14.9,20.9,1.4,Yes
+RF-5035,2024-09-06,Friday,September,Order Tracking,Email,Medium,Marcus B,7.1,22.8,4.5,Yes
+RF-5069,2024-09-07,Saturday,September,Delivery Problems,Live Chat,Low,Lisa C,4.8,16.9,3.0,Yes
+RF-5157,2024-09-07,Saturday,September,Product Information,Live Chat,Low,Amy T,2.5,3.5,4.9,Yes
+RF-5061,2024-09-08,Sunday,September,Returns & Refunds,Phone,High,Marcus B,12.8,25.7,1.1,Yes
+RF-5170,2024-09-09,Monday,September,Returns & Refunds,Email,Medium,Amy T,34.6,51.0,1.0,Yes
+RF-5248,2024-09-09,Monday,September,Account Issues,Phone,Medium,Lisa C,8.0,17.1,3.3,Yes
+RF-5134,2024-09-12,Thursday,September,Order Tracking,Live Chat,Medium,David L,1.6,6.8,4.4,Yes
+RF-5252,2024-09-12,Thursday,September,Account Issues,Email,Medium,Amy T,6.1,23.5,3.0,Yes
+RF-5091,2024-09-14,Saturday,September,Delivery Problems,Phone,Low,James K,4.1,25.0,3.1,Yes
+RF-5025,2024-09-15,Sunday,September,Product Information,Social Media,Critical,Sarah M,11.6,12.4,3.1,No
+RF-5037,2024-09-15,Sunday,September,Product Information,Email,Medium,Lisa C,8.4,13.3,2.9,Yes
+RF-5070,2024-09-16,Monday,September,Account Issues,Social Media,Medium,David L,11.3,29.9,2.4,Yes
+RF-5212,2024-09-17,Tuesday,September,Product Information,Email,Low,James K,4.2,10.7,3.7,Yes
+RF-5118,2024-09-19,Thursday,September,Order Tracking,Live Chat,Medium,Lisa C,3.2,5.5,3.8,Yes
+RF-5156,2024-09-19,Thursday,September,Delivery Problems,Phone,Critical,Marcus B,8.3,10.3,1.7,Yes
+RF-5217,2024-09-19,Thursday,September,Order Tracking,Phone,Medium,David L,4.7,8.7,3.9,Yes
+RF-5045,2024-09-20,Friday,September,Delivery Problems,Live Chat,Low,Amy T,5.1,15.3,2.7,Yes
+RF-5163,2024-09-20,Friday,September,Order Tracking,Social Media,High,Lisa C,5.9,11.0,4.1,Yes
+RF-5238,2024-09-21,Saturday,September,Delivery Problems,Email,High,David L,9.2,43.0,1.5,Yes
+RF-5210,2024-09-22,Sunday,September,Order Tracking,Phone,Critical,David L,6.6,5.8,3.9,Yes
+RF-5177,2024-09-23,Monday,September,Order Tracking,Email,Medium,Priya R,9.1,23.0,3.7,Yes
+RF-5098,2024-09-24,Tuesday,September,Order Tracking,Live Chat,Medium,James K,3.2,5.3,4.8,Yes
+RF-5176,2024-09-24,Tuesday,September,Returns & Refunds,Social Media,Medium,David L,14.6,20.2,1.0,No
+RF-5199,2024-09-25,Wednesday,September,Returns & Refunds,Social Media,Critical,David L,10.6,40.7,1.8,Yes
+RF-5241,2024-09-25,Wednesday,September,Product Information,Live Chat,High,Marcus B,2.5,4.8,4.3,Yes
+RF-5064,2024-09-26,Thursday,September,Order Tracking,Live Chat,Critical,David L,1.7,2.7,4.2,Yes
+RF-5121,2024-09-26,Thursday,September,Billing Queries,Live Chat,Medium,Sarah M,3.0,8.2,3.6,Yes
+RF-5225,2024-09-26,Thursday,September,Account Issues,Email,Low,Tom W,9.6,23.9,2.8,Yes
+RF-5086,2024-09-27,Friday,September,Billing Queries,Phone,Critical,Lisa C,4.9,9.3,3.2,Yes
+RF-5223,2024-09-27,Friday,September,Billing Queries,Email,Medium,James K,7.6,38.7,2.9,Yes
+RF-5033,2024-09-28,Saturday,September,Returns & Refunds,Email,Medium,Sarah M,17.2,40.5,1.6,Yes
+RF-5047,2024-09-29,Sunday,September,Returns & Refunds,Phone,High,Amy T,16.3,26.5,1.0,Yes
+RF-5213,2024-09-29,Sunday,September,Product Information,Email,High,Amy T,9.5,14.7,3.8,Yes
+RF-5100,2024-09-30,Monday,September,Delivery Problems,Phone,Medium,Priya R,5.9,13.3,2.2,Yes
+RF-5101,2024-10-01,Tuesday,October,Product Information,Live Chat,Medium,Sarah M,2.3,5.4,4.1,Yes
+RF-5215,2024-10-01,Tuesday,October,Returns & Refunds,Phone,Medium,Tom W,6.5,12.5,1.8,Yes
+RF-5107,2024-10-03,Thursday,October,Order Tracking,Phone,Medium,Amy T,4.4,10.1,4.5,Yes
+RF-5122,2024-10-04,Friday,October,Billing Queries,Phone,High,Sarah M,6.3,13.6,2.8,Yes
+RF-5256,2024-10-04,Friday,October,Order Tracking,Email,Medium,James K,9.3,7.7,2.8,Yes
+RF-5082,2024-10-06,Sunday,October,Billing Queries,Email,High,David L,14.7,14.5,2.4,Yes
+RF-5087,2024-10-06,Sunday,October,Product Information,Email,Critical,Lisa C,13.2,10.1,3.1,Yes
+RF-5186,2024-10-06,Sunday,October,Product Information,Social Media,Medium,James K,9.7,8.5,3.3,Yes
+RF-5021,2024-10-08,Tuesday,October,Returns & Refunds,Email,Medium,Amy T,17.7,56.3,1.0,Yes
+RF-5095,2024-10-08,Tuesday,October,Product Information,Email,High,Amy T,6.1,14.0,3.9,Yes
+RF-5228,2024-10-08,Tuesday,October,Account Issues,Email,Medium,David L,10.4,30.1,2.9,Yes
+RF-5218,2024-10-09,Wednesday,October,Returns & Refunds,Social Media,Low,Priya R,12.6,34.5,1.0,Yes
+RF-5054,2024-10-10,Thursday,October,Billing Queries,Phone,Medium,Tom W,3.3,15.1,3.7,Yes
+RF-5092,2024-10-10,Thursday,October,Billing Queries,Social Media,Medium,Amy T,4.8,19.8,3.2,Yes
+RF-5139,2024-10-10,Thursday,October,Billing Queries,Email,Medium,Tom W,9.3,36.5,2.5,Yes
+RF-5184,2024-10-10,Thursday,October,Returns & Refunds,Live Chat,Medium,James K,3.1,12.7,3.1,No
+RF-5038,2024-10-12,Saturday,October,Product Information,Live Chat,Medium,Amy T,2.4,4.2,4.1,Yes
+RF-5143,2024-10-12,Saturday,October,Returns & Refunds,Social Media,High,Sarah M,7.6,36.5,2.7,Yes
+RF-5160,2024-10-12,Saturday,October,Returns & Refunds,Email,Medium,Tom W,13.3,35.3,1.2,No
+RF-5204,2024-10-12,Saturday,October,Product Information,Phone,High,Lisa C,2.9,6.9,4.2,Yes
+RF-5032,2024-10-14,Monday,October,Delivery Problems,Social Media,High,Lisa C,16.2,18.5,1.2,No
+RF-5046,2024-10-15,Tuesday,October,Order Tracking,Social Media,Medium,Sarah M,7.1,14.0,4.0,Yes
+RF-5024,2024-10-16,Wednesday,October,Account Issues,Email,Medium,Lisa C,7.1,27.8,3.2,Yes
+RF-5141,2024-10-17,Thursday,October,Order Tracking,Email,High,Lisa C,6.4,8.5,3.6,Yes
+RF-5234,2024-10-17,Thursday,October,Order Tracking,Social Media,High,Lisa C,7.2,5.6,3.8,Yes
+RF-5245,2024-10-17,Thursday,October,Account Issues,Email,Medium,James K,11.3,13.2,2.4,Yes
+RF-5142,2024-10-18,Friday,October,Order Tracking,Email,Medium,Marcus B,8.3,14.1,2.8,Yes
+RF-5178,2024-10-18,Friday,October,Product Information,Live Chat,High,Priya R,2.7,3.7,3.8,Yes
+RF-5056,2024-10-19,Saturday,October,Billing Queries,Email,High,Priya R,10.7,32.9,2.8,Yes
+RF-5222,2024-10-19,Saturday,October,Order Tracking,Live Chat,Medium,Tom W,2.4,4.5,4.5,Yes
+RF-5083,2024-10-20,Sunday,October,Billing Queries,Email,High,James K,26.2,37.6,2.0,Yes
+RF-5140,2024-10-20,Sunday,October,Delivery Problems,Email,High,Amy T,18.7,45.4,1.1,Yes
+RF-5219,2024-10-21,Monday,October,Delivery Problems,Social Media,Low,Amy T,10.6,26.1,2.2,Yes
+RF-5066,2024-10-22,Tuesday,October,Returns & Refunds,Email,Medium,Sarah M,16.5,56.8,1.0,Yes
+RF-5247,2024-10-22,Tuesday,October,Delivery Problems,Live Chat,Low,James K,4.7,11.1,2.9,Yes
+RF-5133,2024-10-23,Wednesday,October,Account Issues,Social Media,Low,Tom W,8.8,17.2,2.9,Yes
+RF-5179,2024-10-23,Wednesday,October,Delivery Problems,Social Media,Medium,Sarah M,7.6,23.3,2.4,Yes
+RF-5220,2024-10-23,Wednesday,October,Billing Queries,Email,Medium,Amy T,11.8,34.5,2.6,Yes
+RF-5015,2024-10-24,Thursday,October,Order Tracking,Phone,Medium,Tom W,3.6,3.3,4.3,Yes
+RF-5041,2024-10-25,Friday,October,Returns & Refunds,Email,Low,Amy T,15.0,33.2,1.3,Yes
+RF-5168,2024-10-26,Saturday,October,Billing Queries,Phone,Medium,Lisa C,5.5,8.0,3.0,Yes
+RF-5240,2024-10-26,Saturday,October,Account Issues,Email,High,Amy T,7.2,21.0,3.1,Yes
+RF-5180,2024-10-28,Monday,October,Returns & Refunds,Email,Medium,Lisa C,27.2,57.9,1.1,Yes
+RF-5051,2024-10-29,Tuesday,October,Order Tracking,Email,Critical,Marcus B,5.8,8.3,3.0,Yes
+RF-5081,2024-10-29,Tuesday,October,Delivery Problems,Phone,Medium,Amy T,6.6,23.0,3.1,No
+RF-5251,2024-10-29,Tuesday,October,Billing Queries,Email,Low,James K,6.6,18.6,3.6,Yes
+RF-5195,2024-10-31,Thursday,October,Order Tracking,Social Media,Medium,Sarah M,4.1,7.4,4.4,Yes
+RF-5196,2024-10-31,Thursday,October,Billing Queries,Email,High,Amy T,15.4,27.9,1.8,Yes
+RF-5057,2024-11-01,Friday,November,Product Information,Social Media,Medium,Marcus B,5.3,11.0,3.5,Yes
+RF-5202,2024-11-01,Friday,November,Account Issues,Live Chat,Medium,Amy T,1.8,7.8,4.3,Yes
+RF-5048,2024-11-02,Saturday,November,Order Tracking,Phone,High,Amy T,4.0,9.1,4.6,No
+RF-5009,2024-11-04,Monday,November,Order Tracking,Live Chat,Low,Priya R,3.9,5.4,4.5,No
+RF-5080,2024-11-04,Monday,November,Billing Queries,Live Chat,Critical,Marcus B,8.3,12.1,3.0,Yes
+RF-5088,2024-11-05,Tuesday,November,Delivery Problems,Social Media,High,Tom W,10.4,23.1,2.3,Yes
+RF-5136,2024-11-07,Thursday,November,Delivery Problems,Email,Low,David L,8.1,33.3,1.8,Yes
+RF-5034,2024-11-08,Friday,November,Returns & Refunds,Social Media,Medium,Sarah M,7.3,48.9,2.0,No
+RF-5039,2024-11-08,Friday,November,Product Information,Social Media,High,Priya R,4.7,6.3,4.2,Yes
+RF-5076,2024-11-08,Friday,November,Delivery Problems,Email,Medium,David L,10.3,39.8,2.0,No
+RF-5183,2024-11-08,Friday,November,Product Information,Live Chat,Low,Amy T,1.8,2.0,4.6,Yes
+RF-5233,2024-11-08,Friday,November,Order Tracking,Live Chat,High,Marcus B,2.6,6.4,4.4,Yes
+RF-5249,2024-11-08,Friday,November,Order Tracking,Phone,Medium,Tom W,3.3,4.0,4.1,Yes
+RF-5253,2024-11-08,Friday,November,Billing Queries,Social Media,Low,Marcus B,7.4,21.8,3.7,Yes
+RF-5258,2024-11-08,Friday,November,Order Tracking,Social Media,Low,Sarah M,5.3,9.6,3.7,No
+RF-5111,2024-11-09,Saturday,November,Order Tracking,Email,Medium,David L,7.7,12.1,4.5,Yes
+RF-5131,2024-11-09,Saturday,November,Order Tracking,Email,Critical,Tom W,9.6,21.2,2.8,Yes
+RF-5214,2024-11-11,Monday,November,Order Tracking,Phone,Low,Lisa C,3.5,6.4,3.9,Yes
+RF-5125,2024-11-12,Tuesday,November,Order Tracking,Email,Medium,Sarah M,6.7,10.1,4.5,Yes
+RF-5145,2024-11-13,Wednesday,November,Returns & Refunds,Phone,Medium,James K,4.0,13.5,2.4,No
+RF-5250,2024-11-13,Wednesday,November,Delivery Problems,Live Chat,Medium,Marcus B,3.0,17.4,2.8,Yes
+RF-5049,2024-11-14,Thursday,November,Order Tracking,Phone,Medium,Sarah M,2.2,6.2,4.5,Yes
+RF-5153,2024-11-14,Thursday,November,Order Tracking,Email,Medium,Priya R,5.4,17.1,3.6,Yes
+RF-5004,2024-11-15,Friday,November,Order Tracking,Social Media,Low,Lisa C,7.0,12.3,4.5,Yes
+RF-5187,2024-11-15,Friday,November,Returns & Refunds,Live Chat,Critical,Sarah M,6.1,22.7,2.1,Yes
+RF-5227,2024-11-15,Friday,November,Order Tracking,Phone,Medium,Lisa C,3.9,6.6,4.7,Yes
+RF-5012,2024-11-16,Saturday,November,Billing Queries,Social Media,Critical,Marcus B,8.1,11.3,2.7,Yes
+RF-5090,2024-11-16,Saturday,November,Delivery Problems,Phone,Medium,Lisa C,7.5,12.5,3.1,Yes
+RF-5200,2024-11-16,Saturday,November,Billing Queries,Social Media,Medium,James K,11.3,22.5,2.6,Yes
+RF-5014,2024-11-18,Monday,November,Order Tracking,Email,Medium,Tom W,15.5,26.0,2.6,Yes
+RF-5073,2024-11-18,Monday,November,Order Tracking,Live Chat,Medium,James K,3.9,10.3,4.4,Yes
+RF-5103,2024-11-18,Monday,November,Delivery Problems,Phone,Medium,Lisa C,9.8,25.0,2.2,Yes
+RF-5173,2024-11-18,Monday,November,Billing Queries,Phone,High,David L,5.8,14.2,3.5,Yes
+RF-5182,2024-11-18,Monday,November,Billing Queries,Phone,Medium,Priya R,7.7,10.0,3.4,Yes
+RF-5027,2024-11-19,Tuesday,November,Returns & Refunds,Email,Critical,Priya R,12.1,63.9,1.0,Yes
+RF-5029,2024-11-19,Tuesday,November,Delivery Problems,Email,Low,Priya R,13.7,51.0,1.0,Yes
+RF-5043,2024-11-21,Thursday,November,Account Issues,Social Media,High,Amy T,8.8,17.2,3.1,Yes
+RF-5065,2024-11-22,Friday,November,Billing Queries,Live Chat,Medium,Amy T,4.1,11.5,3.5,Yes
+RF-5164,2024-11-22,Friday,November,Returns & Refunds,Social Media,Medium,James K,15.4,35.6,1.3,Yes
+RF-5208,2024-11-22,Friday,November,Order Tracking,Social Media,Medium,Marcus B,4.9,13.7,4.4,Yes
+RF-5017,2024-11-24,Sunday,November,Product Information,Phone,Medium,Amy T,3.1,4.7,3.9,Yes
+RF-5114,2024-11-25,Monday,November,Returns & Refunds,Email,Medium,Lisa C,12.8,77.4,1.4,Yes
+RF-5135,2024-11-25,Monday,November,Order Tracking,Live Chat,Medium,Marcus B,3.4,4.0,4.0,Yes
+RF-5150,2024-11-25,Monday,November,Order Tracking,Social Media,Medium,David L,8.5,18.2,3.7,Yes
+RF-5158,2024-11-25,Monday,November,Delivery Problems,Phone,Low,David L,7.6,29.7,2.7,No
+RF-5257,2024-11-25,Monday,November,Account Issues,Email,Medium,Sarah M,15.5,22.1,2.7,Yes
+RF-5085,2024-11-27,Wednesday,November,Order Tracking,Email,Medium,Lisa C,8.6,21.4,3.5,Yes
+RF-5062,2024-11-28,Thursday,November,Billing Queries,Email,Medium,James K,14.6,20.8,2.3,Yes
+RF-5124,2024-11-30,Saturday,November,Delivery Problems,Live Chat,Medium,Marcus B,5.6,14.8,3.3,Yes
+RF-5191,2024-12-01,Sunday,December,Delivery Problems,Social Media,Medium,Priya R,26.6,36.3,1.8,Yes
+RF-5181,2024-12-03,Tuesday,December,Returns & Refunds,Email,Critical,Tom W,25.4,77.9,1.2,Yes
+RF-5236,2024-12-04,Wednesday,December,Account Issues,Phone,Low,Tom W,7.8,13.7,3.6,Yes
+RF-5096,2024-12-05,Thursday,December,Returns & Refunds,Social Media,Low,Marcus B,14.0,35.0,1.0,No
+RF-5211,2024-12-06,Friday,December,Returns & Refunds,Phone,Low,Lisa C,10.6,33.5,1.5,Yes
+RF-5216,2024-12-06,Friday,December,Returns & Refunds,Social Media,Medium,Amy T,20.9,28.3,1.9,Yes
+RF-5161,2024-12-07,Saturday,December,Account Issues,Live Chat,Critical,Amy T,6.1,8.5,3.1,Yes
+RF-5155,2024-12-08,Sunday,December,Product Information,Email,Medium,Tom W,14.2,7.4,2.3,Yes
+RF-5075,2024-12-09,Monday,December,Account Issues,Phone,Low,Sarah M,12.3,11.5,2.1,Yes
+RF-5226,2024-12-09,Monday,December,Order Tracking,Email,Medium,Sarah M,17.3,16.9,3.2,Yes
+RF-5230,2024-12-10,Tuesday,December,Product Information,Social Media,Critical,Priya R,5.7,8.1,3.1,Yes
+RF-5001,2024-12-11,Wednesday,December,Order Tracking,Email,Medium,Priya R,12.6,11.8,2.6,Yes
+RF-5008,2024-12-12,Thursday,December,Product Information,Phone,Medium,Lisa C,3.4,5.7,4.6,Yes
+RF-5108,2024-12-12,Thursday,December,Product Information,Email,High,Lisa C,6.0,22.1,3.4,Yes
+RF-5097,2024-12-13,Friday,December,Returns & Refunds,Phone,Low,James K,12.8,17.2,1.7,Yes
+RF-5206,2024-12-13,Friday,December,Delivery Problems,Email,High,James K,26.6,66.9,1.0,No
+RF-5243,2024-12-14,Saturday,December,Returns & Refunds,Social Media,High,James K,12.3,59.4,1.4,Yes
+RF-5089,2024-12-16,Monday,December,Account Issues,Live Chat,Low,Sarah M,7.0,10.3,3.4,Yes
+RF-5109,2024-12-16,Monday,December,Returns & Refunds,Live Chat,Medium,Sarah M,9.0,20.0,2.5,No
+RF-5127,2024-12-17,Tuesday,December,Returns & Refunds,Email,Low,Amy T,14.6,68.7,1.0,Yes
+RF-5106,2024-12-18,Wednesday,December,Billing Queries,Email,Critical,Sarah M,18.4,36.4,1.4,Yes
+RF-5071,2024-12-20,Friday,December,Delivery Problems,Email,Critical,Lisa C,22.9,47.6,1.0,Yes
+RF-5093,2024-12-20,Friday,December,Returns & Refunds,Phone,Medium,Marcus B,6.9,34.1,2.5,No
+RF-5123,2024-12-21,Saturday,December,Returns & Refunds,Phone,High,Priya R,9.8,20.9,2.0,Yes
+RF-5129,2024-12-21,Saturday,December,Billing Queries,Social Media,Medium,Lisa C,12.0,15.8,3.0,Yes
+RF-5192,2024-12-21,Saturday,December,Returns & Refunds,Email,Critical,Amy T,18.6,36.8,1.2,Yes
+RF-5028,2024-12-23,Monday,December,Account Issues,Phone,Medium,Sarah M,6.7,18.8,3.2,Yes
+RF-5105,2024-12-23,Monday,December,Billing Queries,Live Chat,High,James K,7.5,19.6,3.8,Yes
+RF-5207,2024-12-23,Monday,December,Billing Queries,Social Media,Medium,Sarah M,10.2,39.6,3.2,Yes
+RF-5138,2024-12-26,Thursday,December,Product Information,Phone,Low,David L,2.5,9.6,3.8,Yes
+RF-5203,2024-12-26,Thursday,December,Account Issues,Social Media,Critical,James K,10.3,23.0,3.1,Yes
+RF-5006,2024-12-27,Friday,December,Billing Queries,Email,Medium,Priya R,12.5,26.0,1.3,Yes
+RF-5059,2024-12-27,Friday,December,Delivery Problems,Email,Medium,Tom W,20.7,62.3,1.2,Yes
+RF-5068,2024-12-27,Friday,December,Delivery Problems,Live Chat,Medium,Lisa C,7.1,24.4,3.0,Yes
+RF-5244,2024-12-27,Friday,December,Delivery Problems,Email,Low,James K,16.9,33.1,1.6,Yes
+RF-5005,2024-12-28,Saturday,December,Order Tracking,Email,High,James K,14.6,18.4,2.4,Yes
+RF-5237,2024-12-28,Saturday,December,Returns & Refunds,Email,Critical,James K,24.4,31.3,1.0,Yes
+RF-5148,2024-12-29,Sunday,December,Order Tracking,Email,High,Priya R,26.5,20.7,2.6,Yes
+RF-5193,2024-12-29,Sunday,December,Order Tracking,Email,Low,Amy T,15.7,13.0,3.0,Yes

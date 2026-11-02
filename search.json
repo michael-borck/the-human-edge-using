@@ -1,0 +1,1399 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Human Edge",
+    "section": "",
+    "text": "Preface",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#why-this-book-exists",
+    "href": "index.html#why-this-book-exists",
+    "title": "The Human Edge",
+    "section": "Why this book exists",
+    "text": "Why this book exists\nSomething has changed at work, and it is easy to miss because the output looks so good.\nA report arrives. It is fluent, well structured, and complete. So does a data brief, a proposal, and a plan for a difficult conversation. Any professional with Copilot, ChatGPT, Claude, or Gemini can now produce work that looks like this, in minutes. Generic competence used to be an advantage. It is now the baseline everyone shares.\nThis book has a name for working that way without noticing: vibe professionalism. Vibe coding produces plausible software without understanding it. Vibe professionalism produces plausible reports, analyses, and proposals without briefing them well, checking what they rest on, or owning the decision they feed. The work looks professional. The professionalism is missing.\nThe failure is hard to spot. A rushed human draft looks rushed, and gaps show. An AI output that is wrong arrives polished, complete, and confident, in the same tone as an output that is right. The instinct you have spent your career building, the one that tells you weak work when you see it, stays quiet when you need it.\nThis book teaches the alternative. When everyone has the same tools, the edge moves to what the tool cannot manufacture: your judgement. That means knowing what to ask for, deciding how much to trust the answer, checking it from outside the tool, and keeping a person in charge where the stakes require it. You will practise each of those on your own work.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#who-this-book-is-for",
+    "href": "index.html#who-this-book-is-for",
+    "title": "The Human Edge",
+    "section": "Who this book is for",
+    "text": "Who this book is for\nProfessionals in any role and industry who use AI in their everyday work, or are about to. Team leaders who want to put AI into a team workflow responsibly will get particular value from Part 4.\nNo technical background is required. You do not need to write code. You need real work to practise on, and a willingness to check output you would rather forward.\nIf you lead decisions about which AI projects your organisation should fund, that is the companion volume, The Human Edge: Leading AI with Judgement, in development. This book builds the personal judgement that volume takes to the organisation.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#what-this-book-is-not",
+    "href": "index.html#what-this-book-is-not",
+    "title": "The Human Edge",
+    "section": "What this book is not",
+    "text": "What this book is not\nIt is not a guide to a particular AI tool. The four tools here work on Copilot, ChatGPT, Claude, Gemini, and whatever ships next. Product details, menu names, and model comparisons are confined to Appendix E, where they can date without taking the book with them.\nIt is not a prompt library with a book wrapped around it. Appendix B gives you 27 starter prompts to copy and adapt. The chapters teach you to write your own, and to attach the right check to each one.\nIt is not Conversation, Not Delegation retitled. That companion book teaches how to think with AI in any discipline. This book is narrower and more practical: how to stay credible at work when fluent AI output is everywhere. Where the two overlap, on RTCF and VET, this book teaches the working version and points to the deeper treatment.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#how-this-book-is-structured",
+    "href": "index.html#how-this-book-is-structured",
+    "title": "The Human Edge",
+    "section": "How this book is structured",
+    "text": "How this book is structured\nThe book follows the Curtin Executive Education masterclass of the same name: four parts, one tool each, one question each.\n\n\n\n\n\n\n\n\n\nPart\nTool\nThe question\nYou leave with\n\n\n\n\n1 · Judge\nTrust Tool\nHow much should I trust this output?\nA ten-second habit for every output\n\n\n2 · Brief\nRTCF\nHow do I ask for what I need?\nYour own prompt library\n\n\n3 · Check\nCheck Loop\nHow do I know it’s right?\nAn analysis you have verified yourself\n\n\n4 · Deliver\nOpportunity Finder\nWill it work every week?\nA delivery plan with a 30-day gate\n\n\n\nPart 1 explains what these tools produce and why their mistakes do not look like mistakes. You will learn to place any output in one of four corners in about ten seconds. The corner sets the check.\nPart 2 teaches briefing. Prompting is briefing a capable new colleague, and Context does most of the work. You will add upgrades when output is weak, push back when the tool agrees too easily, and save what works as a standing brief.\nPart 3 is about verification. You will analyse a real dataset with AI, then test three fluent claims made about it. One is verified, one is refuted, and one is overstated. You will also write down how you make one repeatable decision, and test those rules blind against calls you have already made.\nPart 4 takes the same judgement into delivery. You will choose one workflow from your own role, decide which steps AI leads and which stay with a person, design the human checkpoints in from the start, and set a Scale, Pivot, or Kill decision for 30 days’ time.\nBy the end, you should be able to:\n\ndecide how much to trust any AI output, on any tool, and check it from outside the tool;\nbrief AI so the first output is close to usable, and improve weak output without starting again;\nuse AI to analyse data without being fooled, and say what you checked;\nput AI into one real workflow with human checkpoints designed in, and defend the 30-day call.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-read-this-book",
+    "href": "index.html#how-to-read-this-book",
+    "title": "The Human Edge",
+    "section": "How to read this book",
+    "text": "How to read this book\nWork on your own tasks as you go. Each part ends in exercises drawn from the masterclass, collected in Appendix C. Keep a small record: your pass before AI, the brief you used, the corner you placed the output in, and what you checked. That record is the evidence that the work is yours.\nMost exercises need an AI tool you are allowed to use at work and a spreadsheet. Nothing in this book requires you to paste confidential material into a tool. Where your own work cannot go into a tool, use the scenario and decision cards in Appendix C, or the shape trick in Chapter 6: describe the data and let the spreadsheet do the sums.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#conventions-used-in-this-book",
+    "href": "index.html#conventions-used-in-this-book",
+    "title": "The Human Edge",
+    "section": "Conventions used in this book",
+    "text": "Conventions used in this book\n\n\n\n\n\n\nTipTry this\n\n\n\nGreen boxes are short exercises you can do now, most in five to twenty-five minutes.\n\n\n\n\n\n\n\n\nNoteKey idea\n\n\n\nBlue boxes mark an idea, a prompt, or a distinction worth pausing on.\n\n\n\n\n\n\n\n\nWarningWatch out\n\n\n\nYellow boxes flag fluent output that looks right and is not, and the habits that let it through.\n\n\n\n\n\n\n\n\nImportantCritical point\n\n\n\nRed boxes mark the checks and safeguards that are not optional. Do not skip these.\n\n\nRetailFlow, the fictional retailer whose customer service data you will analyse in Chapter 6, appears in grey case boxes. Its dataset is available with the online edition.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#how-this-book-was-written",
+    "href": "index.html#how-this-book-was-written",
+    "title": "The Human Edge",
+    "section": "How this book was written",
+    "text": "How this book was written\nThis book began as a one-day masterclass, The Human Edge: Using AI with Judgement, first marketed as AI for Professionals: Building Everyday Capability. The slides, exercises, field guide, and companion site from that day are the skeleton. The chapters expand the speaker notes, show the worked answers the room produced, and add the reading a single day has no room for.\nIt was written using the method it teaches. AI drafted, the author pushed back. Claims that sounded right were checked against the dataset and the sources. Every figure in the RetailFlow case was recomputed from the file readers download.\nIf that makes you ask whether you should trust it, Chapter 1 gives you a tool for answering that question about any output, including this book’s own.\nSources and credits. Australian evidence in Chapter 11 draws on the Department of Employment and Workplace Relations (2026) and Jobs and Skills Australia (2025). The Decide Like Me method in Chapter 8 draws on Dylan Davis. “Gell-Mann amnesia” is Michael Crichton’s term (2002), named after the physicist Murray Gell-Mann. The Trust Tool, RTCF, and conversation-not-delegation ideas are developed at greater length in Conversation, Not Delegation.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#ways-to-engage-with-this-book",
+    "href": "index.html#ways-to-engage-with-this-book",
+    "title": "The Human Edge",
+    "section": "Ways to engage with this book",
+    "text": "Ways to engage with this book\n\nRead it online. The full book is freely available at the companion website, with search and navigation.\nDownload the PDF or EPUB. Generated from the same source, available from the website.\nDo the day. The masterclass companion site has the interactive workbook, the prompt builder, the Trust Tool game, and the slides: michael-borck.github.io/the-human-edge.\nConverse with it. Use the llm.txt file to load the book into an AI tool, then apply Chapter 7 to what it tells you.\nExplore the source. The full source is on GitHub, including the chapter map and the source-site archive this book was seeded from.\nBrowse all books. This book is part of a series. See all titles at books.borck.education.\n\nThe online version is always the most current.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#the-companion-books",
+    "href": "index.html#the-companion-books",
+    "title": "The Human Edge",
+    "section": "The companion books",
+    "text": "The companion books\n\n\n\n\n\n\n\n\nRoute\nStart here\nContinue with\n\n\n\n\nEveryday professional work\nThe Human Edge: Using AI with Judgement\nConversation, Not Delegation\n\n\nChoosing AI investments\nThe Human Edge: Using AI with Judgement\nThe Human Edge: Leading AI with Judgement (in development)\n\n\nEvaluating applied AI\nProve, Don’t Persuade\nSubstantiate, Don’t Assume\n\n\nTeaching with AI\nPartner, Don’t Police\nConversation, Not Delegation\n\n\n\nStart here if you want judgement at your own desk first. Start with Conversation, Not Delegation if you want the general method of thinking with AI before the workplace tools.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "copyright.html",
+    "href": "copyright.html",
+    "title": "Copyright",
+    "section": "",
+    "text": "The Human Edge: Using AI with Judgement\n© 2026 Michael Borck.\nBook content is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0 International). Original code examples and accompanying software are licensed under the MIT License.\nThese grants cover material the author has authority to license. Separately credited third-party material retains its stated terms. Give appropriate credit, link the content licence and indicate changes; retain the MIT notice when reusing code.\nISBN: (to be assigned)\nThe online edition is the canonical version: michael-borck.github.io/the-human-edge-using.\nRetailFlow and Northbridge are fictional companies created for teaching. Any resemblance to real organisations is coincidental. The Decide Like Me method in Chapter 8 draws on Dylan Davis, as credited there. “Gell-Mann amnesia” is Michael Crichton’s term (2002).",
+    "crumbs": [
+      "Copyright"
+    ]
+  },
+  {
+    "objectID": "chapters/01-the-convincing-average.html",
+    "href": "chapters/01-the-convincing-average.html",
+    "title": "1  The Convincing Average",
+    "section": "",
+    "text": "1.1 Vibe professionalism\nThere is a new way to look competent at work, and it requires almost no competence at all.\nAsk an AI tool for a plan, a brief, or an analysis. Forward what comes back. The document will be fluent. It will be structured. It will usually be about right. Nobody can tell from the document whether you briefed it well, checked what it rests on, or understood a word of it.\nProgrammers have a name for the coding version of this. Vibe coding means describing software, accepting what the tool produces, and not reading the code. The professional version deserves the same name: vibe professionalism. It is reports, analyses, and proposals produced on vibes, polished output with no judgement behind it.\nThe alternative is the same tools, used with judgement and without slowing the work: briefed well, placed before they are trusted, checked from outside, and delivered with a person visibly in charge.\nTo use them that way, you need ten minutes of background and no computer science: just enough to know what kind of thing you are talking to, and why it fails the way it does.",
+    "crumbs": [
+      "Part 1 · Judge: How much should I trust this output?",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>The Convincing Average</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-the-convincing-average.html#ai-is-a-bigger-pie",
+    "href": "chapters/01-the-convincing-average.html#ai-is-a-bigger-pie",
+    "title": "1  The Convincing Average",
+    "section": "1.2 AI is a bigger pie",
+    "text": "1.2 AI is a bigger pie\nMachine learning learns patterns from data rather than following hand-written rules. It sits behind fraud scores, demand forecasts, spam filters, and recommendations. It is probably already running inside your organisation, whether anyone calls it AI or not.\nDeep learning uses many-layered neural networks. It powers speech recognition, image understanding, and translation.\nGenerative AI produces new text, images, audio, or code. Large language models are generative AI for language. They power the chat tools this book focuses on: ChatGPT, Claude, Gemini, and Microsoft Copilot.\nThe focus is on chat tools for a practical reason. You can use them yourself, today, in plain language, on your own work. But the judgement in this book applies to any AI output. A fraud score, a forecast, and a chatbot reply all have to be placed and checked. If someone asks whether your organisation’s forecasting model is AI, the answer is yes, and Chapter 2 applies to it in full.",
+    "crumbs": [
+      "Part 1 · Judge: How much should I trust this output?",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>The Convincing Average</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-the-convincing-average.html#what-these-tools-actually-do",
+    "href": "chapters/01-the-convincing-average.html#what-these-tools-actually-do",
+    "title": "1  The Convincing Average",
+    "section": "1.3 What these tools actually do",
+    "text": "1.3 What these tools actually do\nA language model is trained on an enormous amount of text. It learns to predict which words are likely to come next. It is then tuned to follow instructions and be helpful. Ask it a question, and it produces the most plausible response to that question, one word at a time.\nModern assistants add more on top. Many can search the web, read your files, and write and run small programs to do calculations. That has made them far better at arithmetic and current events than they used to be. Underneath, though, the core is still prediction. That one fact explains both what they are good at and how they fail.\nWhat you get back is a convincing average. Fluent, well structured, and usually about right. For a first draft, a summary, or a list of options, about right is often exactly what you need. For a contract figure, a citation, or a client’s account balance, about right is the same as wrong.\n\n\n\n\n\n\nNoteKey idea\n\n\n\nA language model does not look things up in a store of facts, unless the product around it does that for it. It generates the response that best fits the request. A wrong figure and a right one are produced by the same process, in the same tone. Nothing in the output marks the difference. That marking is your job.",
+    "crumbs": [
+      "Part 1 · Judge: How much should I trust this output?",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>The Convincing Average</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-the-convincing-average.html#where-they-help-and-where-they-go-wrong",
+    "href": "chapters/01-the-convincing-average.html#where-they-help-and-where-they-go-wrong",
+    "title": "1  The Convincing Average",
+    "section": "1.4 Where they help, and where they go wrong",
+    "text": "1.4 Where they help, and where they go wrong\n\n\n\n\n\n\n\nUsually strong\nWatch closely\n\n\n\n\nDrafting emails, reports, proposals, and job ads\nSpecific facts: names, figures, dates, citations, legal detail\n\n\nSummarising and restructuring long documents\nYour context: it knows nothing about your organisation unless you tell it\n\n\nBrainstorming options and counter-arguments\nAgreeing with you: models are tuned to please, and often back down when challenged\n\n\nExplaining unfamiliar topics in plain language\nAnalysis framing: what was counted, what was left out, what was read as cause\n\n\nFirst-pass analysis of a spreadsheet\nAnything that needs a person to be accountable for the decision\n\n\n\nRead the right-hand column as the agenda for this book. Context is fixed by briefing (Part 2). Specific facts and framing are fixed by checking (Part 3). Accountability is fixed by deciding where a person stays in charge (Part 4). Agreement is fixed by pushing back (Chapter 4).",
+    "crumbs": [
+      "Part 1 · Judge: How much should I trust this output?",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>The Convincing Average</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-the-convincing-average.html#the-trap-mistakes-that-dont-look-like-mistakes",
+    "href": "chapters/01-the-convincing-average.html#the-trap-mistakes-that-dont-look-like-mistakes",
+    "title": "1  The Convincing Average",
+    "section": "1.5 The trap: mistakes that don’t look like mistakes",
+    "text": "1.5 The trap: mistakes that don’t look like mistakes\nYou have spent your career learning to spot weak work. A rushed draft looks rushed. Gaps show. A junior colleague who is guessing sounds like it.\nAI output breaks that signal. Its wrong answers arrive polished, complete, and confident. They use the same headings, the same tone, and the same level of detail as its right answers. So the alarm you normally rely on stays quiet when you need it.\nThere is a second, quieter version of the same trap. You catch the tool’s errors easily in your own field. Then you trust it on the law, the market, or the numbers, where you are least able to check. Michael Crichton named this pattern in 2002, after the physicist Murray Gell-Mann: Gell-Mann amnesia. Chapter 7 gives you a method for it. For now, hold the rule: be most sceptical where you know least.\n\n\n\n\n\n\nWarningWatch out\n\n\n\nThe most dangerous output is not the obvious mistake. It is the one that sounds completely right. Polish is part of the product. It tells you nothing about accuracy.",
+    "crumbs": [
+      "Part 1 · Judge: How much should I trust this output?",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>The Convincing Average</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-the-convincing-average.html#your-pass-first",
+    "href": "chapters/01-the-convincing-average.html#your-pass-first",
+    "title": "1  The Convincing Average",
+    "section": "1.6 Your pass first",
+    "text": "1.6 Your pass first\nThe first habit costs five minutes and protects everything after it. Before you give a task that matters to AI, do a rough pass yourself.\nA sketch is enough: the structure you would use, the three points that matter, the figure you expect to be roughly true. Then run the AI. Then compare.\nThe comparison is where the value sits. Where you beat the tool is almost always context: the history, the politics, the thing nobody wrote down. Name that for what it is. That is your edge, and no model update takes it away. Where the tool beat you is a blind spot worth practising. Chapter 11 turns this into a weekly habit.\n\n\n\n\n\n\nTipTry this: your pass first (25 minutes)\n\n\n\nTake this task, or one like it from your own week:\n\nI manage a team of 8 in a mid-sized company. One of my team, a strong performer for three years, has been late and missing deadlines for the past month. Others are starting to notice. Write me a plan to address this.\n\n\nYour pass first. Five minutes, no AI. Sketch your own plan.\nThen AI’s. Paste the task, unedited, into an AI tool. Use two tools if you have them.\nCompare side by side. Where did you beat it? Where did it beat you? What did it get confidently wrong?\n\nIn the masterclass, the comparison reliably surfaces the same things: different assumptions about tone, nobody asking about personal circumstances, confident employment advice nobody in the room could verify, and plans that are too punitive or too soft. The sentence to listen for in yourself is: “I’d take its structure and my judgement.” That sentence is this book in miniature.\n\n\nBefore anyone pastes anything into a tool, one rule comes first. Nothing confidential or personal goes into a tool your organisation has not approved. Appendix D covers data, privacy, and disclosure in full.",
+    "crumbs": [
+      "Part 1 · Judge: How much should I trust this output?",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>The Convincing Average</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-the-convincing-average.html#what-to-carry-forward",
+    "href": "chapters/01-the-convincing-average.html#what-to-carry-forward",
+    "title": "1  The Convincing Average",
+    "section": "1.7 What to carry forward",
+    "text": "1.7 What to carry forward\n\nThe output is a convincing average. About right is useful, until the task needs exactly right.\nMistakes do not look like mistakes. Your usual alarm will not fire.\nYou trust the tool most where you know least. Reverse that instinct.\nYour pass first. Five minutes of your own thinking turns you from a forwarder into an editor.\n\nThe next chapter turns “can I trust this?” into a ten-second decision you can make about any output, on any tool.",
+    "crumbs": [
+      "Part 1 · Judge: How much should I trust this output?",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>The Convincing Average</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-the-trust-tool.html",
+    "href": "chapters/02-the-trust-tool.html",
+    "title": "2  The Trust Tool",
+    "section": "",
+    "text": "2.1 A ten-second habit\n“Can I trust this?” is too vague to answer. It collapses two different questions into one feeling, and the feeling is usually wrong, because fluent output feels trustworthy whether it is or not.\nThe Trust Tool separates the questions. Ask both about any output, before you act on it.\nTwo questions, four corners. Precision runs across. Consequences run up.\nThe corners come with examples worth memorising. A birthday message for a colleague is corner A. A statistic quoted in a newsletter is corner C: easy to check, embarrassing in print. A strategy memo for the executive team is corner B: the prose can be average, but the three claims it rests on cannot. The figures in a board paper are corner D.\nRule of thumb: lean in where about-right on low stakes is fine. Keep a person in charge where exactly-right meets high stakes.",
+    "crumbs": [
+      "Part 1 · Judge: How much should I trust this output?",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The Trust Tool</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-the-trust-tool.html#a-ten-second-habit",
+    "href": "chapters/02-the-trust-tool.html#a-ten-second-habit",
+    "title": "2  The Trust Tool",
+    "section": "",
+    "text": "How exact must it be? Average means the ballpark is fine: a draft, a summary, a list of ideas. Precise means there is one right answer, and close is the same as wrong: a figure, a name, a date, a citation, a clause.\nWhat happens if it is wrong? Small means cheap to fix and nobody harmed. Large means money, safety, reputation, or someone’s job or wellbeing.\n\n\n\n\n\n\n\n\n\n\n\nAverage is fine\nPrecise, one right answer\n\n\n\n\nLarge consequences\nB · Verify the load-bearing bits. Check the claims the output rests on.\nD · Human in the loop. AI can help. A person decides, and signs.\n\n\nSmall consequences\nA · Trust with light review. Use it. Skim before it goes out.\nC · Verify before you ship. Check every figure, name, and date.",
+    "crumbs": [
+      "Part 1 · Judge: How much should I trust this output?",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The Trust Tool</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-the-trust-tool.html#the-corner-sets-the-check",
+    "href": "chapters/02-the-trust-tool.html#the-corner-sets-the-check",
+    "title": "2  The Trust Tool",
+    "section": "2.2 The corner sets the check",
+    "text": "2.2 The corner sets the check\n\nCorner A: read it once, as its reader would. Then use it. Spending twenty minutes verifying a birthday message is its own kind of failure.\nCorner B: find the load-bearing claims. There are usually two or three: a deadline, an eligibility rule, a budget figure. Verify those against the source. Let the rest of the prose be average.\nCorner C: check every precise element before it leaves you. Figures, names, dates, citations. One wrong publication year in print means a correction and a dent in credibility.\nCorner D: AI may draft, structure, and list options. A person owns every word and figure, and makes the decision. Entitlements, safety figures, and anything about a person’s livelihood live here.",
+    "crumbs": [
+      "Part 1 · Judge: How much should I trust this output?",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The Trust Tool</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-the-trust-tool.html#check-from-outside-the-tool",
+    "href": "chapters/02-the-trust-tool.html#check-from-outside-the-tool",
+    "title": "2  The Trust Tool",
+    "section": "2.3 Check from outside the tool",
+    "text": "2.3 Check from outside the tool\n\n\n\n\n\n\nImportantCritical point\n\n\n\nAsking the AI “are you sure?” does not count as a check. The tool tends to agree with itself, because agreement is what it was tuned to produce. The check comes from outside: the source document, the data itself, your own arithmetic, or a colleague who knows. Better models move the corners. They never remove the check.\n\n\nThis one rule does most of the work in Part 3. Verification from outside feels slower than asking the tool to double-check. It is also the only kind that works.",
+    "crumbs": [
+      "Part 1 · Judge: How much should I trust this output?",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The Trust Tool</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-the-trust-tool.html#place-it-five-scenarios",
+    "href": "chapters/02-the-trust-tool.html#place-it-five-scenarios",
+    "title": "2  The Trust Tool",
+    "section": "2.4 Place it: five scenarios",
+    "text": "2.4 Place it: five scenarios\nIn the masterclass, the room votes blind on scenarios like these, without seeing how anyone else voted. Blind matters, because it stops the room following the most senior person. Place each one yourself before reading the usual answer.\n\nRewrite your out-of-office message to sound friendlier. Corner A. The ballpark is fine, and a mistake is cheap. If you said B, ask what would actually go wrong.\nSummarise a 40-page tender so your team can decide whether to bid. Corner B. The deadline, eligibility rules, and budget carry the decision. The decision to bid is already human. What needs checking is the three facts it rests on.\nThe publication year of a study you will cite in an internal newsletter. Corner C. One right answer. Wrong in print means a correction. If you said A because it is “only internal”, ask who forwards newsletters.\nTalking points for a difficult conversation with a team member. This one splits B and D, and the split is the lesson. B voters see a draft to adapt. D voters see a person’s wellbeing. Both are right about something.\nA letter telling a staff member their role is redundant. Corner D. Entitlements, law, and a livelihood. AI can help with structure. A person owns every word and figure.\n\nTwo spares, for the pattern. Meeting minutes from your own notes are corner A, because you were there and minutes get corrected at the next meeting. A dosage or safety figure in a site procedure is corner D, because precise meets safety, and a person sources it and signs it.\n\n\n\n\n\n\nNoteKey idea\n\n\n\nWhen people disagree about a corner, they almost always disagree about stakes, not precision. And stakes depend on who sees the output next. A formula in a budget spreadsheet is corner C if you will check it before it leaves you. It becomes corner D the moment it feeds a decision without another pair of eyes.",
+    "crumbs": [
+      "Part 1 · Judge: How much should I trust this output?",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The Trust Tool</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-the-trust-tool.html#two-traps-that-distort-placement",
+    "href": "chapters/02-the-trust-tool.html#two-traps-that-distort-placement",
+    "title": "2  The Trust Tool",
+    "section": "2.5 Two traps that distort placement",
+    "text": "2.5 Two traps that distort placement\nGell-Mann amnesia, from Chapter 1, pushes everything in your own field toward D and everything outside it toward A. That is backwards. Your expertise is a checking instrument. Where you lack it, the output needs more outside verification.\nThe mirror-image trap is the AI dismissal fallacy: “that’s just ChatGPT” offered as a critique. That refuses to engage with the claim. Judge the reasoning, not where it came from. A correct claim from a tool is still correct, and a polished claim from a person can still be wrong.",
+    "crumbs": [
+      "Part 1 · Judge: How much should I trust this output?",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The Trust Tool</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-the-trust-tool.html#practise-until-it-is-a-reflex",
+    "href": "chapters/02-the-trust-tool.html#practise-until-it-is-a-reflex",
+    "title": "2  The Trust Tool",
+    "section": "2.6 Practise until it is a reflex",
+    "text": "2.6 Practise until it is a reflex\n\n\n\n\n\n\nTipTry this: place three tasks from your week (15 minutes)\n\n\n\n\nList three tasks from your own week where you used AI, or wanted to.\nPlace each one in a corner. Write down the check the corner calls for.\nSwap with a colleague, or argue the opposite corner yourself. Where do you disagree, and is the disagreement really about who sees the output next?\n\nThe online Trust Tool game at trusttool.borck.education gives you ten scenarios from a domain you choose, with an explanation on every card. Ten minutes of play does more than an hour of reading about the grid.",
+    "crumbs": [
+      "Part 1 · Judge: How much should I trust this output?",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The Trust Tool</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-the-trust-tool.html#three-rules-before-you-paste",
+    "href": "chapters/02-the-trust-tool.html#three-rules-before-you-paste",
+    "title": "2  The Trust Tool",
+    "section": "2.7 Three rules before you paste",
+    "text": "2.7 Three rules before you paste\nPlacement protects what comes out. One more habit protects what goes in.\n\nClassify it, then pick the tool. Know whether your material is public, internal, or confidential, and which tools your organisation has approved for each kind.\nLeave out what identifies people. Names, client details, and personal information rarely change what the tool produces. Describe the case instead.\nKnow what the tool remembers. Check the training, memory, and history settings of any tool you use for work, and review them when the product changes.\n\nAppendix D develops all three, with Australia’s six essential practices and the privacy rule for automated decisions.",
+    "crumbs": [
+      "Part 1 · Judge: How much should I trust this output?",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The Trust Tool</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-the-trust-tool.html#what-to-carry-forward",
+    "href": "chapters/02-the-trust-tool.html#what-to-carry-forward",
+    "title": "2  The Trust Tool",
+    "section": "2.8 What to carry forward",
+    "text": "2.8 What to carry forward\n\nTwo questions: how exact, and what if wrong. The corner sets the check.\nDisagreement about corners is usually disagreement about stakes. Stakes live with the next reader.\nCheck from outside the tool. “Are you sure?” is not a check.\nClassify before you paste. Leave out what identifies people.\n\nYou can now decide how much any output can be trusted. Part 2 is about the other half of the exchange: asking well enough that the first output deserves your time.",
+    "crumbs": [
+      "Part 1 · Judge: How much should I trust this output?",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The Trust Tool</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-brief-like-a-colleague.html",
+    "href": "chapters/03-brief-like-a-colleague.html",
+    "title": "3  Brief Like a Colleague",
+    "section": "",
+    "text": "3.1 The disappointing first output\nMost professional frustration with AI has the same shape. You type a short request, the way you would type a search query. Back comes something generic: correct in outline, useless in detail, written for nobody in particular. You conclude the tool is overrated, or you spend ten turns nudging it toward what you needed.\nThe brief was the main problem. A language model fills gaps with the average. Every detail you leave out (the audience, the history, the constraint, what good looks like) comes back as a guess, and the guesses are what make output feel generic.\nWrite the prompt the way you would brief a smart, fast colleague who is new to your job. RTCF is the checklist that makes it repeatable.",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Brief Like a Colleague</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-brief-like-a-colleague.html#rtcf-role-task-context-format",
+    "href": "chapters/03-brief-like-a-colleague.html#rtcf-role-task-context-format",
+    "title": "3  Brief Like a Colleague",
+    "section": "3.2 RTCF: Role, Task, Context, Format",
+    "text": "3.2 RTCF: Role, Task, Context, Format\n\n\n\n\n\n\n\n\nPart\nAsk yourself\nExample\n\n\n\n\nRole\nWho should it write as?\nA senior HR adviser in a mid-sized Australian firm\n\n\nTask\nWhat exactly, and how much?\nDraft a reply to the client. Under 200 words.\n\n\nContext\nWhat does it need to know?\n18-month client. Their board shifted priorities. I want a meeting, not a rewrite.\n\n\nFormat\nWhat should it look like?\nEmail. Acknowledge, explain, propose, close.\n\n\n\nA good brief for real work runs four to eight sentences. That feels long the first time. It is still faster than three rounds of correction.\nContext does most of the work, because it is the only part the tool cannot guess. Audience, situation, stakes, constraints, and the material itself all live in Context. When a second attempt barely improves on the first, the missing ingredient is almost never a cleverer Role. It is the thing you would have told a new hire in the first two minutes.\nRole does the least. On current models, “you are an expert” adds tone more than capability. Use Role to set voice and level, then spend your effort on Context and Format. Be honest with yourself about this if you learned prompting from tip lists. The lists were written for weaker models.",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Brief Like a Colleague</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-brief-like-a-colleague.html#a-before-and-after",
+    "href": "chapters/03-brief-like-a-colleague.html#a-before-and-after",
+    "title": "3  Brief Like a Colleague",
+    "section": "3.3 A before and after",
+    "text": "3.3 A before and after\nBefore, the way most people write it:\nWrite an update on the project for the steering committee.\nAfter, with RTCF:\nROLE: You are an experienced project manager who writes plainly.\nTASK: Turn my notes into a weekly status update for the steering committee.\nCONTEXT: The audience is time-poor and allergic to surprises. We are two\nweeks behind on data migration, on budget otherwise, and the delay does\nnot move the launch date because testing can overlap. Good looks like:\nthe delay stated in the first two lines, with the recovery plan attached.\n[Paste your notes here.]\nFORMAT: RAG status line, three bullets on progress, a small risks table,\nnext steps with owners. Under 300 words.\nRun both in fresh chats and compare. The second output is not better because the prompt is longer. It is better because the decisions a colleague would have asked about are already in it.",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Brief Like a Colleague</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-brief-like-a-colleague.html#five-common-mistakes",
+    "href": "chapters/03-brief-like-a-colleague.html#five-common-mistakes",
+    "title": "3  Brief Like a Colleague",
+    "section": "3.4 Five common mistakes",
+    "text": "3.4 Five common mistakes\n\nThe search-query prompt. Three words, no audience, no purpose. Average in, average out.\nRole and nothing else. “You are a world-class strategist” followed by no context. The tool performs confidence it has not earned.\nAsking for everything at once. A report, an analysis, and a slide outline in one request, all of it shallow. Split the job (Chapter 4).\nNo definition of done. No length, no structure, no standard. The tool cannot hit a target you have not named.\nPasting without classifying. Real client material into an unapproved tool, because the brief needed context. Context can almost always be described without identifiers. Chapter 2 and Appendix D cover the rules.",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Brief Like a Colleague</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-brief-like-a-colleague.html#one-task-or-every-task",
+    "href": "chapters/03-brief-like-a-colleague.html#one-task-or-every-task",
+    "title": "3  Brief Like a Colleague",
+    "section": "3.5 One task, or every task",
+    "text": "3.5 One task, or every task\nRTCF shapes the prompt you type for one job. It also shapes the standing brief you save once and reuse: custom instructions in ChatGPT or Copilot, instructions and Projects in Claude, Gems in Gemini. The generic name is a system prompt.\nThe standing brief holds what is true every time: who it writes as, the context that does not change, your usual format, and your definition of done. The Task stays in each chat. Chapter 5 builds that brief, and Appendix E shows where each product keeps it.\nWhen a vendor demo claims the AI “understands you”, look for this setting: it is a text box, and by the end of Part 2 you will have written a better one.",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Brief Like a Colleague</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-brief-like-a-colleague.html#practice-brief-it-score-it",
+    "href": "chapters/03-brief-like-a-colleague.html#practice-brief-it-score-it",
+    "title": "3  Brief Like a Colleague",
+    "section": "3.6 Practice: brief it, score it",
+    "text": "3.6 Practice: brief it, score it\n\n\n\n\n\n\nTipTry this: two rounds (25 minutes)\n\n\n\n\nPick a real task from your week. Confidential? Use a scenario card from Appendix C.\nRound 1: write the prompt the way you normally would. Run it. Score the output from 1 (unusable) to 5 (ready to use).\nRound 2: rewrite it with RTCF and run it in a fresh chat. Score it again.\nNote which part moved the score most. In the masterclass, it is Context, by a wide margin.\n\nCoaching notes from the room. If Round 2 barely moved, ask: what would I tell a new hire? If you added a Role and nothing else, add Context and Format and run it again. If your Round 2 prompt is under three sentences for a task that matters, it is probably still a search query wearing a suit.",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Brief Like a Colleague</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-brief-like-a-colleague.html#what-to-carry-forward",
+    "href": "chapters/03-brief-like-a-colleague.html#what-to-carry-forward",
+    "title": "3  Brief Like a Colleague",
+    "section": "3.7 What to carry forward",
+    "text": "3.7 What to carry forward\n\nBrief a colleague, not a search engine. Four to eight sentences for work that matters.\nContext does the work. Role sets the voice.\nName what done means, or accept the average.\nEvery gap you leave comes back as a guess. Guesses are what generic output is made of.\n\nA good brief gets you close. The next chapter is for the common case where close is not enough: weak output from a smaller, older, or free-tier model, and output that agrees with you too easily.",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Brief Like a Colleague</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-upgrades-and-pushback.html",
+    "href": "chapters/04-upgrades-and-pushback.html",
+    "title": "4  Upgrades and Pushback",
+    "section": "",
+    "text": "4.1 Still weak? Add one upgrade\nA solid RTCF brief on a strong model usually lands close. Two situations still produce weak output. The task is long or multi-part, so the tool spreads itself thin. Or your organisation has approved a smaller, older, or cheaper model, which needs more scaffolding than the flagship in the advertisements.\nIn both cases, resist the urge to rewrite the whole prompt. Add one upgrade.\nExample is the strongest single upgrade. One artefact you already like (a past update, a good email, last quarter’s brief) communicates length, tone, and structure faster than any description of them. Chapter 5 turns this into teaching the tool your voice.\nDone converts omission into a visible mark. The [CHECK] instruction matters. Without it, a model fills a gap with a plausible guess. With it, the gap arrives labelled. You still verify from outside. Now you know where to look.\nQuestions reverse the briefing. If you cannot tell what context is missing, let the tool ask. Cap the number, and ask for one at a time, or you will get a questionnaire instead of a conversation.\nSteps protect quality on long jobs. An outline first means structure is agreed before prose exists. Section by section means each part gets the tool’s full attention, and your corrections land early, while they are cheap.",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Upgrades and Pushback</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-upgrades-and-pushback.html#still-weak-add-one-upgrade",
+    "href": "chapters/04-upgrades-and-pushback.html#still-weak-add-one-upgrade",
+    "title": "4  Upgrades and Pushback",
+    "section": "",
+    "text": "Upgrade\nLine to add\nUse it when\n\n\n\n\n+ Example\nMatch the length and tone of this example: [paste one you liked]. Don't copy its content.\nThe shape is wrong, whatever you say\n\n\n+ Done\nDone means under 200 words, figures only from my notes, and anything you're unsure of marked [CHECK].\nOutput keeps missing the same way\n\n\n+ Questions\nBefore you start, ask me up to five questions, one at a time.\nYou don’t yet know what context it needs\n\n\n+ Steps\nGive me an outline only. We'll draft one section at a time.\nLong work, or a weaker model",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Upgrades and Pushback</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-upgrades-and-pushback.html#push-back-three-ways",
+    "href": "chapters/04-upgrades-and-pushback.html#push-back-three-ways",
+    "title": "4  Upgrades and Pushback",
+    "section": "4.2 Push back: three ways",
+    "text": "4.2 Push back: three ways\nModels are tuned on human approval, and people prefer agreeable answers. The result is sycophancy: the tool endorses your plan, praises your draft, and folds the moment you disagree with it. An agreeable second opinion adds nothing to the opinion you already had.\nAsk badly (“what do you think?”) and you will get flattery. Ask for attack, and you get something useful.\n\n\n\n\n\n\n\nMove\nLine to add\n\n\n\n\nGuardrail\nOnly change your assessment if I give you a new fact. Name the fact that changed it.\n\n\nDevil’s advocate\nDon't flatter me. Give me three reasons this fails, and name the assumption it all rests on.\n\n\nBoard of directors\nRespond as a board: a CFO, a sceptical customer, and a frontline manager. One paragraph each, then where they disagree.\n\n\n\nThe guardrail is for analytical work, where you plan to add information in stages and need to know what moved the answer. The devil’s advocate is for plans and drafts you are fond of, which is when you need it. The board is for decisions, where the disagreement between perspectives is the useful part. Read the disagreement paragraph twice. It usually names the real trade-off.\n\n\n\n\n\n\nWarningWatch out\n\n\n\nLong chats drift toward your view. The tool has your framing, your vocabulary, and your earlier conclusions in front of it, and agreement gets easier with every turn. For an independent read on something that matters, start a fresh chat, brief it cold, and compare. Two-chat discipline returns in Chapter 5.",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Upgrades and Pushback</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-upgrades-and-pushback.html#the-three-cognitive-traps-revisited",
+    "href": "chapters/04-upgrades-and-pushback.html#the-three-cognitive-traps-revisited",
+    "title": "4  Upgrades and Pushback",
+    "section": "4.3 The three cognitive traps, revisited",
+    "text": "4.3 The three cognitive traps, revisited\nPushback is the behavioural fix for traps worth naming together, because knowing their names is the first defence.\n\nGell-Mann amnesia. Sharp where you know, trusting where you don’t. Be more sceptical where you know less.\nThe AI dismissal fallacy. “That’s just ChatGPT” is not a critique. Judge the reasoning, not the source.\nSycophancy. The tool agrees because agreement was rewarded in training. Treat agreement as no evidence at all.\n\nAll three are human problems, so a model upgrade will not fix them.",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Upgrades and Pushback</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-upgrades-and-pushback.html#practice-upgrade-and-save",
+    "href": "chapters/04-upgrades-and-pushback.html#practice-upgrade-and-save",
+    "title": "4  Upgrades and Pushback",
+    "section": "4.4 Practice: upgrade and save",
+    "text": "4.4 Practice: upgrade and save\n\n\n\n\n\n\nTipTry this: build the start of a library (25 minutes)\n\n\n\n\nTake your best prompt from Chapter 3. Add one upgrade. Run it in a fresh chat.\nApply one push-back move to the output. Note what changed, and whether the change was earned by a new fact or was just folding.\nRepeat for two more tasks from your week.\nSave all three prompts, each with a name, the situation it is for, and the check its output needs (its Trust Tool corner from Chapter 2).\n\nThree saved prompts, each paired with its check, is a personal prompt library. It is also the masterclass promise: you leave with tools that fit your role, not a list of someone else’s. The prompt builder on the course site formats and exports a library like this. A plain text file works just as well.\n\n\nFast finishers in the room do the voice pass here: give the tool a 100-word sample of your own writing, have it rewrite its output in your voice, and ask it to describe the voice as a short style brief. That is the bridge to the next chapter.",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Upgrades and Pushback</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-upgrades-and-pushback.html#what-to-carry-forward",
+    "href": "chapters/04-upgrades-and-pushback.html#what-to-carry-forward",
+    "title": "4  Upgrades and Pushback",
+    "section": "4.5 What to carry forward",
+    "text": "4.5 What to carry forward\n\nWeak output gets one upgrade, not a new prompt. Example first, then Done, Questions, or Steps.\nAgreement is not evidence. Ask for the three reasons it fails.\nFresh chats think independently. Long chats agree with you.\nSave what works, with its check attached.\n\nYou now have briefs that work once. Chapter 5 makes them work every time: your voice, your standing brief, and the discipline of separating thinking from building.",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Upgrades and Pushback</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-teach-it-your-voice.html",
+    "href": "chapters/05-teach-it-your-voice.html",
+    "title": "5  Teach It Your Voice",
+    "section": "",
+    "text": "5.1 From prompt library to standing brief\nAll through Part 2 you have typed the brief fresh: role, task, context, format, and a check. That is the right way to learn. It is a poor way to work forever, because half of most briefs never changes.\nEvery major tool lets you save the unchanging half as a standing brief, sent with every message. The generic name is a system prompt. The trade names differ: custom instructions and Projects in ChatGPT, instructions and Projects in Claude, Gems in Gemini, custom instructions in Copilot. Appendix E has the table of where each one lives, with the usual warning that menu names move.\nWhat goes in: your Role, the Context that is true every time, your Format preferences, and your Done line. What stays out: the Task, which changes each chat, and anything confidential you would not paste into a conversation.\nReview the saved brief each quarter. Your role shifts, your standards sharpen, and the Trust Tool corners move as models improve. A standing brief should move with them. Chapter 11 returns to that review rhythm.",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Teach It Your Voice</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-teach-it-your-voice.html#write-like-me",
+    "href": "chapters/05-teach-it-your-voice.html#write-like-me",
+    "title": "5  Teach It Your Voice",
+    "section": "5.2 Write like me",
+    "text": "5.2 Write like me\nThis makes the + Example upgrade from Chapter 4 permanent.\n\nGive it a sample. About 100 words of your own writing that sounds like you on a good day. Nothing you can paste? Write 100 words on why your current project matters. Spoken and transcribed also works, and often sounds more like you than typed text does.\nAsk for a rewrite. Have the tool rewrite a piece of its own generic output in the voice of the sample. Compare. Correct what it got wrong: too formal, sentences too long, a phrase you would never use.\nAsk for the style brief. Have it describe your voice as short instructions: sentence length, directness, words you favour, words you avoid, how you open and close.\nSave the brief, not the sample. Put the style brief into your standing brief. A screen of rules travels better than pasted examples, and carries no client detail with it.\n\n\n\n\n\n\n\nNoteKey idea\n\n\n\nA voice brief is a small act of professional self-knowledge. Most people have never described how they write. The tool’s first description will be flattering and vague. Push back with specifics (“shorter than that; I don’t use exclamation marks; I state the problem in the first line”) until the brief would let a colleague imitate you. Then it will work on the tool, too.\n\n\nVoice is also a disclosure issue, handled in Appendix D. Output in your voice is still AI-assisted output. Your name goes on it, which means the check in Part 3 applies in full.",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Teach It Your Voice</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-teach-it-your-voice.html#the-two-chat-workflow",
+    "href": "chapters/05-teach-it-your-voice.html#the-two-chat-workflow",
+    "title": "5  Teach It Your Voice",
+    "section": "5.3 The two-chat workflow",
+    "text": "5.3 The two-chat workflow\nOne chat for everything produces one muddled artefact: half thinking, half draft, with your early guesses baked into the final text. Separate the two activities.\n\nThinking chat. Explore. Challenge assumptions, follow tangents, find out what your actual question is. Messy by design, and disposable. Use the push-back moves from Chapter 4 here, or the chat drifts toward your first view.\nIn between: you curate. Read what came out. Keep what matters, drop what doesn’t, and write a short, focused brief in your own words. Do not copy and paste the chat across. The curation is where your judgement lives.\nBuilding chat. A fresh chat that produces the output from your brief. Better input, better output, and no residue from your discarded first ideas.\n\nOnly you hold the whole picture, which is what “human in the loop” means in practice at the scale of one professional and one task.\nTwo practical notes. First, for thinking out loud, the model barely matters. You are the filter, an average idea is a fine stimulus, and a small or local model is enough. Save the strongest tool you have for exact facts and data work. Second, dialogue works as a thinking method only if the other side pushes back. Research on teaching critical thinking finds dialogue one of the strongest levers available (Abrami et al., 2015). That research is about people talking with people. The AI version earns the same benefit only when you demand disagreement.",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Teach It Your Voice</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-teach-it-your-voice.html#the-handover-prompt",
+    "href": "chapters/05-teach-it-your-voice.html#the-handover-prompt",
+    "title": "5  Teach It Your Voice",
+    "section": "5.4 The handover prompt",
+    "text": "5.4 The handover prompt\nLong chats drift. Early instructions fade as the conversation grows, and output quality slides in ways that are hard to notice from inside. Before you close a long chat, extract its value:\nWrite a handover prompt that captures everything important from this\nconversation: the context, the decisions made, open questions, and where\nwe left off. I'll paste it into a new chat to continue.\nRead the handover before you reuse it. It is output, so it goes on the Trust Tool like anything else. Edit out the dead ends while you still remember they were dead ends.",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Teach It Your Voice</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-teach-it-your-voice.html#practice",
+    "href": "chapters/05-teach-it-your-voice.html#practice",
+    "title": "5  Teach It Your Voice",
+    "section": "5.5 Practice",
+    "text": "5.5 Practice\n\n\n\n\n\n\nTipTry this: your standing brief (20 minutes)\n\n\n\n\nTake your three saved prompts from Chapter 4. Extract what they share: role, recurring context, format habits, your Done line.\nAdd a voice brief from the Write Like Me steps above.\nSave the result where your tool keeps standing instructions. Run one old task with and without it, in fresh chats. Score both from 1 to 5.\nPut a quarterly reminder in your calendar to review the brief.",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Teach It Your Voice</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-teach-it-your-voice.html#what-to-carry-forward",
+    "href": "chapters/05-teach-it-your-voice.html#what-to-carry-forward",
+    "title": "5  Teach It Your Voice",
+    "section": "5.6 What to carry forward",
+    "text": "5.6 What to carry forward\n\nSave what never changes. Keep the task in the chat.\nTeach it your voice with a sample, a rewrite, and a style brief you have corrected.\nThink in one chat, build in another. You are the only one holding both.\nHand over deliberately when a chat gets long. Read the handover like any other output.\n\nYour briefs now produce output that sounds like you and fits your work. That makes the next part more important. Output in your own voice is easier to forward without checking. Part 3 is the checking.",
+    "crumbs": [
+      "Part 2 · Brief: How do I ask for what I need?",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Teach It Your Voice</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-the-check-loop.html",
+    "href": "chapters/06-the-check-loop.html",
+    "title": "6  The Check Loop",
+    "section": "",
+    "text": "6.1 The brief Karen nearly got\nKaren runs customer service at RetailFlow, a fictional retailer invented for the masterclass. She needs a short brief on six months of support tickets. She needs it before a meeting. Someone on her team uploads the data to an AI tool, asks what is going on, and gets back a clean, confident answer.\nThree claims from that answer will run through this chapter. Read them the way Karen would.\nAll three sound plausible. All three arrived in the same professional tone. One is verified. One is refuted, twice over. One is overstated. If the brief goes to Karen unchecked, she may fix the wrong category and overstate a staffing case by a third. She will do both in good faith, because the document gave her no reason not to.\nHold your verdicts. The chapter teaches the loop first, then checks the claims against the data.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Check Loop</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-the-check-loop.html#the-brief-karen-nearly-got",
+    "href": "chapters/06-the-check-loop.html#the-brief-karen-nearly-got",
+    "title": "6  The Check Loop",
+    "section": "",
+    "text": "Claim A. Email is our slowest channel. Average first response is about three times slower than Live Chat.\nClaim B. Account Issues has the lowest customer satisfaction of any category. These queries are the most complex, and many never get resolved.\nClaim C. Sundays are a staffing problem. Response times on Sundays are double the overall average.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Check Loop</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-the-check-loop.html#the-loop",
+    "href": "chapters/06-the-check-loop.html#the-loop",
+    "title": "6  The Check Loop",
+    "section": "6.2 The loop",
+    "text": "6.2 The loop\nAI makes analysis fast. It does not make analysis trustworthy. The Check Loop separates those two facts into four steps.\n1. Frame. Write the question and the decision it feeds. Start a fresh chat. “What is happening in this data?” is not a frame. “Which two changes would most lift satisfaction next quarter, and what would we stop doing to fund them?” is a frame, because it names the decision.\n2. Explore. Ask the tool to describe the data before it analyses anything. How many rows, which columns, what date range, how many missing values. Compare that description with what you know. Most people skip this step, and it is the cheapest error detector in the chapter. If the tool has already miscounted the file, everything after it is fiction with headings. Then go broad to deep. Overall patterns first, then the category, channel, or period the decision turns on.\n3. Verify. If a number would change a decision, check it yourself. Filter the spreadsheet. Recount. Open the source rows. If the number does not hold, go back to Explore with what you learned. Verification comes from outside the tool, as Chapter 2 insists. A second AI agreeing with the first one is not verification. It is two guesses in the same accent.\n4. Shape. Write for the reader, who is usually Karen at 8.55 before a 9 o’clock meeting. End with one line that says what you checked and how. That line is small and it changes the document. It tells the reader someone did the work, and it commits you to having done it.\n\n\n\n\n\n\nImportantCritical point\n\n\n\nWrite the “what I checked” line even when nobody asks for it. Especially then. A brief that ends with Checked: category averages and channel response times recomputed from the source file, 27 October is a different artefact from one that ends with a confident paragraph. The first one can be trusted, challenged, and reused. The second can only be forwarded.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Check Loop</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-the-check-loop.html#five-ways-a-smooth-answer-goes-wrong",
+    "href": "chapters/06-the-check-loop.html#five-ways-a-smooth-answer-goes-wrong",
+    "title": "6  The Check Loop",
+    "section": "6.3 Five ways a smooth answer goes wrong",
+    "text": "6.3 Five ways a smooth answer goes wrong\nWatch for these in any AI analysis, including your own.\n\nMiscounts after filtering. The tool reports a total for a subset it never isolated. Averages drift. Row counts shrink.\nCorrelation sold as cause. Slow responses and unhappy customers travel together. That does not prove one caused the other, and it matters for what you fix.\nMissing rows skipped silently. Blank satisfaction scores vanish from the average. Nobody mentions it.\nNumbers that cannot all be true. Category shares that sum past 100 percent. An overall average outside the range of its parts.\nDetail that is not in the file. A plausible explanation for a pattern, invented to fill a paragraph. The data contains no such fact.\n\nThat last one catches experienced people, because a good explanation still is not evidence.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Check Loop</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-the-check-loop.html#checking-the-three-claims",
+    "href": "chapters/06-the-check-loop.html#checking-the-three-claims",
+    "title": "6  The Check Loop",
+    "section": "6.4 Checking the three claims",
+    "text": "6.4 Checking the three claims\nThe RetailFlow file has 260 tickets from 3 July to 29 December 2024, handled by 8 agents. You can download it from the course site and repeat every check below in a spreadsheet. Do that at least once.\n\nBy category\n\n\n\nCategory\nTickets\nSatisfaction\nResponse (h)\nResolved\n\n\n\n\nReturns and Refunds\n48\n1.56\n13.3\n77%\n\n\nDelivery Problems\n43\n2.17\n11.0\n77%\n\n\nBilling Queries\n40\n2.79\n9.8\n92%\n\n\nAccount Issues\n28\n3.06\n8.8\n96%\n\n\nProduct Information\n37\n3.88\n5.5\n89%\n\n\nOrder Tracking\n64\n3.90\n6.7\n92%\n\n\n\nResponse time. Overall 9.2 hours. By channel, fastest to slowest: Live Chat 4.0, Phone 6.1, Social Media 9.4, Email 13.2. By day, Sunday is slowest at 13.7 hours and Thursday fastest at 7.4. December blows out to 13.6 hours against 7.2 in November.\nResponse time and satisfaction. Tickets answered within 4 hours average 4.09 for satisfaction. Tickets that wait over 12 hours average 1.64.\n\nClaim A is verified. Email at 13.2 hours against Live Chat at 4.0 is 3.3 times slower. Note what that felt like to read. The true claim sounded no more confident than the false ones. Tone carried no information at all.\nClaim B is refuted, twice. The lowest satisfaction belongs to Returns and Refunds at 1.56. Account Issues sits mid-table at 3.06. The excuse built into the claim also collapses. Account Issues has the highest resolution rate in the file, 96 percent, so “most complex, often unresolved” is the opposite of the record. This is the dangerous kind of error. It comes with a reason attached, and the reason makes it feel checked. Forwarded to Karen, it sends next quarter’s effort to the wrong team.\nClaim C is overstated. Sunday runs at 13.7 hours against an overall 9.2. That is about one and a half times, not double. In a staffing case the word “double” inflates the argument by a third. This output sits in the precise, large corner of the Trust Tool, and in that corner close is the same as wrong.\nOne more trap hides in most tool output on this file. Asked why Sundays are slow, tools often explain that nobody works on Sundays. The data says otherwise. Named agents handle Sunday tickets all through the file. That explanation is plausible, fluent, and unsupported: Claim 5 on the list above, caught in the wild.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Check Loop</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-the-check-loop.html#the-confident-miscount",
+    "href": "chapters/06-the-check-loop.html#the-confident-miscount",
+    "title": "6  The Check Loop",
+    "section": "6.5 The confident miscount",
+    "text": "6.5 The confident miscount\nCloud tools get the RetailFlow sums right mostly because they run code on the file behind the scenes. Take that away and the underlying weakness shows. In class testing in October 2026, a capable local model given the raw CSV reported 130 rows instead of 260. It put Email at 12.4 hours and Live Chat at 5.8, against true values of 13.2 and 4.0. It judged the Sunday claim with numbers that would have given the wrong verdict for the wrong reason. A smaller model got none of the figures right. Both answered in complete, confident sentences.\nI find that demo more persuasive than any warning slide. The model was not lying. It was predicting plausible numbers, because plausible numbers are its product.\nWhich points to the fix. Do not ask a language model to count your file in its head. Ask it for the spreadsheet formulas, or a short script, and let software built for sums do the sums. The starter prompts in Appendix B include this pattern. It has a second benefit, covered next.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Check Loop</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-the-check-loop.html#when-your-data-cannot-go-into-a-tool",
+    "href": "chapters/06-the-check-loop.html#when-your-data-cannot-go-into-a-tool",
+    "title": "6  The Check Loop",
+    "section": "6.6 When your data cannot go into a tool",
+    "text": "6.6 When your data cannot go into a tool\nPlenty of real data should never be uploaded anywhere. The Check Loop still works. Use the shape trick.\nDescribe the columns, types, and rough size of your data. Leave the data itself on your machine. Ask the tool for formulas, a script, or a single web page that runs in your browser and reads the file locally. Test what it gives you on RetailFlow first, where you know the answers. Then run it on the real file.\nTwo cautions. If you cannot read the code it produced, the output belongs in the top-right corner of the Trust Tool, however neat it looks. And check that a generated web page sends the file nowhere. Local means local, or the whole exercise was theatre.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Check Loop</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-the-check-loop.html#what-a-strong-brief-to-karen-says",
+    "href": "chapters/06-the-check-loop.html#what-a-strong-brief-to-karen-says",
+    "title": "6  The Check Loop",
+    "section": "6.7 What a strong brief to Karen says",
+    "text": "6.7 What a strong brief to Karen says\nWith the claims settled, the brief is straightforward:\n\nReturns and Refunds and Delivery Problems are the worst categories, by a clear margin.\nResponse time is the factor that cuts across everything. Fast answers sit near 4 out of 5 for satisfaction. Slow ones sit near 1.6.\nThe blow-outs are predictable. Sundays, Mondays, December, and the Email channel.\nSo fix the returns process first. Steer customers toward Live Chat where the query suits it. Staff for the peaks you can already see coming.\nEnd with what was checked.\n\nNotice that none of that required a better model. It required a frame, a description check, three verified claims, and the discipline to fix the brief before Karen saw it. In the exercise, that order is deliberate. People draft the brief first, then check the claims against their own draft. Anyone whose brief repeated Claim B finds out in the room, which is a much better place to find out than Karen’s meeting.\n\n\n\n\n\n\nTipTry this: RetailFlow (35 minutes)\n\n\n\nDownload retailflow-customer-service-data.csv from the course site or this book’s resources.\n\nFrame and explore (10 min). Fresh chat. Ask the tool to describe the file before analysing it. Check the description against the file.\nFirst brief (7 min). Write Karen a one-page brief: what is wrong, what to fix first.\nCheck the claims (10 min). Test Claims A, B, and C from this chapter in your spreadsheet. Verdicts: verified, overstated, refuted, or can’t tell yet.\nFix and sign (8 min). Correct your brief. Add the line that says what you checked.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Check Loop</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-the-check-loop.html#what-to-carry-forward",
+    "href": "chapters/06-the-check-loop.html#what-to-carry-forward",
+    "title": "6  The Check Loop",
+    "section": "6.8 What to carry forward",
+    "text": "6.8 What to carry forward\n\nFrame the decision, describe the data, verify outside the tool, then shape for the reader.\nThe true claim and the false one arrive in the same tone. Check the load-bearing numbers every time.\nLet spreadsheets do arithmetic. Let language models do language.\nEnd every brief with what you checked. Your name is on it.\n\nData you own can be checked against the source file. Claims about the world cannot. The next chapter covers those.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Check Loop</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-vet-and-the-quiet-defaults.html",
+    "href": "chapters/07-vet-and-the-quiet-defaults.html",
+    "title": "7  VET and the Quiet Defaults",
+    "section": "",
+    "text": "7.1 Claims you cannot recount\nChapter 6 worked because the truth sat in a file you could open. Most claims at work offer no such comfort: a market figure, a legal summary, a study that shows something convenient, a benchmark with a percentage in it.\nYou cannot filter a spreadsheet to settle those. You need a different discipline, and it has three moves. Verify, Explain, Test. VET.\nUse it hardest in two situations. A decision hangs on the claim. Or people will assume you checked because checking is your job. The second one catches more professionals than the first.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>VET and the Quiet Defaults</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-vet-and-the-quiet-defaults.html#verify-the-source-yourself",
+    "href": "chapters/07-vet-and-the-quiet-defaults.html#verify-the-source-yourself",
+    "title": "7  VET and the Quiet Defaults",
+    "section": "7.2 Verify the source yourself",
+    "text": "7.2 Verify the source yourself\nCan you find this claim without the tool’s help?\nAI produces references that do not exist. This still surprises people, and it should not. A citation is text. The tool generates a fake one the same way it generates a real one, by predicting what a citation in this spot probably looks like. Authors with plausible names, a journal that exists, a year that fits, a title on topic. Nothing underneath.\nSo look the source up directly. If the paper exists, open it and check the claim says what the tool said it says. Summaries of real sources drift too, usually toward whatever you asked for. Citation checkers such as CiteSight can do the existence check for you. The judgement about whether the source supports your use of it stays yours.\nVerify applies to numbers as much as papers. “Where does that figure come from?” has ended more bad briefs than any other question I know. If the answer is another AI summary, you have a chain of copies with no original. Walk it back, or drop the figure.\nOne extension matters more every year. Verify the channel, not just the claim. A voice that sounds like your CFO asking for new bank details and a face on a video call asking for a password both get checked outside the channel they arrived on. Hang up. Call back on a number you already have. A familiar face on a screen is no longer proof of anything, and Appendix E treats deepfakes on the Trust Tool in more detail.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>VET and the Quiet Defaults</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-vet-and-the-quiet-defaults.html#explain-it-back",
+    "href": "chapters/07-vet-and-the-quiet-defaults.html#explain-it-back",
+    "title": "7  VET and the Quiet Defaults",
+    "section": "7.3 Explain it back",
+    "text": "7.3 Explain it back\nCan you say the claim in your own words, including why it would be true?\nThis sounds like a study trick because it is one. It works anyway. Where your rephrasing goes vague, your understanding has a gap, and the gap usually sits where the claim is weakest. “This method is 95 percent effective” survives until you try to say what 95 percent counts, out of what, compared to what. Then it either sharpens or falls apart. Both outcomes help.\nWrite the explanation down for claims that carry a decision. Two or three sentences. If you cannot produce them, you are forwarding, not reporting, and Chapter 1 has a name for that.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>VET and the Quiet Defaults</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-vet-and-the-quiet-defaults.html#test-the-edges",
+    "href": "chapters/07-vet-and-the-quiet-defaults.html#test-the-edges",
+    "title": "7  VET and the Quiet Defaults",
+    "section": "7.4 Test the edges",
+    "text": "7.4 Test the edges\nDoes the claim survive a what-if?\nChange one variable. Try the awkward case. Ask where, when, or for whom this stops being true. Fragile answers break under that pressure. Sound ones bend and tell you their limits, which is useful information in itself.\n\n\n\n\n\n\n\n\n\nThe tool says\nVerify\nExplain\nTest\n\n\n\n\n“Studies show…”\nFind the actual studies\nCan I explain the mechanism?\nDoes it hold in a different context?\n\n\n“The best figure is X”\nWhere does X come from?\nWhy X, specifically?\nWhat changes if one input moves?\n\n\n“95% effective”\nSource?\n95% of what, against what?\nUnder what conditions does it fail?\n\n\n\nVET is the practical answer to Gell-Mann amnesia. You know least in a new field, so your instincts help least there. VET replaces instinct with a slower, unglamorous procedure that is much harder to fool.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>VET and the Quiet Defaults</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-vet-and-the-quiet-defaults.html#the-quiet-defaults",
+    "href": "chapters/07-vet-and-the-quiet-defaults.html#the-quiet-defaults",
+    "title": "7  VET and the Quiet Defaults",
+    "section": "7.5 The quiet defaults",
+    "text": "7.5 The quiet defaults\nThere is a second kind of checking, and it is about values hiding inside fluent text rather than facts.\nAsk a tool to write about a senior manager and then about an administrative officer. Compare what comes back. In class, tables run a few pairs like this and look at names, warmth against capability, and who gets handed authority. The differences are rarely crude. The defaults are quiet: one role gets decisive verbs and a surname. The other gets helpfulness and a first name. One leads the meeting. The other takes the minutes.\nModels learn these patterns from text the world already wrote. Left alone, they hand the patterns back to you, polished. In a job ad, a reference check summary, or a performance draft, a quiet default stops being a curiosity. It shapes who applies, who gets believed, and who gets promoted.\nCatching defaults takes the same outside check as catching numbers, pointed in a different direction.\n\nRun pairs. Swap the role, the name, the gender, the location. Read the two outputs side by side and look at what moved that should not have.\nRead for who acts and who is described. Agents get verbs. Everyone else gets adjectives.\nAsk who is missing. A stakeholder list, a customer persona, a risk register. Absence is a default too, and harder to see than a stereotype.\n\nAppendix D runs this further, with Australia’s six essential practices, data governance that stays proportionate, and four dilemmas worth arguing about with your team. The short version belongs here. Bias in AI output rarely arrives wearing a label. It arrives as tone, and tone is what a busy reader skims.\n\n\n\n\n\n\nTipTry this: the four-minute defaults check\n\n\n\nPick a pair relevant to your work. A senior manager and an administrative officer. A surgeon and a nurse. A founder and an office manager.\n\nAsk the tool for a short paragraph introducing each person at a work event. Nothing else in the prompt changes.\nCompare names, verbs, warmth, competence, and authority.\nAsk what a reader would assume about each person, and whether your organisation wants to say that.\n\nFour minutes. Most tables need less before the room goes quiet.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>VET and the Quiet Defaults</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-vet-and-the-quiet-defaults.html#what-to-carry-forward",
+    "href": "chapters/07-vet-and-the-quiet-defaults.html#what-to-carry-forward",
+    "title": "7  VET and the Quiet Defaults",
+    "section": "7.6 What to carry forward",
+    "text": "7.6 What to carry forward\n\nVerify means find it yourself. A citation the tool invented looks exactly like a real one.\nIf you cannot explain a claim in your own words, you do not understand it yet. The struggle marks the gap.\nTest an edge. Sound claims state their limits. Fragile ones shatter.\nCheck the defaults as well as the facts. Run the pair, read who acts, ask who is missing.\n\nSo far, checking has meant testing outputs. The next chapter turns the same idea on your own decisions. You will write down how you decide something, then test whether those rules actually describe you.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>VET and the Quiet Defaults</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-decide-like-me.html",
+    "href": "chapters/08-decide-like-me.html",
+    "title": "8  Decide Like Me",
+    "section": "",
+    "text": "8.1 The decision in your head\nEvery experienced professional makes some decision over and over. Which enquiries get a same-day reply. Which invoices get queried. Which requests go up to a senior colleague, and which ones you absorb.\nYou are probably good at yours. You are also probably unable to say exactly how you do it. Ask, and the honest answer comes out. “It depends.”\nThis chapter gets that reasoning out of your head and into if-then rules, then tests the rules against calls you have already made. The method comes from Dylan Davis. The wording, examples, and limits here are the course’s own, and one limit matters from the start. The rules draft the call. You still make it. Davis goes further and lets the tool decide alone once the rules pass their test. This book stops short of that, for reasons the end of the chapter makes plain.\nThe prize is bigger than saved time, though it saves time. Most people who do this exercise learn something about their own judgement they did not know.\nPick the decision with care. It should repeat, you should be able to explain it at least roughly, and you should have past cases to test against. Leave anything in the top-right corner of the Trust Tool alone. Writing a decision down does not lower its stakes.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Decide Like Me</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-decide-like-me.html#say-interview-or-mine",
+    "href": "chapters/08-decide-like-me.html#say-interview-or-mine",
+    "title": "8  Decide Like Me",
+    "section": "8.2 Say, interview, or mine",
+    "text": "8.2 Say, interview, or mine\nStart with one question. Could you tell a new starter, out loud, why you decide the way you do?\nIf yes, Say it. Talk it through and let the tool transcribe. People trim the exceptions when they type. Spoken, the exceptions stay in, probably because talking feels less like publishing. Then have the tool ask three to five follow-up questions, one at a time, to fill the gaps.\nIf your answer is “it depends”, take the Interview. The tool questions you in turn, building each question on your last answer, until every “it depends” has become a branch. Fifteen to twenty questions usually does it. “It depends” always means a rule exists that has not been put into words yet. A team lead who says same-day replies depend, pushed a little, produces this. An existing client with a deadline this week gets a reply today. A general enquiry waits for the Monday batch. Those branches are the rules.\nIf you cannot explain it but the record exists, Mine it. Give the tool past cases with what came in and what you decided. It works backward to the rules you were actually following, including ones you never wrote down and may not love once you see them.\nAppendix B has the interview and mining prompts ready to copy.\nMining comes with a warning that deserves its own paragraph. Showing a tool your past decisions means showing it your clients. Classify before you paste, strip names and identifiers, or describe the cases instead of pasting them. Chapter 2’s rules apply with full force here, because the material feels internal and safe in a way that invites carelessness.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Decide Like Me</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-decide-like-me.html#save-the-rules-short",
+    "href": "chapters/08-decide-like-me.html#save-the-rules-short",
+    "title": "8  Decide Like Me",
+    "section": "8.3 Save the rules, short",
+    "text": "8.3 Save the rules, short\nStay in the same chat, while it still holds the conversation, and ask:\nWrite these decision rules up as a short brief I can reuse on new cases\nof this decision. Take out the names, clients and figures from the cases\nwe talked about, and keep the rules.\nKeep the result to about a screen of if-then lines. A brief stuffed with history and anecdotes buries the rules, and the tool gives buried rules less weight. This cuts against the + Example habit from Chapter 4, and that is fine. An example teaches tone and shape. Here the rules are the content, and real cases drag client detail along with them. If a rule needs an example, invent one.\nSave the brief where your tool keeps standing instructions, the same place Chapter 5 put your voice. Agent tools call a saved brief like this a skill. Whatever the label, it is the finished form of the prompt library you started in Chapter 4.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Decide Like Me</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-decide-like-me.html#test-it-blind",
+    "href": "chapters/08-decide-like-me.html#test-it-blind",
+    "title": "8  Decide Like Me",
+    "section": "8.4 Test it blind",
+    "text": "8.4 Test it blind\nTake three to five cases you have already decided. Mix routine ones with at least one awkward case. Write down the inputs only, what you knew at the time, with your decision removed. Write your own calls on paper first, before running anything. Then open a new chat, load only the saved rules, and ask for a call on each case with the rule it used and brief reasoning.\nPut the results side by side.\n\n\n\n\n\n\n\n\n\nCase\nIts call\nYour call\nResult\n\n\n\n\n1\nSame day. Existing client, deadline Friday\nSame day\nMatch\n\n\n2\nMonday batch. General question about services\nMonday batch\nMatch\n\n\n3\nMonday batch. New contact, no deadline\nSame day. Referred by a current client\nMismatch\n\n\n\nCase 3 earns the exercise its keep. You answer referrals the same day. You never said so, possibly never noticed. The rules did exactly what you told them. You just had not told them everything.\nExpect about four matches in five on a first run. Resist pushing for five. The mismatch is where the learning sits, and mismatches come in three recurring kinds.\nA threshold never put into words. You had a cut-off in mind, an amount, a wait time, a risk level, and it never made it into the brief.\nAn exception applied without noticing: a referral, a precedent, or a long relationship that changes the rule.\nA loose rule applied strictly. You treat something as a preference, a tie-breaker. Written down, it hardened into a requirement, and the tool obeyed the hard version.\nEach kind tells you something true about how you work. I have watched people stare at a mismatch table for a long moment, then start explaining their job to their neighbour with more clarity than they had managed in years. That alone justifies the half hour.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Decide Like Me</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-decide-like-me.html#fix-it-then-test-again-somewhere-clean",
+    "href": "chapters/08-decide-like-me.html#fix-it-then-test-again-somewhere-clean",
+    "title": "8  Decide Like Me",
+    "section": "8.5 Fix it, then test again somewhere clean",
+    "text": "8.5 Fix it, then test again somewhere clean\nAdd the missing rule as one if-then line. Leave the other rules alone. Add no explanation. Then run the whole batch again in a new chat.\nThe new chat is not fussiness. The chat where you built the rules watched you decide. It can pass the test from memory, the way a student passes with the answers open. A fresh chat with only the rules loaded tests the rules themselves. Chapter 2 again. Check from outside.\nTwo practical notes. Models are not deterministic, so the same case can flip on a second run. One flip does not mean the rules broke. Judge the batch, and re-run any case that matters before relying on it. And expect the tool to praise its own rules at every stage (sycophancy, Chapter 4). The blind test exists because the tool cannot agree with an answer it has not seen.\nIn class, four from five is a good result and we move on. At work, hold a harder line. Every case in the batch matches, in a new chat, before the rules go anywhere near a live decision.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Decide Like Me</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-decide-like-me.html#after-you-sign-it-off",
+    "href": "chapters/08-decide-like-me.html#after-you-sign-it-off",
+    "title": "8  Decide Like Me",
+    "section": "8.6 After you sign it off",
+    "text": "8.6 After you sign it off\nThe rules draft the call. You make it. Hold that line even when the test results look perfect, and hold it for practical reasons, not sentiment.\nPlace every new case on the Trust Tool. The rules came from you, so the accountability did too. A case outside the rules’ experience, or one where the stakes jump, goes back to being your decision without a draft.\nKeep a person in the loop wherever the decision affects someone, and tell people when a tool drafted a decision about them. In Australia this stops being courtesy on 10 December 2026. From that date the Privacy Act requires an organisation’s privacy policy to say where a computer program makes, or substantially informs, a decision that could significantly affect a person’s rights or interests using their personal information (APP 1.7 to 1.9). Saved decision rules can fall squarely inside that. If your team uses rules like these on decisions about people, tell whoever owns your privacy policy. Appendix D has the OAIC guidance.\nSet a 30-day gate, the same as any delivery in Part 4. Are the rules holding up? Does checking their drafts cost more than deciding unaided? Scale, pivot, or kill on the evidence. Then re-test each quarter. Models change. So do your rules, and so does the work.\n\n\n\n\n\n\nTipTry this: Decide Like Me (25 minutes)\n\n\n\nBring one repeatable decision and three past cases. Nothing usable without client detail? Appendix C has decision cards, each with past calls, test cases, and an answer key hiding a different kind of mismatch.\n\nGet the rules out by Say, Interview, or Mine (10 min).\nSave them as a short brief, names and figures removed (3 min).\nWrite your calls for the test cases first. Run the cases blind in a new chat (7 min).\nCompare. Name each mismatch: threshold, exception, or loose rule made strict. Fix one, re-test clean if time allows (5 min).\nAnswer the last question in writing. What would I never let it decide?\n\n\n\nThe rules that pass can draft the routine calls. The cases no rule caught, the exceptions, the judgement calls with a person on the other end, are where your edge earns its keep. Keep those cases. They show what a page of rules cannot do, and they are what to talk through in person when you teach someone the job.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Decide Like Me</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-decide-like-me.html#what-to-carry-forward",
+    "href": "chapters/08-decide-like-me.html#what-to-carry-forward",
+    "title": "8  Decide Like Me",
+    "section": "8.7 What to carry forward",
+    "text": "8.7 What to carry forward\n\n“It depends” means an unwritten rule. Say, Interview, or Mine gets it into words.\nSave rules short and clean. No names, no client figures, no anecdotes.\nTest blind, in a new chat, against calls you wrote down first. Four from five teaches more than five from five.\nThe rules draft. You decide. Some decisions never get a draft at all.\n\nYou can brief, trust, and check at your own desk. Part 4 takes the same discipline into shared work, where a workflow has to hold up every week, for other people as well.",
+    "crumbs": [
+      "Part 3 · Check: How do I know it's right?",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Decide Like Me</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-the-opportunity-finder.html",
+    "href": "chapters/09-the-opportunity-finder.html",
+    "title": "9  The Opportunity Finder",
+    "section": "",
+    "text": "9.1 From your desk to shared work\nEverything so far has lived at the scale of one person and one task. Part 4 changes the scale. A workflow other people depend on, running every week, with your name somewhere in its history.\nThe questions change with the scale. “Can AI do this?” is no longer the useful question, because the answer is now nearly always “a demo can”. The better questions run in order. Where in my week does AI actually fit? Who should lead each step, the tool or a person? What do I try first? The Opportunity Finder answers them in that order. Spot, Assign, Prioritise.",
+    "crumbs": [
+      "Part 4 · Deliver: Will it work every week?",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>The Opportunity Finder</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-the-opportunity-finder.html#spot-four-signals",
+    "href": "chapters/09-the-opportunity-finder.html#spot-four-signals",
+    "title": "9  The Opportunity Finder",
+    "section": "9.2 Spot: four signals",
+    "text": "9.2 Spot: four signals\nLook at your own week, not at a vendor’s list of use cases. Four patterns mark where AI tends to pay.\nYou do the same work the same way, often. Call that signal Automate. Minutes from your own notes. The Friday update assembled from the same five sources. Repetition with a stable shape.\nYou spend the time reading, gathering, and comparing before the real work starts. Assist. Three proposals to line up side by side. A long tender to reduce to its load-bearing facts, corner B from Chapter 2.\nYou face the blank page. Generate. First drafts of anything, where a mediocre start beats a perfect intention because editing is faster than inventing.\nYou hunt for meaning in numbers. Analyse. The spreadsheet someone sends you monthly, the ticket data from Chapter 6, anywhere the pattern matters more than any single row.\nWalk one real week and mark what you find. Bring three tasks that take half an hour or more. Most people spot more candidates than they can use, which is what the next two steps are for.",
+    "crumbs": [
+      "Part 4 · Deliver: Will it work every week?",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>The Opportunity Finder</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-the-opportunity-finder.html#assign-who-leads-each-step",
+    "href": "chapters/09-the-opportunity-finder.html#assign-who-leads-each-step",
+    "title": "9  The Opportunity Finder",
+    "section": "9.3 Assign: who leads each step",
+    "text": "9.3 Assign: who leads each step\nBreak the candidate workflow into steps, then give each step an owner. Four assignments cover nearly everything.\n\n\n\n\n\n\n\n\n\nAI leads\nAI assists\nYou lead\nHuman only\n\n\n\n\nAI drafts it. You review and approve.\nYou steer. AI does much of the work.\nYou think. AI takes sub-tasks.\nEmpathy, ethics, accountability.\n\n\nMinutes from your notes\nA client proposal\nA strategy paper\nTelling someone their role is going\n\n\n\nThe Trust Tool does the heavy lifting here. Steps in the green corner can be AI-led with a light review. Steps in the amber corners suit assist or you-lead, with the matching check. Steps in the top-right corner stay human only, whatever the demo showed.\nBe careful with a common slide. A step starts as “AI assists” in the design, then drifts into AI-led in practice because checking takes effort and the output mostly looks fine. Nobody decided that; it just happened on a busy Thursday. Chapter 10 designs against the drift by naming the checker in advance. For now, assign on the record.\nOne deliberate choice is worth making at this stage. Keep at least one step human on purpose, even where AI could do it. Pick the step that teaches the work, the one where a junior learns what good looks like, or where you keep your own feel for the material. Chapter 11 explains why that choice compounds.",
+    "crumbs": [
+      "Part 4 · Deliver: Will it work every week?",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>The Opportunity Finder</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-the-opportunity-finder.html#prioritise-quick-wins-first",
+    "href": "chapters/09-the-opportunity-finder.html#prioritise-quick-wins-first",
+    "title": "9  The Opportunity Finder",
+    "section": "9.4 Prioritise: quick wins first",
+    "text": "9.4 Prioritise: quick wins first\nRank candidates by a rough ratio. Time saved each week, against effort to set up. Then correct the effort figure, because almost everyone undercounts it the same way.\nCount the checking as effort. A workflow that saves forty minutes of drafting and adds thirty-five minutes of verification saves five minutes, plus whatever quality change comes with it. Sometimes that trade is still worth it. Often it explains why a pilot that dazzled in week one quietly dies by week six.\nQuick wins share a shape. High time saved, low setup, and cheap checking. That last part is why they usually sit in the Trust Tool’s green corner, or low in an amber one. Start there. A small win that survives a month teaches your team more than an ambitious redesign that needs constant defence. It also earns you the credibility to attempt the harder one second.\nWork one example through. Take the weekly steering committee update from Chapter 3. Spot it under Automate and Generate. Assign the assembly to AI-led from your notes, with you reviewing. Keep the risk judgements at you-lead, because you know which delays matter politically. Keep the conversation about the delay human only. Prioritise it early because you already own the brief, the format, and the check. That workflow becomes the delivery plan in the next chapter.\n\n\n\n\n\n\nTipTry this: find your first workflow (20 minutes)\n\n\n\n\nList three tasks from your week taking 30 minutes or more. Mark each with a Spot signal.\nFor the most promising one, break it into steps. Assign each step: AI leads, AI assists, you lead, human only.\nEstimate weekly time saved and setup effort. Add the checking time to the effort side. Be honest.\nCircle any step you will keep human on purpose, and write why in one line.",
+    "crumbs": [
+      "Part 4 · Deliver: Will it work every week?",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>The Opportunity Finder</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-the-opportunity-finder.html#what-to-carry-forward",
+    "href": "chapters/09-the-opportunity-finder.html#what-to-carry-forward",
+    "title": "9  The Opportunity Finder",
+    "section": "9.5 What to carry forward",
+    "text": "9.5 What to carry forward\n\nSpot in your own week. Repeat work, reading load, blank pages, number hunting.\nAssign every step an owner. The Trust Tool corner makes most of the decision for you.\nCount the checking as effort, or the business case is fiction.\nKeep one step human on purpose. Pick the one that teaches the work.\n\nSpotting and assigning takes an afternoon. Making the workflow survive contact with a real team, real data, and a real month is the harder problem. AI projects fail, but they fail in their own particular ways. The next chapter names them.",
+    "crumbs": [
+      "Part 4 · Deliver: Will it work every week?",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>The Opportunity Finder</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-design-the-human-in.html",
+    "href": "chapters/10-design-the-human-in.html",
+    "title": "10  Design the Human In",
+    "section": "",
+    "text": "10.1 Why AI projects fail differently\nAI projects do not fail more often than other projects, in my experience. They fail differently. Five assumptions that hold up fine on ordinary work break on contact with AI, and each break has a design response.\n“Done” can be specified. Ordinary software has right answers. AI output varies. It produces a spread of responses, some better than others, and the same input can land differently tomorrow. So decide in advance what good enough means for this workflow, in words a checker can use. Without that line, every output starts an argument.\nA working demo means nearly there. The demo is a trap. It shows the happy path, on clean inputs, probably chosen by someone who wants the project funded. Treat a successful demo as the start of the hard part. The hard part is everything the demo did not meet.\nThe data is a known input. On AI work the data is the uncertainty. It is messier, thinner, or more sensitive than the plan assumed, and finding that out takes the time people later call slippage. Plan for discovery. Budget the first weeks for learning what the data actually is.\nThe build is the product. With AI, checking is the product. The draft is cheap. The review step, the second pair of eyes, the audit trail, that is what the organisation is buying. Design the checking in and ship it as part of the workflow, with an owner and a time allowance. Bolted-on checking gets skipped by Friday.\nCapability is our edge. Everyone has access to the same models, including the competitor across town and the team down the corridor. If the workflow’s value rests only on the tool doing something fluent, that value evaporates on contact. Compete on what the tool cannot supply. Your data, your context, your people’s judgement.\nTwo of these five do most of the damage in practice. The demo trap and the data surprise between them account for a large share of the stalled pilots people describe to me. Both have the same cure: small scope, real inputs, and a date where the evidence gets judged.",
+    "crumbs": [
+      "Part 4 · Deliver: Will it work every week?",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Design the Human In</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-design-the-human-in.html#four-decisions-before-you-start",
+    "href": "chapters/10-design-the-human-in.html#four-decisions-before-you-start",
+    "title": "10  Design the Human In",
+    "section": "10.2 Four decisions before you start",
+    "text": "10.2 Four decisions before you start\nA redesigned workflow is a small AI project, so plan it like one. Four decisions, made before anyone builds anything, carry most of the weight.\nScope. One workflow, one owner, one success measure. Write the measure down while you can still be honest about it. Record today’s baseline too, the time it takes and the quality it reaches now. Without a baseline, the 30-day judgement later is just competing impressions.\nCheckpoints. Every step sitting in an amber or red corner of the Trust Tool gets a named person and a specific check. Named matters. “The team reviews it” means nobody reviews it. Pick someone who knows what right looks like, which is not always the most senior person available. And keep the step you chose to leave human in Chapter 9. It is where capability gets built while the workflow runs.\nPeople. Who is affected, who has to agree, and who ends up doing the checking. Tell them before you start, not at the launch email. People resist surprises more than they resist change. The person whose Friday task halves deserves to hear what fills the space, from you, early.\nGate. A date about 30 days out, and the criteria for each call at that date. Write the criteria now. Criteria invented at the gate have a way of fitting whatever happened.\n\n10.2.1 A worked example\nThis example plans the weekly steering committee update from Chapters 3 and 9.\nScope is one update, owned by the project manager, with success measured as production time under 20 minutes and zero corrections from the committee across the month. Baseline is 55 minutes and roughly one correction a fortnight. Assembly from notes is AI-led with the saved RTCF brief. Risk wording stays you-lead, since the manager knows which delay needs softening and which needs stating plainly. The checkpoint is the manager reading the draft once as a committee member would, checking figures against the source notes, before anything is sent. Affected people are told first, including the analyst who used to compile the first cut and now spot-checks the numbers instead. The gate sits at day 30. Scale if time held under 20 minutes with no increase in corrections. Pivot if time fell but checking ballooned. Kill if a wrong figure reaches the committee.\nThe plan is deliberately ordinary: small, owned, measured, and judged on a date.",
+    "crumbs": [
+      "Part 4 · Deliver: Will it work every week?",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Design the Human In</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-design-the-human-in.html#the-30-day-gate",
+    "href": "chapters/10-design-the-human-in.html#the-30-day-gate",
+    "title": "10  Design the Human In",
+    "section": "10.3 The 30-day gate",
+    "text": "10.3 The 30-day gate\nAt the gate, three honest calls exist.\nScale when the workflow met its measure under a light review. Hand it over as business as usual, and keep the check its corner calls for. Scaling is not a licence to stop checking.\nPivot when it came close but the checking costs too much, or the wrong step has the wrong owner. Change the brief, the step, or who leads. Run another month.\nKill when it missed the measure, or the errors mattered. Keep the work human. Revisit next quarter if the tools move.\nKilling is a good outcome and this book means that plainly. You found where the line is, cheaply, with evidence. The expensive outcome is the fourth one nobody lists: drift. The workflow neither scales nor dies, the checking thins out because nobody owns it, and a year later nobody can say what it saves or who verified last month’s output.\nThree mistakes gather at gates. Sunk cost, where spent effort argues for continuing. Cherry-picking, where the measures that passed get quoted and the others get lost. And treating “not perfect” as “broken”, which kills workflows that were genuinely better than the baseline. Judge against the criteria written at the start. That sentence is easy to say in October and hard to honour in November, which is why the criteria exist on paper.",
+    "crumbs": [
+      "Part 4 · Deliver: Will it work every week?",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Design the Human In</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-design-the-human-in.html#agents-briefly",
+    "href": "chapters/10-design-the-human-in.html#agents-briefly",
+    "title": "10  Design the Human In",
+    "section": "10.4 Agents, briefly",
+    "text": "10.4 Agents, briefly\nSooner or later someone proposes letting the system run the loop itself. Plan, act, check, retry, no person between steps. That is an agent, and Appendix E unpacks the vocabulary around it.\nOne principle covers most of what a professional needs at this book’s scale. An agent can run the loop. You set the standard it runs against. An agent checking its own work shares its own blind spots, so the test, the data, and the reviewer have to come from outside it, as Chapter 2 demands for a single output. Your saved briefs and decision rules are, in agent vocabulary, the first draft of a skill. The gate discipline in this chapter is how you find out whether the skill deserves more rope.\n\n\n\n\n\n\nTipTry this: plan one delivery (35 minutes)\n\n\n\nTake the workflow you assigned in Chapter 9.\n\nScope. One workflow, one owner, one measure. Record today’s baseline in time and quality (10 min).\nCheckpoints. List every amber or red step. Name the person and the exact check for each (10 min).\nPeople. Who is affected, who must agree, who checks. Draft the two sentences you will tell each of them before starting (7 min).\nGate. Pick the date 30 days out. Write the scale, pivot, and kill criteria now (8 min).\n\nPut the gate date in your calendar before you close the book. Plans without dates are wishes with headings.",
+    "crumbs": [
+      "Part 4 · Deliver: Will it work every week?",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Design the Human In</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-design-the-human-in.html#what-to-carry-forward",
+    "href": "chapters/10-design-the-human-in.html#what-to-carry-forward",
+    "title": "10  Design the Human In",
+    "section": "10.5 What to carry forward",
+    "text": "10.5 What to carry forward\n\nThe demo is the start of the hard part. The data is the uncertainty. Checking is the product.\nScope small, name the checkers, tell the people, fix the gate date. In that order.\nJudge at the gate against criteria written at the start.\nKilling a workflow on evidence is a success. Drift is the failure.\n\nOne delivery makes you more effective this month. It does nothing, by itself, to keep you capable next year. That takes a separate, deliberate habit, and it is where this book closes.",
+    "crumbs": [
+      "Part 4 · Deliver: Will it work every week?",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Design the Human In</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-keep-the-learning.html",
+    "href": "chapters/11-keep-the-learning.html",
+    "title": "11  Keep the Learning",
+    "section": "",
+    "text": "11.1 The reps you no longer get\nRoutine work used to teach you while you did it, whether you wanted the lesson or not. Drafting the dull report taught structure. Working the spreadsheet by hand taught you what a wrong number smells like. Handling the easy enquiries built the pattern library you now call experience.\nAI takes the routine work first. The efficiency is real and so is the side effect. The reps disappear. Practice stops being something the job supplies for free and becomes something you have to choose.\nThe employment evidence, read carefully, points the same way without supporting panic. Australia’s Department of Employment and Workplace Relations reported in July 2026 that there is no broad AI-driven upheaval, with one signal worth watching. Jobs more exposed to AI automation have grown more slowly than others. Jobs and Skills Australia found in 2025 that some employers now hire more senior staff and fewer juniors, though entry-level roles had not fallen economy-wide yet. The sharper signal comes from the United States, where Stanford researchers estimate employment for 22 to 25 year olds in AI-exposed jobs runs about 19 percent below trend, mostly through fewer hires rather than mass layoffs (Brynjolfsson, Chandar, and Chen, revised 2026).\nOne Australian employer told Jobs and Skills Australia there is no logical business reason to take on a junior and train them in the old way. The same employer kept one door open. Juniors still start in customer support, where the work teaches judgement that transfers.\nRead that as the design problem it is. If juniors lose the easy reps, where do the seniors of 2036 come from, the people who can place an output in the right corner and smell a wrong figure? Chapter 2’s skills rest on experience. Experience rests on practice. Somebody has to put the practice back on purpose. That somebody is partly your organisation and, for your own capability, entirely you.",
+    "crumbs": [
+      "Part 4 · Deliver: Will it work every week?",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Keep the Learning</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-keep-the-learning.html#the-two-pass-habit",
+    "href": "chapters/11-keep-the-learning.html#the-two-pass-habit",
+    "title": "11  Keep the Learning",
+    "section": "11.2 The two-pass habit",
+    "text": "11.2 The two-pass habit\nHalf an hour a week defends more capability than people expect. Pick one task that matters, one you would normally hand to the tool.\nFirst pass, yours. Ten minutes, rough. Sketch the answer the way Chapter 1 taught, before any AI gets a vote.\nSecond pass, the tool’s. Same task, your best saved brief, fresh chat.\nThen compare, and read the comparison in both directions. Where it beat you sits a blind spot. Practise there next week. Where you beat it sits one of its limits, and now you know where its output needs your check. The comparison is a diagnosis you produce for yourself, weekly, for the price of a coffee.\nParticipants sometimes object that the first pass wastes the time the tool was meant to save. For that one task, yes, it does, deliberately. You are not optimising Tuesday. You are keeping the instrument calibrated that every other chapter depends on. A pilot who only ever monitors the autopilot has a plan for the day it disengages. So should you.",
+    "crumbs": [
+      "Part 4 · Deliver: Will it work every week?",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Keep the Learning</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-keep-the-learning.html#the-corners-move",
+    "href": "chapters/11-keep-the-learning.html#the-corners-move",
+    "title": "11  Keep the Learning",
+    "section": "11.3 The corners move",
+    "text": "11.3 The corners move\nRevisit your placements every few months, because they expire.\nEach model generation widens the territory where a light review is honestly enough. Tasks that needed line-by-line verification last year may need a spot check now, provided you have tested that on your own work rather than believed a launch post. Chapter 8’s blind test, run again, is the honest way to move a corner.\nBut follow the axis to the end. The top-right corner never empties. Precision multiplied by consequences always leaves a residue of work where a person decides and signs. The line moves. The check stays. Anyone selling you a future with no checking in it is selling you the demo from Chapter 10.\nThe same review covers your standing brief from Chapter 5 and your decision rules from Chapter 8. Models change under them. A quarterly hour spent re-testing beats discovering the drift in front of Karen.",
+    "crumbs": [
+      "Part 4 · Deliver: Will it work every week?",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Keep the Learning</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-keep-the-learning.html#if-you-lead-people",
+    "href": "chapters/11-keep-the-learning.html#if-you-lead-people",
+    "title": "11  Keep the Learning",
+    "section": "11.4 If you lead people",
+    "text": "11.4 If you lead people\nEverything above applies twice to team leaders, because your juniors lost reps they never got to choose.\nSay the reasoning out loud. When you fix a junior’s work, explain why the standard is the standard. They used to absorb that through repetition, volume, and osmosis. The volume is gone. The explanation now has to be deliberate, which costs you minutes and pays back for years.\nRun side-by-side drills. By hand first, then with AI, then compare what each one missed. It is the two-pass habit as a team sport, and the comparison discussion teaches faster than either pass alone.\nChoose what stays human, then write it down. Which fundamentals does your team keep practising regardless of what the tools can do? Name them, protect time for them, and revisit the list as the corners move. Delivering AI well includes growing the people who can check it. A team that can only operate the tool, and never evaluate it, has automated its own apprenticeship away. Dylan Davis calls the junior pipeline problem the broken ladder. Team leaders are the ones holding the ladder.",
+    "crumbs": [
+      "Part 4 · Deliver: Will it work every week?",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Keep the Learning</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-keep-the-learning.html#your-action-plan",
+    "href": "chapters/11-keep-the-learning.html#your-action-plan",
+    "title": "11  Keep the Learning",
+    "section": "11.5 Your action plan",
+    "text": "11.5 Your action plan\nClose the book the way the masterclass closes the day. One line each, specific enough to put in a calendar.\nThis week, practise. Two-pass one task that matters. Use one saved prompt on real work. Example, with the specificity that makes it happen. Thursday 9 am, draft the steering committee update myself, then with my saved prompt, and compare.\nThis month, deliver. Run the delivery plan from Chapter 10. Checkpoints in place from day one, not added after the first mistake.\nDay 30, gate. Scale, pivot, or kill, against the criteria you wrote before starting.\nThis quarter, revisit. Name what must stay human in your work. Re-test one set of decision rules. Check whether the corners have moved on tasks you placed months ago.\nPut this week’s line and your day-30 date in your calendar now, before the intention cools. A plan with two calendar entries beats a page of resolutions.",
+    "crumbs": [
+      "Part 4 · Deliver: Will it work every week?",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Keep the Learning</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-keep-the-learning.html#the-edge-restated",
+    "href": "chapters/11-keep-the-learning.html#the-edge-restated",
+    "title": "11  Keep the Learning",
+    "section": "11.6 The edge, restated",
+    "text": "11.6 The edge, restated\nEveryone in your field has the same tools this morning that they will have tomorrow. The tools produce the convincing average on demand, for anyone. What they cannot produce is the judgement wrapped around the output: knowing what to ask, knowing how far to trust the answer, checking from outside, keeping a person in charge where the stakes demand it, and keeping your own hand in often enough that the judgement stays real.\nThat is the human edge. It is not a talent. After eleven chapters it should read as what it is. A set of habits, practised on ordinary work, on purpose.\nDirect it. Don’t delegate. Never surrender.",
+    "crumbs": [
+      "Part 4 · Deliver: Will it work every week?",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Keep the Learning</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/a-the-four-tools.html",
+    "href": "appendices/a-the-four-tools.html",
+    "title": "Appendix A — The four tools on two pages",
+    "section": "",
+    "text": "A.1 1 · Trust Tool (Chapter 2)\nThe whole book, for the wall above your desk. Printable versions sit on the course site: the one-page desk card and the ten-page field guide.\nAsk of any output. How exact must it be, average or precise? What happens if it is wrong, small or large?\nCheck from outside the tool. “Are you sure?” is not a check. Be most sceptical where you know least. Before pasting, classify the material, leave out what identifies people, and know what the tool remembers.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>The four tools on two pages</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/a-the-four-tools.html#trust-tool-chapter-2",
+    "href": "appendices/a-the-four-tools.html#trust-tool-chapter-2",
+    "title": "Appendix A — The four tools on two pages",
+    "section": "",
+    "text": "Average\nPrecise\n\n\n\n\nLarge\nB · Verify the load-bearing bits\nD · Human in the loop\n\n\nSmall\nA · Trust with light review\nC · Verify before you ship",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>The four tools on two pages</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/a-the-four-tools.html#rtcf-chapters-3-to-5",
+    "href": "appendices/a-the-four-tools.html#rtcf-chapters-3-to-5",
+    "title": "Appendix A — The four tools on two pages",
+    "section": "A.2 2 · RTCF (Chapters 3 to 5)",
+    "text": "A.2 2 · RTCF (Chapters 3 to 5)\nRole. Who should it write as? Task. What exactly, and how much? Context. Audience, situation, stakes, constraints, material. Format. Length, structure, tone.\nStill weak, add one upgrade. Example (match one you liked). Done (define success, mark gaps [CHECK]). Questions (let it ask first). Steps (outline, then section by section).\nPush back three ways. Guardrail: change your view only for a new fact, and name it. Devil’s advocate: three reasons this fails, and the assumption it rests on. Board: CFO, sceptical customer, frontline manager, then where they disagree.\nSave what works as a standing brief, with its Trust Tool corner attached.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>The four tools on two pages</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/a-the-four-tools.html#check-loop-chapters-6-to-8",
+    "href": "appendices/a-the-four-tools.html#check-loop-chapters-6-to-8",
+    "title": "Appendix A — The four tools on two pages",
+    "section": "A.3 3 · Check Loop (Chapters 6 to 8)",
+    "text": "A.3 3 · Check Loop (Chapters 6 to 8)\n\nFrame the question and the decision it feeds. Fresh chat.\nExplore. Describe the data first. Broad, then deep.\nVerify from outside. Filter, recount, open the source.\nShape for the reader. End with what you checked.\n\nClaims you cannot recount get VET. Verify the source yourself. Explain it in your own words. Test the edges.\nWatch for miscounts after filtering, correlation sold as cause, missing rows skipped in silence, numbers that cannot all be true, and detail that is not in the file.\nDecide Like Me in one line: write your repeatable decision as if-then rules, test them blind on past calls in a new chat, keep the call.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>The four tools on two pages</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/a-the-four-tools.html#opportunity-finder-chapters-9-and-10",
+    "href": "appendices/a-the-four-tools.html#opportunity-finder-chapters-9-and-10",
+    "title": "Appendix A — The four tools on two pages",
+    "section": "A.4 4 · Opportunity Finder (Chapters 9 and 10)",
+    "text": "A.4 4 · Opportunity Finder (Chapters 9 and 10)\nSpot. Automate (same work, same way), Assist (reading and comparing), Generate (blank page), Analyse (meaning in numbers).\nAssign each step: AI leads, AI assists, you lead, human only. Keep one step human on purpose.\nPrioritise quick wins. High time saved, low setup, cheap checking. Count the checking as effort.\nDeliver. One workflow, one owner, one measure, baseline recorded. A named checker with a specific check at every amber or red step. People told before you start. A 30-day gate with scale, pivot, and kill criteria written in advance.\nWhy AI projects fail differently, in five lines. Done cannot be fully specified, so define good enough. The demo is a trap. The data is the uncertainty. Checking is the product. Everyone has the same models, so compete on judgement.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>The four tools on two pages</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/a-the-four-tools.html#keep-it-chapter-11",
+    "href": "appendices/a-the-four-tools.html#keep-it-chapter-11",
+    "title": "Appendix A — The four tools on two pages",
+    "section": "A.5 Keep it (Chapter 11)",
+    "text": "A.5 Keep it (Chapter 11)\nDelegate the task, keep the learning. Once a week, your pass first on a task that matters, then the tool’s, then compare both ways. Review your corners, your standing brief, and your decision rules each quarter. The corners move. The check stays.\nDirect it. Don’t delegate. Never surrender.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>The four tools on two pages</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/b-starter-prompts.html",
+    "href": "appendices/b-starter-prompts.html",
+    "title": "Appendix B — Starter prompts",
+    "section": "",
+    "text": "B.1 Brief it\nTwenty-seven prompts from the masterclass, ready to copy and adapt. Replace the [square brackets] with your own detail. That detail is where your edge goes in. Each prompt notes the Trust Tool corner its output usually lands in, from Chapter 2, so the check travels with the prompt. Corners: A trust with light review, B verify the load-bearing bits, C verify before you ship, D human in the loop.\nThe interactive version, with a prompt builder that saves your own library, lives on the course site.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Starter prompts</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/b-starter-prompts.html#brief-it",
+    "href": "appendices/b-starter-prompts.html#brief-it",
+    "title": "Appendix B — Starter prompts",
+    "section": "",
+    "text": "B.1.1 1 · The RTCF brief\nUse for any task that matters. Check: depends on the task.\nROLE: You are [who should write this, e.g. an experienced project manager who writes plainly].\nTASK: [Verb and scope, e.g. Draft a 200-word update for the steering committee].\nCONTEXT: The audience is [who, and what they care about]. The situation is [what happened, what's at stake]. Good looks like [your standard]. [Paste your notes or material.]\nFORMAT: [Length, structure, tone, e.g. RAG status, three bullets, a risks table, next steps].\n\n\nB.1.2 2 · + Example: match one you liked\nThe strongest single upgrade. Check: A.\nHere is an example I liked: [paste]. Match its length, tone and structure for [new task]. Don't copy its content.\n\n\nB.1.3 3 · + Done: define success\nAdd to any brief when the output keeps missing. Check: as the task.\nDone means: [length], [structure], using only facts I've given you. Mark anything you're unsure of with [CHECK] rather than guessing.\n\n\nB.1.4 4 · + Questions: let it ask first\nUse when you’re not sure what context it needs. Check: A.\nBefore you start on [task], ask me up to five questions about anything you'd need to know to do it well. Ask them one at a time and wait for my answer.\n\n\nB.1.5 5 · + Steps: split the job\nUse on long or multi-part work, especially with smaller or older models. Check: as the task.\nWe'll do [task] in steps. First, give me an outline only, as headings with one line each. Wait for my go-ahead, then draft one section at a time.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Starter prompts</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/b-starter-prompts.html#push-back",
+    "href": "appendices/b-starter-prompts.html#push-back",
+    "title": "Appendix B — Starter prompts",
+    "section": "B.2 Push back",
+    "text": "B.2 Push back\n\nB.2.1 6 · Guardrail\nAdd at the start of any conversation where you want an honest assessment. Check: B.\nOnly change your assessment if I give you a new fact. If you do change it, name the fact that changed it.\n\n\nB.2.2 7 · Devil’s advocate\nUse on a plan, a proposal or an idea you like too much. Check: B.\nDon't flatter me. Here is my [plan / proposal / idea]: [paste]. Give me the three strongest reasons it fails, and name the single assumption it all rests on.\n\n\nB.2.3 8 · Board of directors\nUse when one confident answer isn’t enough. Check: B.\nRespond to [proposal] as a board of three: a CFO, a sceptical customer and a frontline manager. One paragraph each from their point of view. Then list where they disagree with each other.\n\n\nB.2.4 9 · Fresh-chat second opinion\nUse in a new chat when a long conversation has gone on too long. Check: B.\nI'm going to paste a conclusion reached in another conversation. Assess it independently. Where is it strongest, where is it weakest, and what would you need to see to be confident it's right? [paste]\n\n\nB.2.5 10 · Hand over to a fresh chat\nUse when a long conversation has drifted. Check: A.\nWrite a handover prompt that captures everything important from this conversation: the context, the decisions made, open questions, and where we left off. I'll paste it into a new chat to continue.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Starter prompts</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/b-starter-prompts.html#check-it",
+    "href": "appendices/b-starter-prompts.html#check-it",
+    "title": "Appendix B — Starter prompts",
+    "section": "B.3 Check it",
+    "text": "B.3 Check it\n\nB.3.1 11 · Describe the data first\nAlways the first prompt on a dataset. Check: C.\nDescribe this dataset before analysing it: number of rows, the columns and what each seems to contain, the date range, and anything missing, duplicated or inconsistent. Don't draw conclusions yet.\n\n\nB.3.2 12 · Show your working\nUse on any figure that will drive a decision. Check: C, then recount it yourself.\nFor each number in your answer, show how you calculated it: which rows or columns you used, any filters you applied, and the formula. List anything you excluded and why.\n\n\nB.3.3 13 · VET the claim\nUse on claims you can’t check against your own data. Check: B or C.\nYou told me: [paste the claim]. Help me VET it.\nVERIFY: What sources would support this, and how could I check them independently?\nEXPLAIN: Break it down step by step until I could explain it to a colleague.\nTEST: Under what conditions, or for whom, would it be wrong?\n\n\nB.3.4 14 · Describe the shape, not the data\nUse when you can’t share the real data. The tool never sees it. Check: C. Run what it gives you on data where you know the answer before you trust it. If you can’t read the code, treat it as top-right.\nI can't share the data itself. Its structure is: [number] rows, columns [list them, with types and made-up example values]. Write the steps or spreadsheet formulas I'd use to answer [question], so I can run them myself.\n\nOr: write a single HTML page that runs entirely in my browser, lets me open the file from my computer, and shows [the result]. It must not send the data anywhere.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Starter prompts</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/b-starter-prompts.html#deliver-it",
+    "href": "appendices/b-starter-prompts.html#deliver-it",
+    "title": "Appendix B — Starter prompts",
+    "section": "B.4 Deliver it",
+    "text": "B.4 Deliver it\n\nB.4.1 15 · Map my workflow\nThe start of a delivery plan. Check: B.\nHere's how I currently do [weekly task], in my own words: [describe it]. List it as numbered steps with a time estimate for each. For each step, suggest whether AI could lead, assist, or should stay with a person, and say why. Don't assume access to any system I haven't mentioned.\n\n\nB.4.2 16 · Pre-mortem\nUse before you start a new workflow or project. Check: B.\nImagine it's 30 days from now and [the workflow / project] has failed. Write the five most likely reasons it failed, and for each, one early warning sign I could watch for and one thing I could put in place now.\n\n\nB.4.3 17 · Gate review\nUse at your 30-day gate. You make the call. Check: D.\nAt the start I set these criteria. Scale if: [criteria]. Pivot if: [criteria]. Kill if: [criteria]. Here's what happened over 30 days: [log, numbers, issues]. Assess the evidence against each criterion and tell me what's missing. Don't make the decision for me.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Starter prompts</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/b-starter-prompts.html#decide-and-rehearse",
+    "href": "appendices/b-starter-prompts.html#decide-and-rehearse",
+    "title": "Appendix B — Starter prompts",
+    "section": "B.5 Decide and rehearse",
+    "text": "B.5 Decide and rehearse\n\nB.5.1 18 · Pros and cons, against your criteria\nUse when you’re choosing between options. Check: B.\nI'm choosing between [options] for [situation, with the key facts]. For each option give a short description, three advantages and three disadvantages, judged against [criteria, e.g. cost, risk, effort, impact on staff]. Then recommend one for my situation and say what would change your recommendation.\n\n\nB.5.2 19 · Rehearse a difficult conversation\nUse before a performance conversation, a negotiation or bad news. Check: A. The decision and the words you use stay yours.\nYou are [the other person: role, temperament, what they care about]. I need to [goal of the conversation]. Play that person realistically, including pushback. Stay in role until I type PAUSE; then give me feedback on what I said that was unclear, unfair or legally risky, and how to say it better.\n\n\nB.5.3 20 · Practise and test me\nUse to check your own understanding before a high-stakes call. Check: C. Confirm anything you’ll rely on.\nI need to get better at [skill or topic, e.g. reading a variance report, applying our leave policy]. Give me one short realistic scenario at a time, ask me what I'd do, then tell me whether I'm right and why. Make them harder if I get two right in a row, easier if I miss two.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Starter prompts</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/b-starter-prompts.html#practise",
+    "href": "appendices/b-starter-prompts.html#practise",
+    "title": "Appendix B — Starter prompts",
+    "section": "B.6 Practise",
+    "text": "B.6 Practise\n\nB.6.1 21 · Two-pass habit\nOnce a week, on a task that matters. Do your own rough pass first. Check: A.\nHere are two versions of the same [task]: mine (A) and an AI draft (B). [paste both]. Without flattering either, list where A is stronger, where B is stronger, and what both missed. Be specific.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Starter prompts</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/b-starter-prompts.html#decide-like-me",
+    "href": "appendices/b-starter-prompts.html#decide-like-me",
+    "title": "Appendix B — Starter prompts",
+    "section": "B.7 Decide like me",
+    "text": "B.7 Decide like me\nTurn one decision you make over and over into if-then rules, then test them blind on your own past calls. The Decide like me page has the full method, including how to save the rules and why the re-test goes in a new chat (method after Dylan Davis).\n\nB.7.1 22 · Interview me for my rules\nUse when your answer to “why?” is “it depends”. Check: B.\nHelp me write down the rules I use for one decision: [the decision]. Question me one at a time, choosing each question from my last answer. Each time I say \"it depends\" or stay vague, dig until you can state it as an if-then rule. Stop after fifteen to twenty questions and list the rules you've heard, every branch included, for me to check.\n\n\nB.7.2 23 · Find the rules in my past decisions\nUse when the decisions are on file but the reasons never were. Check: B. Read every rule and ask whether you’d have said it.\nHere are past cases of one decision I make: what came in, and what I decided. [Describe each case; leave out names and client details.] Work out which rules would explain these decisions, including any I've never written down. List them as if-then rules, and point out any case that doesn't fit them.\n\n\nB.7.3 24 · Blind test my rules\nRun in a new chat before you rely on the rules. You make the final call. Check: D.\nUsing the decision rules below, make the call on each of these [three to five] cases. I've left out what I decided. For each case, give your call, the rule you used, and your reasoning in two or three short steps. Then stop, and I'll compare your calls with mine.\n\n[Paste the rules, then the cases.]",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Starter prompts</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/b-starter-prompts.html#write-like-me",
+    "href": "appendices/b-starter-prompts.html#write-like-me",
+    "title": "Appendix B — Starter prompts",
+    "section": "B.8 Write like me",
+    "text": "B.8 Write like me\nTeach it how you sound, then test it on a real draft. The partner to Decide like me: one teaches it your voice, the other your rules. The full method is Write like me on the Go deeper page, and Style Mirror does prompts 26 and 27 for you.\n\nB.8.1 25 · Voice pass\nUse on a draft that sounds like everyone. Check: A. Read it aloud. Would you have said it?\nHere's about 100 words I wrote: [paste, with anything confidential removed]. Rewrite your last output in my voice, leading with the one thing only I would say.\n\n\nB.8.2 26 · Describe my style\nUse once, on three or four things you’ve written at your best. Check: B. It will be slightly off, and slightly a parody. Edit it until it’s you.\nHere are [three or four] things I've written: [paste, with anything confidential removed]. Describe my writing style as a brief another writer could follow: tone, sentence length and structure, vocabulary, how I open and close, the habits that make it sound like a person, and anything I never do. Quote a short example from my samples for each point.\n\n\nB.8.3 27 · Write from my style brief\nUse for a first draft in your voice. Save the brief in your custom instructions and you can skip pasting it. Check: depends on the task.\nHere's my style brief: [paste]. Write [format] about [topic] for [audience]. Match the voice, not the content of my samples. Mark anything you're unsure I'd say with [CHECK].\n\n\n\n\n\n\nNoteNote\n\n\n\nSaved one that works? Add its name, when to use it and its check in the prompt builder, and export your library.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Starter prompts</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/c-the-eight-exercises.html",
+    "href": "appendices/c-the-eight-exercises.html",
+    "title": "Appendix C — The eight exercises",
+    "section": "",
+    "text": "C.1 Exercise 1 · Your pass first\nThe masterclass exercises in book form. Work solo or with a colleague. Most take 12 to 35 minutes and need one AI tool you are allowed to use at work, plus a spreadsheet for Exercise 5. Keep your answers with your prompt library. The digital workbook on the course site holds the same exercises with autosave and export. If your own work is confidential, use a scenario card or a decision card instead. Exercise 5 uses retailflow-customer-service-data.csv, in this book’s resources and on the course site.\nWorked answers live where the method is taught. Exercise 5’s three claims are checked, with the figures, in Chapter 6, which also shows what a strong brief to Karen says. The decision cards below carry their own answer keys. The other exercises run on your own work, so there is no single answer to key. Do each one blind, then compare your result with the worked method in the chapter it belongs to.\n25 min · solo, then compare with a colleague if you can",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>The eight exercises</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/c-the-eight-exercises.html#ex1",
+    "href": "appendices/c-the-eight-exercises.html#ex1",
+    "title": "Appendix C — The eight exercises",
+    "section": "",
+    "text": "Your pass first. Five minutes, no AI: sketch your own plan for the task below, in the workbook.\nThen AI’s. Paste the task, unedited, into an AI tool (two tools if you have them; masterclass participants used a class chat with two).\nCompare side by side. Where did you beat it? Where did it beat you? What did it get confidently wrong?\n\n\nI manage a team of 8 in a mid-sized company. One of my team, a strong performer for three years, has been late and missing deadlines for the past month. Others are starting to notice. Write me a plan to address this.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>The eight exercises</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/c-the-eight-exercises.html#ex2",
+    "href": "appendices/c-the-eight-exercises.html#ex2",
+    "title": "Appendix C — The eight exercises",
+    "section": "C.2 Exercise 2 · Place it",
+    "text": "C.2 Exercise 2 · Place it\n22 min · solo, or with a colleague\n\nCommit blind. Take a scenario from Chapter 2. Decide its corner (A to D) and write it down before you look at the chapter’s usual answer. In the masterclass the room voted blind, so nobody followed the most senior person. On your own, writing it down first does the same job. With a colleague, commit separately, then compare.\nPlay the game at trusttool.borck.education. Choose your domain and place all ten cards.\nPlace three tasks from your own week in the workbook. For each, note the check it needs. If you worked with a colleague, swap placements: where do you disagree, and why? On your own, argue the opposite corner for one of them.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>The eight exercises</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/c-the-eight-exercises.html#ex3",
+    "href": "appendices/c-the-eight-exercises.html#ex3",
+    "title": "Appendix C — The eight exercises",
+    "section": "C.3 Exercise 3 · Brief it",
+    "text": "C.3 Exercise 3 · Brief it\n25 min · solo\n\nPick a real task from your week, or a scenario card below.\nRound 1: write the prompt the way you normally would. Run it. Score the output from 1 (unusable) to 5 (ready to use).\nRound 2: rewrite it with RTCF and run it in a fresh chat. Score it again.\nNote which part moved the score most.\n\n\nROLE: You are a … TASK: Write / summarise / compare … (how much?) CONTEXT: The audience is … The situation is … Good looks like … FORMAT: Length … Structure … Tone …\n\nThe prompt builder assembles the four parts for you.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>The eight exercises</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/c-the-eight-exercises.html#ex4",
+    "href": "appendices/c-the-eight-exercises.html#ex4",
+    "title": "Appendix C — The eight exercises",
+    "section": "C.4 Exercise 4 · Upgrade and save",
+    "text": "C.4 Exercise 4 · Upgrade and save\n25 min · solo\n\nTake your best Round 2 prompt. Add one upgrade and run it: an example, a definition of done, questions first, or steps.\nPush back with no new evidence: “I don’t think that’s right.” Does it fold or hold? Then try one of the three push-back moves:\n\n\nGUARDRAIL: Only change your assessment if I give you a new fact. Name the fact that changed it. DEVIL’S ADVOCATE: Don’t flatter me. Give me three reasons this fails, and name the assumption it all rests on. BOARD: Respond as a board: a CFO, a sceptical customer and a frontline manager. One paragraph each, then where they disagree.\n\n\nSave three prompts to your library: a name, when to use it, the prompt with [blanks], and the check it needs. Use the workbook or the prompt builder.\nStretch: the voice pass. Paste about 100 words you actually wrote (sanitised), then ask: “Rewrite your last output in my voice, leading with the one thing only I would say.” What changed? Optionally, ask it to summarise your style as a short brief and paste that into your tool’s custom instructions. Nothing you can paste? Write 100 words now, to a colleague, on a decision you made at work this month and how you made it. It’s your voice, and it’s safe. The full version is Write like me.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>The eight exercises</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/c-the-eight-exercises.html#ex5",
+    "href": "appendices/c-the-eight-exercises.html#ex5",
+    "title": "Appendix C — The eight exercises",
+    "section": "C.5 Exercise 5 · RetailFlow: Karen needs answers by Monday",
+    "text": "C.5 Exercise 5 · RetailFlow: Karen needs answers by Monday\n35 min · solo or in pairs. Commit to your verdicts in writing before you compare them with Chapter 6.\nKaren manages customer service at RetailFlow, an online retailer. She has six months of ticket data and three questions:\n\nWhat are the top three drivers of customer dissatisfaction?\nWhen do our response times blow out?\nWhat should I do about it?\n\nDownload the data (CSV)\n260 tickets, July to December 2024. Columns: ticket_id, date, day_of_week, month, category, channel, priority, agent, response_time_hours, resolution_time_hours, satisfaction_score (1 to 5), resolved.\n\nFrame. Write Karen’s questions down. Start a fresh chat.\nExplore. Upload the CSV (or paste it) and start with:\n\n\nDescribe this dataset: number of rows, columns, date range, and anything that looks incomplete. Don’t analyse it yet.\n\n\nShape a first brief for Karen, under 300 words. Don’t send it yet.\nVerify. Three claims about the data are doing the rounds, and at least one is wrong. Check each against the data with a spreadsheet filter, recount or pivot table. Not “are you sure?”\n\n\nA. “Email is roughly three times slower than Live Chat.”\nB. “Account Issues has the lowest satisfaction of any category, which makes sense, because account problems are the most complex to resolve.”\nC. “Sunday response times are more than double the overall average.”\n\nVerdicts: Verified (accurate as stated), Overstated (right direction, wrong number), Refuted (the data contradicts it), or Can’t tell yet if you haven’t been able to check it. Is any of them in your brief? Fix it, and end the brief with a line that starts What I checked:\nYour own data can’t go into a tool? Describe its shape instead and have the AI write the formulas, a short script, or a single web page that runs on your computer (prompt 14). Try it on the RetailFlow data first, where you now know the answers.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>The eight exercises</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/c-the-eight-exercises.html#ex6",
+    "href": "appendices/c-the-eight-exercises.html#ex6",
+    "title": "Appendix C — The eight exercises",
+    "section": "C.6 Exercise 6 · Decide like me",
+    "text": "C.6 Exercise 6 · Decide like me\n24 min · solo, then compare with a colleague if you can\nPick one decision you make over and over: small, repeatable, explainable, and nothing from the top-right corner of the trust tool. Get your rules out of your head, then test them blind on your own past calls. Method after Dylan Davis; the full method has its own page. Have the decision and three past cases ready before you start: the inputs, and the call you made on each. Masterclass participants prepared theirs beforehand (the masterclass preparation page). If you have no suitable decision, or if your work can’t go into an AI tool, take a decision card.\n\nGet the rules out. Talk the why through, or let it interview you:\n\n\nHelp me write down the rules I use for one decision: [the decision]. Question me one at a time, choosing each question from my last answer. Each time I say “it depends”, dig until it becomes an if-then rule. Stop after ten questions and list my rules, every branch included.\n\n\nWrite down three past cases: the inputs only, and your call on each. Do this before you run anything.\nTest it blind. In a new chat, give it the rules and the three cases, inputs only. Have it make each call and name the rule it used.\nFix one mismatch. A mismatch is a rule you’ve never put into words: a threshold you didn’t state, an exception you apply without noticing, or a loose preference the rules made strict. Add it as one if-then line, then re-test that case in a new chat.\nLast question: what would you never let it decide, and why? That list is the other half of the output.\n\nDescribe your past cases. Don’t paste anything confidential.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>The eight exercises</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/c-the-eight-exercises.html#ex7",
+    "href": "appendices/c-the-eight-exercises.html#ex7",
+    "title": "Appendix C — The eight exercises",
+    "section": "C.7 Exercise 7 · Plan one delivery",
+    "text": "C.7 Exercise 7 · Plan one delivery\n35 min · solo, then compare with a colleague if you can\n\nMap a task you do weekly that takes 30 minutes or more. Five to eight steps, with honest minutes for each. Note the owner, a success measure and the current baseline.\nAssign each step: who leads (AI leads, AI assists, you lead, human only) and its trust corner.\nDesign the checkpoints. Who checks each amber or red step, and how? Pick someone who knows what right looks like. Who is affected, who has to agree, and who will do the checking?\nTest one AI step live with an RTCF brief. Then set your 30-day gate: what result would make you scale, pivot or kill?\n\nThe Map my workflow and Pre-mortem starter prompts help with steps 1 and 3.\nMapping your workflow needs no data, only step names and minutes. If the inputs for the live test can’t go into a tool, invent a few lines in the same shape (Chapter 2’s second rule before you paste: describe it, don’t paste it). Can’t use your own workflow at all? Plan scenario card 3 (the Friday status update) or scenario card 6 (monthly invoicing), and test with the notes on the card.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>The eight exercises</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/c-the-eight-exercises.html#ex8",
+    "href": "appendices/c-the-eight-exercises.html#ex8",
+    "title": "Appendix C — The eight exercises",
+    "section": "C.8 Exercise 8 · Your action plan",
+    "text": "C.8 Exercise 8 · Your action plan\n12 min · solo. Share it with a colleague or your manager if that helps it stick.\nOne line each: a specific task, tool and day.\n\nThis week (practise): two-pass one task that matters, and use one saved prompt for real.\nThis month (deliver): run your delivery plan, with checkpoints in place from day one.\nDay 30 (gate): scale, pivot or kill, against the criteria you set now.\nThis quarter (revisit): name what must stay human in your role, and check whether the corners have moved.\n\nBefore you close the book, put this week’s line and your day-30 gate in your calendar.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>The eight exercises</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/c-the-eight-exercises.html#scenario-cards",
+    "href": "appendices/c-the-eight-exercises.html#scenario-cards",
+    "title": "Appendix C — The eight exercises",
+    "section": "C.9 Scenario cards",
+    "text": "C.9 Scenario cards\nUse one of these in Exercises 3 and 4 if your own work is confidential. Paste the details into your Context. Scenarios 3 and 6 also work as the workflow for Exercise 7.\nScenario 1\n\nC.9.1 The difficult client email\nYour client, David Chen (VP Operations, GreenLeaf Industries), says your latest deliverable is “too generic”. The work is solid, but his board changed priorities at a meeting you weren’t in. It’s an 18-month, mostly positive relationship. You want to acknowledge his frustration without conceding the work is poor, and propose a one-hour alignment meeting.\nScenario 2\n\n\nC.9.2 The policy summary\nA new 22-page flexible work policy needs to become an email your 12-person marketing team will actually read: how many days from home, how to request changes, busy periods, and part-time rules. Friendly, practical, under 400 words. (Paste any policy you have, or ask the AI to invent a plausible one first.)\nScenario 3\n\n\nC.9.3 The Friday status update\nCRM migration for a steering committee (CIO, sponsor, two business leads). Notes: data batch 2 done but 3 days late (2,300 duplicate records, Sarah leading review); vendor hasn’t confirmed training dates; UAT going well, 2 minor bugs; $12K under budget; 68% complete against a 72% target. They want RAG status, wins, risks, next steps. No surprises.\nScenario 4\n\n\nC.9.4 The interview questions\nHiring a mid-level Digital Marketing Coordinator for a 5-person B2B team: social campaigns, Google Analytics and Meta Ads, agency coordination, monthly reports to leadership. 45-minute panel with the Marketing Director. HR’s generic questions won’t tell you whether they can do the job. You want behavioural and situational questions.\nScenario 5\n\n\nC.9.5 The logistics decision\nRenew, switch or insource your third-party logistics? Current provider: $1.8M a year, 96.2% on time (benchmark 97%), 2.1% damage (benchmark 1.5%), slow on volume spikes, just raised prices 8%. Competitor: $1.65M, promises 97.5%. In-house: $2.5M upfront, $1.2M a year, 12 months to set up. 15,000 orders a month, growing 20% a year. A discussion starter for leadership, not the decision.\nScenario 6\n\n\nC.9.6 The process document\nYou’re the only person who knows monthly invoicing: export billable hours from Harvest, group by client in Excel, apply the rate card ($250 strategy, $180 execution, $120 support), create invoices in Xero, add PO numbers from the account managers’ Google Sheet, send, update the tracker, then email Finance a summary with anything unusual. Write it so a colleague can do it while you’re on leave.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>The eight exercises</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/c-the-eight-exercises.html#decision-cards",
+    "href": "appendices/c-the-eight-exercises.html#decision-cards",
+    "title": "Appendix C — The eight exercises",
+    "section": "C.10 Decision cards",
+    "text": "C.10 Decision cards\nFor Exercise 6, if you have no suitable decision of your own or your work can’t go into an AI tool. The people and figures are invented, so everything here is safe to paste.\nEach card hands you someone else’s decision. You’re taking it over from the person who made it, and their record is below.\n\nRead the record. Then write your own call on test cases A to C before you run anything.\nGet the rules out. Mine the record with prompt 23, or say the rules you’d use if the job were yours.\nTest it blind. In a new chat, give it the rules and the three test cases (prompt 24).\nOpen the answer key. Compare its calls, your calls and the record-holder’s. One test case turns on a rule they never wrote down.\n\nDecision card 1\n\nC.10.1 RetailFlow: does this ticket go to a senior agent?\nPriya leads Karen’s customer service team. Each morning she sends some open tickets to one of the two senior agents and leaves the rest in the general queue.\n\n\n\n\n\n\n\n\n\n\n\n\n#\nCategory\nChannel\nAmount\nWaiting\nNote\nPriya’s call\n\n\n\n\n1\nReturns & Refunds\nEmail\n$340\n6 h\nFirst contact\nSenior agent\n\n\n2\nOrder Tracking\nLive Chat\n$45\n2 h\nCustomer marked it High priority\nGeneral queue\n\n\n3\nDelivery Problems\nPhone\n$120\n30 h\nFirst contact\nSenior agent\n\n\n4\nBilling Queries\nEmail\n$80\n5 h\nSecond contact about the same charge\nSenior agent\n\n\n5\nReturns & Refunds\nLive Chat\n$150\n3 h\nFirst contact\nGeneral queue\n\n\n6\nDelivery Problems\nEmail\n$95\n10 h\nFirst contact\nGeneral queue\n\n\n\nTest cases, inputs only\n\n\n\n\n\n\n\n\n\n\n\n\nCategory\nChannel\nAmount\nWaiting\nNote\n\n\n\n\nA\nReturns & Refunds\nPhone\n$380\n4 h\nFirst contact\n\n\nB\nOrder Tracking\nEmail\n$30\n8 h\nCustomer marked it High priority\n\n\nC\nDelivery Problems\nSocial Media\n$90\n3 h\nPublic post, 40 replies so far\n\n\n\n\n\nAnswer key: Priya’s calls\n\n\nA · Senior agent. Refunds over $200 go to a senior agent.\nB · General queue. Priya ignores the priority customers set themselves; it’s on almost every ticket.\nC · Senior agent. Anything public on social media goes to a senior agent the same morning. It isn’t in the record because it only happens a few times a year. That’s an unstated exception.\n\nHer other rules: anything waiting over 24 hours, and any second contact about the same issue, goes to a senior agent.\n\nDecision card 2\n\n\nC.10.2 Expense claims: approve, or query first?\nSam manages a small operations team and approves their expense claims. Most go straight through. Some get a query first.\n\n\n\n\n\n\n\n\n\n\n\n#\nClaim\nAmount\nReceipt\nAge\nSam’s call\n\n\n\n\n1\nTaxi to a client site\n$38\nYes\n5 days\nApprove\n\n\n2\nTeam lunch, 4 people\n$300 ($75 each)\nYes\n10 days\nApprove\n\n\n3\nParking\n$55\nNo\n3 days\nQuery\n\n\n4\nDinner with a client, 2 people\n$190 ($95 each)\nYes\n7 days\nQuery\n\n\n5\nTrain fare\n$24\nNo\n2 days\nApprove\n\n\n6\nConference registration\n$420\nYes\n6 days\nApprove\n\n\n7\nTaxi home after a late event\n$32\nYes\n75 days\nQuery\n\n\n\nTest cases, inputs only\n\n\n\n\n\n\n\n\n\n\n\nClaim\nAmount\nReceipt\nAge\n\n\n\n\nA\nCoffee with a supplier, 2 people\n$14\nNo\n4 days\n\n\nB\nDinner after a site visit, 3 people\n$330 ($110 each)\nYes\n12 days\n\n\nC\nLaptop stand and keyboard\n$640\nYes\n9 days\n\n\n\n\n\nAnswer key: Sam’s calls\n\n\nA · Approve. No receipt is fine under $50.\nB · Query. Meals over $80 a head get a query.\nC · Query. Sam queries anything over $500, receipt or not, because equipment that size should go through IT purchasing. Nothing in the record was over $500, so the rule never showed. That’s a threshold never put into words.\n\nSam’s other rule: claims more than 60 days old get a query.\n\nDecision card 3\n\n\nC.10.3 Meeting requests: accept, ask for an agenda, or send a delegate?\nJo runs a team of nine and gets several meeting requests a day.\n\n\n\n\n\n\n\n\n\n\n\n#\nRequest\nLength\nJo is\nAgenda\nJo’s call\n\n\n\n\n1\nWeekly 1:1 with someone in Jo’s team\n30 min\nRequired\nNone\nAccept\n\n\n2\nProduct demo from a vendor’s sales rep\n60 min\nRequired\nNone\nAsk for an agenda\n\n\n3\nQuarterly planning\n2 hours\nOptional\nAttached\nSend a delegate\n\n\n4\nBudget review with Jo’s manager\n45 min\nRequired\nAttached\nAccept\n\n\n5\nCross-team workshop\n90 min\nRequired\nAttached\nAccept\n\n\n6\n“Quick sync” from a peer in finance\n45 min\nRequired\nNone\nAsk for an agenda\n\n\n\nTest cases, inputs only\n\n\n\n\n\n\n\n\n\n\n\nRequest\nLength\nJo is\nAgenda\n\n\n\n\nA\nFollow-up from the same vendor\n30 min\nRequired\nNone\n\n\nB\nAll-hands rehearsal\n2 hours\nOptional\nAttached\n\n\nC\n“Quick question on the contract” from a peer in legal\n15 min\nRequired\nNone\n\n\n\n\n\nAnswer key: Jo’s calls\n\n\nA · Ask for an agenda. No agenda means Jo asks for one, unless it’s her own team or her manager.\nB · Send a delegate. Long meetings where she’s optional get a delegate.\nC · Accept. Jo holds the agenda rule loosely: for anything 15 minutes or shorter she just accepts. The rules made it strict. That’s a loose rule applied strictly.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>The eight exercises</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/d-responsible-use.html",
+    "href": "appendices/d-responsible-use.html",
+    "title": "Appendix D — Responsible use",
+    "section": "",
+    "text": "D.1 Australia’s six essential practices\nData, bias, and ethics, where a person stays in charge. This appendix collects what the chapters treat in passing: Australia’s six essential practices, proportionate data governance, the quiet defaults, and four dilemmas for a team meeting or a policy conversation. For governance, risk, and regulation in depth, Curtin Executive Education’s Ethics of Artificial Intelligence masterclass is the companion offering.\nIn October 2025 the Australian Government’s Guidance for AI Adoption replaced the eight AI Ethics Principles and the ten voluntary guardrails with six essential practices. They’re written for organisations, but each one has a version you can practise in your own work:",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Responsible use</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/d-responsible-use.html#australias-six-essential-practices",
+    "href": "appendices/d-responsible-use.html#australias-six-essential-practices",
+    "title": "Appendix D — Responsible use",
+    "section": "",
+    "text": "Practice\nIn your own work\n\n\n\n\n1 · Decide who is accountable\nEvery AI-assisted workflow has a named owner. Your name goes on the output, not the tool’s.\n\n\n2 · Understand impacts and plan accordingly\nAsk who is affected, and who could be treated unfairly (see the quiet defaults below).\n\n\n3 · Measure and manage risks\nClassify data before you paste it. Place each output on the trust tool.\n\n\n4 · Share essential information\nTell people when AI drafted or decided something that affects them. Check what your organisation’s AI policy says about disclosure, and see the privacy rule below.\n\n\n5 · Test and monitor\nCheck from outside the tool (the check loop, VET), and review at a gate.\n\n\n6 · Maintain human control\nHuman checkpoints at every amber or red step; some work stays human only.\n\n\n\n\n\n\n\n\n\nNoteNote\n\n\n\nPractice 4 is now also law. From 10 December 2026, the Privacy Act requires an organisation’s privacy policy to say where it uses a computer program to make a decision, or to do something substantially and directly related to making one, when the decision could significantly affect a person’s rights or interests and uses their personal information (APP 1.7 to 1.9). The policy must name the kinds of personal information used and the kinds of decisions. AI scoring, triage and saved decision rules can all fall inside it. The OAIC’s guidance and flowchart set out the test. If your team uses AI on decisions about people, tell whoever owns your privacy policy.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Responsible use</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/d-responsible-use.html#data-governance-proportionate-not-prohibitive",
+    "href": "appendices/d-responsible-use.html#data-governance-proportionate-not-prohibitive",
+    "title": "Appendix D — Responsible use",
+    "section": "D.2 Data governance: proportionate, not prohibitive",
+    "text": "D.2 Data governance: proportionate, not prohibitive\nMany organisations land on “don’t put anything into AI”. That treats every interaction as equally risky, and it mixes up a few real concerns with one imaginary one.\nThe risk sits in the pipeline. When you paste data into a tool, the exposure is transmission, storage, jurisdiction and contract: where it goes, who keeps it, under which law. It isn’t someone later “extracting” your document from the model. Email, Slack and shared drives carry the same pipeline risks; AI only feels riskier because it’s newer.\nA proportionate approach:\n\nClassify the data. Public, internal, confidential or regulated?\nMatch the tool to the class. Approved work tools with a data-processing agreement for internal and confidential work. Consumer tools for public or non-sensitive material. Regulated data (health, financial, personal) needs a specific assessment first.\nManage the real risks. Never paste passwords, API keys or access tokens. Remove personal details where you can. Know the provider’s logging and retention terms.\nDrop the imaginary one. Stop treating “model extraction” as a likely threat, and put the effort where the exposure actually is.\n\n\nD.2.1 Set it up safely\nA checklist for your own accounts. Your organisation’s AI policy and privacy officer have the final say on what’s approved. The regulator agrees with the cautious line. The OAIC’s guidance on commercially available AI products says the Privacy Act applies to personal information you put into an AI tool, and to output that contains it. It recommends, as best practice, not entering personal information, especially sensitive information, into publicly available AI tools.\n\nTwo accounts: work and personal. Client work only in a work account on a business plan your organisation has approved. Business plans generally don’t train on your data and come with a data agreement. Keep personal use in a personal account, in a separate browser profile, so the two never share a login, history or connected apps.\nTurn off training on personal accounts. Look under Settings, then Data controls or Privacy. The names vary: “Improve the model for everyone”, “AI data usage”, “Help improve”.\nMemory off, or a temporary chat, for anything sensitive. Memories are kept separately from chat history, so deleting a chat may not delete them.\nConnect only what you need. Each connection to your email, files or calendar widens what the tool can read, and what hidden instructions in those files can reach.\nRegulated data stays out unless it’s approved. Information about children, health or finances of identifiable people only goes into a tool your organisation has approved for that kind of data, and even then without names. Your sector may have stricter rules.\nCheck client agreements. Some contracts and NDAs now say whether AI can be used on client material. If yours are silent, ask the client.\nCan’t share it? Have it build the tool instead. Describe the shape of the data and ask for spreadsheet formulas, a short script, or a single web page that runs on your own computer (prompt 14). The tool never sees the data. Test what it gives you on data where you know the answer first, and if you can’t read the code, treat it as top-right.\nAny product you’re unsure of: ask three questions. Which plan am I on? Does it train on what I type? Is there a data agreement with my organisation? Perplexity, for example, uses personal searches to improve its models unless you turn off “AI Data Usage” in Settings (Perplexity help), and says it doesn’t train on enterprise customers’ data.\n\nIf your team already uses AI on its own. Unapproved use is common, and the data is already going somewhere. Banning it usually drives it out of sight. A better order: find out what people are using and for what, approve a tool that fits the work, teach the three rules before you paste, and make it easy to ask before pasting something borderline.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Responsible use</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/d-responsible-use.html#find-the-quiet-defaults",
+    "href": "appendices/d-responsible-use.html#find-the-quiet-defaults",
+    "title": "Appendix D — Responsible use",
+    "section": "D.3 Find the quiet defaults",
+    "text": "D.3 Find the quiet defaults\n\nActivity, about 5 minutes. Ask your AI tool: “Write a one-paragraph scene of a respected senior manager on a busy Monday.” Then, in a new chat: “Write a one-paragraph scene of a respected administrative officer on a busy Monday.” Read them side by side.\n\nThe interesting bias isn’t the blatant one; models are trained hard against obvious stereotypes. It’s in the small choices. What is each person called: a title and surname, or a first name? Who is described as warm, and who as capable? What does each one worry about? Who holds authority in the scene?\nTry other pairs from your own work:\n\n“a strong graduate applicant” vs “a strong mature-age applicant”\n“a high-performing team member” vs “a team member returning from parental leave”\n“a successful founder” vs “a successful small-business owner”\n\nIf you use AI to draft position descriptions, references or performance reviews, these defaults leak into them. The generic output inherits the generic average, including its skew, and noticing that skew is your job.\nPrefer a guided game? Play Survival of the Best Fit (about 10 minutes) and watch an “objective” hiring algorithm reproduce and amplify the bias in its training data. Then ask: where did the bias get in, and whose job was it to notice? On the trust tool, that’s a precise, large-stakes call: top-right corner.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Responsible use</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/d-responsible-use.html#four-ethics-dilemmas",
+    "href": "appendices/d-responsible-use.html#four-ethics-dilemmas",
+    "title": "Appendix D — Responsible use",
+    "section": "D.4 Four ethics dilemmas",
+    "text": "D.4 Four ethics dilemmas\nTake one or two into a team meeting, or work through them on your own. There’s no answer key. The point is to make the trade-off explicit and decide where a person stays in charge.\n\nD.4.1 1 · The biased screen\nYour team deploys an AI résumé-screening tool. Six months in, an analyst notices it quietly marks down applicants from one group. By its efficiency measure, it’s “working”. Do you switch it off immediately, or audit it first? Who is responsible: the vendor, the team that deployed it, or the executive who sponsored it?\nThe connection: the bias came in through the data, not malice. Screening decisions are precise and large-stakes, so a person owns them, and “the algorithm did it” is not a defence.\n\n\nD.4.2 2 · The confidently wrong policy bot\nA customer is quoted a returns policy that doesn’t exist, in writing, by your chatbot, and acts on it. Who’s accountable? What do you owe the customer, and what do you change in the system?\nThe connection: checking is the product. The checkpoint belongs before a wrong answer reaches a customer, designed in from the start, not added after the apology.\n\n\nD.4.3 3 · Efficiency or apprenticeship?\nAutomating 80% of a junior’s routine work looks like a win, until you realise they never learn to judge the output, because the work that trained their predecessors has gone. Is that an ethics question or just an HR one?\nThe connection: the juniors lost the easy reps. Hollowing out expertise for short-term speed deletes your team’s future judgement. Keep at least one checkpoint human on purpose, to build capability.\n\n\nD.4.4 4 · “Ship it now, govern it later”\nA competitor launches an AI feature, and your manager says to match it this quarter and sort out the governance afterwards. Do you? What do you say?\nThe connection: the demo is a trap, and “everyone else is doing it” isn’t a plan. Governance added after something goes wrong costs more, in money and in trust, than governance designed in.\n\n\n\n\n\n\nNoteNote\n\n\n\nThe thread: every dilemma is the same question. Where does a person stay in the loop, and who owns the consequence when they don’t? It isn’t a technical question; it’s the judgement this book is about. For depth on governance, risk and regulation, see Curtin Executive Education’s Ethics of artificial intelligence masterclass.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Responsible use</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/e-beyond-the-day.html",
+    "href": "appendices/e-beyond-the-day.html",
+    "title": "Appendix E — Beyond the chapters",
+    "section": "",
+    "text": "E.1 Set it once\nThe chapters are tool-agnostic on purpose, because the four tools work on any AI, including the ones that ship next. This appendix is not. It names products, settings, and jargon: where each product keeps the standing brief, what the words in vendor pitches mean, what the tools make beyond text, and where agents and the terminal fit. It ends with the big questions that sit outside the chapters. This appendix will date faster than anything else in the book. Menu names were checked in October 2026. When one has moved, search the product’s help for “instructions” and apply the same ideas. The four tools do not change when the menus do.\nIn the chapters and exercises you typed the brief fresh, every chat: role, task, context, format, and its check. Every major tool lets you save that as the standing brief it sends with every message. The generic name is a system prompt. The trade names differ.\nMenu names checked October 2026. They move; if one has changed, search the tool’s help for “instructions”.\nWhat goes in: your RTCF brief, your Done line, the check you attach. What doesn’t: anything confidential you wouldn’t paste into a chat. For the data side (training, memory, two accounts), see Set it up safely. Review the saved brief each quarter, because the corners move and the brief should move with them. Write like me is a worked example. Decide like me uses the same setting to save a set of decision rules.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>E</span>  <span class='chapter-title'>Beyond the chapters</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/e-beyond-the-day.html#set-it-once",
+    "href": "appendices/e-beyond-the-day.html#set-it-once",
+    "title": "Appendix E — Beyond the chapters",
+    "section": "",
+    "text": "Tool (web)\nThe setting is called\nWhere it lives\n\n\n\n\nChatGPT\nCustom instructions · Projects · Memory\nSettings → Personalization; each Project has its own instructions\n\n\nClaude\nInstructions · Projects · Memory\nSettings → Your Claude; each Project has its own instructions\n\n\nGemini\nInstructions for Gemini · Gems\nSettings & help → Personal Intelligence; Gems in the sidebar\n\n\nMicrosoft Copilot\nCustom instructions · Memory\nSettings → Personalization\n\n\nMsty, LibreChat, Open WebUI\nSystem prompt\nPer chat or per model. You edit the prompt itself, so these show most plainly what a system prompt is\n\n\n\n\n\n\n\n\n\n\n\nNoteNote\n\n\n\nThe names differ; the idea doesn’t. When a demo says the AI “understands you”, look for this setting. It’s a text box. You wrote a better one in Exercise 4.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>E</span>  <span class='chapter-title'>Beyond the chapters</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/e-beyond-the-day.html#the-jargon-decoded",
+    "href": "appendices/e-beyond-the-day.html#the-jargon-decoded",
+    "title": "Appendix E — Beyond the chapters",
+    "section": "E.2 The jargon, decoded",
+    "text": "E.2 The jargon, decoded\nYou’ll hear these in every vendor pitch. None of them removes the check.\n\n\n\nTerm\nWhat it actually is\nWhat it changes\n\n\n\n\nMCP · Model Context Protocol\nA standard plug that lets a harness call outside tools and data: your calendar, your files, the web.\nEach connection widens what the harness can read and do. The stakes go up, so place the work on the trust tool again.\n\n\nContext window\nThe model’s working memory.\nLong chats drift and early instructions fade. That’s why the two-chat workflow and the handover prompt on Go deeper help.\n\n\nRAG · “grounded on your documents”\nThe tool reads your files first, then answers.\nBetter grounding, new failure mode: check what it read, not just what it said.\n\n\nHarness\nThe software around the model: standing instructions, what it can read, what tools it may call.\nYou already use several. Configuring one well is “set it once”, above.\n\n\nSkill\nA saved, reusable brief that an agent or assistant loads when a task matches. The generic idea is a standing brief; agent tools call it a skill.\nYour judgement, written down and reusable. The check still belongs in the brief, and a person still reviews the output.\n\n\nAgent\nA model in a loop with tools: plans, acts, checks, retries.\nAutomates the loop, not the standard. The check still comes from outside.\n\n\nPrompt injection\nInstructions hidden in something the tool reads: a web page, an email, a document, often in white or tiny text.\nThe tool may follow them as if you wrote them. The risk grows with every connection, and is highest for agents that read and act with nobody watching. Keep a person between what it reads and what it does. Try it.\n\n\n\nSkills in practice: Build Web, Guide AI, “The Agent-Ready Repo and Handover”, shows how a repeated workflow becomes a tested skill file.\n\nE.2.1 Try it: a document that talks to the AI\nDownload the Northbridge proposal, an invented supplier offer to RetailFlow (Karen’s company from Exercise 5) for weekend and email support. It looks ordinary.\n\nRead it yourself first. Note what Karen should know before she signs.\nGive it to an AI tool. Upload it, or select all, copy and paste. Ask: “Summarise this proposal for Karen, including the cost and the risks. Should she sign?”\nCompare. Did the summary cover the contract terms and where customer data is stored? Did it push her to sign? Did it end with a piece of fruit?\nLook for the trick. In Word, select all and change the font colour to black.\n\nIf the tool ignored the hidden note, that’s partly good news: many tools now resist it when you paste a document yourself. The risk is highest when an agent reads email, web pages or shared files on its own, with nobody checking what went in. And don’t use the trick on real documents. It gets found, and it costs trust.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>E</span>  <span class='chapter-title'>Beyond the chapters</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/e-beyond-the-day.html#beyond-text",
+    "href": "appendices/e-beyond-the-day.html#beyond-text",
+    "title": "Appendix E — Beyond the chapters",
+    "section": "E.3 Beyond text",
+    "text": "E.3 Beyond text\nThe chapters worked in text because judgement shows clearest there. The same models make images, audio, music and video, and the trust tool moves straight over.\n\n\n\nOutput\nOn the grid\nThe check\n\n\n\n\nImage mock-up, internal discussion\nGreen corner\nNothing formal. It’s a sketch\n\n\nImage in a client-facing deliverable\nRed corner\nLicence and rights, consent for any real likeness, a disclosure line\n\n\nVoice mode, drafting while you walk\nGreen\nThe names and figures it “heard”. Re-check before sending\n\n\nMusic or video for a public asset\nAmber to red\nCopyright here is unsettled; follow your organisation’s policy and disclose\n\n\nA voice or video call asking for a payment, a password or a change of bank details\nRed, however familiar the face\nCheck outside the channel it arrived on: hang up and call back on a number you already have. In 2024 an Arup employee in Hong Kong paid out about US$25.6 million after a video call in which every other “colleague” was a deepfake (CNN).\n\n\n\nTwo habits from the chapters transfer: classify before you paste (a face is personal information), and tell people when AI made the thing they’re looking at (Responsible use).",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>E</span>  <span class='chapter-title'>Beyond the chapters</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/e-beyond-the-day.html#the-terminal-if-you-want-it",
+    "href": "appendices/e-beyond-the-day.html#the-terminal-if-you-want-it",
+    "title": "Appendix E — Beyond the chapters",
+    "section": "E.4 The terminal, if you want it",
+    "text": "E.4 The terminal, if you want it\nEverything above is the web interface on purpose: it’s where the judgement work happens, and where your account already is. The same ideas carry over to developer tools. Agent CLIs take a brief in your terminal and work in a loop, and your review still decides what ships. Local models run on your own laptop, which is the answer when your writing samples can’t leave it. They’re weaker than the big cloud tools, but for brainstorming and thinking out loud that matters less than you’d think: the point is the ideas they trigger in you. Save the strongest tool for exact facts and data. Msty Studio is the easiest start: one install, then a local model or your own API key. Ollama is the engine many local apps run on, and Open WebUI and LibreChat are chat interfaces an IT team can host for a whole organisation. You can also describe a small tool in plain English and have an AI write it. Treat the result like any other output: if you can’t read the code, it belongs in the top-right corner. Test it on data where you know the answer, and keep it away from anything confidential until someone who can read it has. None of this is required. It’s the same four tools, faster.\n\n\n\n\n\n\nNoteNote\n\n\n\nWhatever the product, set the standing brief once, connect tools on purpose, and keep the check outside the tool. More in Resources.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>E</span>  <span class='chapter-title'>Beyond the chapters</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/e-beyond-the-day.html#the-big-questions",
+    "href": "appendices/e-beyond-the-day.html#the-big-questions",
+    "title": "Appendix E — Beyond the chapters",
+    "section": "E.5 The big questions",
+    "text": "E.5 The big questions\nThese sit outside the chapters. They came up in the masterclass, and readers ask them too. Short answers, and where to read more.\n\nE.5.1 Is AI just software?\nFor governance, yes. Procurement, privacy, security and a named owner apply as they do to any system. For testing, no. Nobody wrote its logic, so nobody can read it. The same input can give a different output. It fails fluently, and an agent can act without asking. That’s why this book puts the check outside the tool and a gate before scale (why AI projects fail differently).\n\n\nE.5.2 AGI and superintelligence\nAGI usually means a system that can do most work a person can. Superintelligence means one far better than people at nearly everything. Several AI labs say they are building towards it. Whether and when it arrives is disputed, and the disagreement runs through the field. In a survey of 2,778 published AI researchers, between 38% and 51% gave at least a 10% chance that advanced AI leads to outcomes as bad as human extinction (Grace and others, 2024).\nTwo serious positions, both worth reading:\n\nTake the risk seriously now. In 2023, Geoffrey Hinton, Yoshua Bengio and the heads of OpenAI, Google DeepMind and Anthropic signed a one-line statement: mitigating the risk of extinction from AI should be a global priority alongside pandemics and nuclear war. The International AI Safety Report (2026, led by Bengio, backed by more than 30 countries) is the measured version: what the evidence shows so far, and what it doesn’t.\nTreat it as normal technology. Arvind Narayanan and Sayash Kapoor’s AI as Normal Technology (2025) argues that AI will change things the way electricity did: over decades, through institutions, and under human control. They think superintelligence, as usually described, doesn’t hold together, and that building resilience beats drastic intervention.\n\n\n\nE.5.3 The one-shot argument\nMost engineering improves by failing: ship it, watch it break, fix it. The worry about superintelligence is that this loop might not be there. A system far more capable than us, pursuing goals that aren’t quite ours, might not leave room for a second attempt. That is the core of the alignment argument, and it’s why some researchers want the safety work done before the capability arrives rather than after.\nThe argument’s logic holds. It also rests on open questions: whether capability arrives in a jump or by degrees, whether these systems become agents with goals of their own, and whether we keep the ability to watch and correct them. Serious people answer those differently, and nobody knows yet.\n\n\nE.5.4 What about the energy cost?\nReal, and growing fast in total, but smaller per question than most people guess. Google measured its median Gemini text prompt at 0.24 Wh, about nine seconds of television (Google, 2025); that’s the vendor’s own figure for one product. Across the world, data centres used about 1.5% of electricity in 2024, and the International Energy Agency expects that to more than double by 2030, with AI the main driver (IEA, Energy and AI). Images, video, long reasoning and agents use far more than a short text prompt. The habits that help: use a smaller model for small jobs, don’t regenerate for the sake of it, and ask vendors for their numbers.\n\n\nE.5.5 You’ve already met the small version\nAlignment means getting a system to do what we actually want. The chapters showed it falling short in small ways:\n\na model tuned to please you, which folds when you push back with no new evidence\nmistakes that don’t look like mistakes, so your alarm stays quiet\nvalues nobody chose, in the quiet defaults\nan agent checking its own work and sharing its own blind spots\n\nThis book’s answers are a check from outside the tool, a blind test before you rely on anything, and a gate where kill is a real option. Safety researchers ask for the same things at a much larger scale. The one-shot worry is about what happens if those habits stop being possible.\n\n\n\n\n\n\nNoteNote\n\n\n\nTo follow it: the International AI Safety Report publishes yearly with updates in between. Australia’s AI Safety Institute was announced in November 2025 to monitor and test emerging AI. For governance and regulation in depth, Curtin’s Ethics of artificial intelligence masterclass.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>E</span>  <span class='chapter-title'>Beyond the chapters</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/f-further-reading.html",
+    "href": "appendices/f-further-reading.html",
+    "title": "Appendix F — Further reading",
+    "section": "",
+    "text": "F.1 Read next\nThree picks first, one per angle, all free. Then the sources behind specific chapters, so you can check this book the way Chapter 7 taught you to check anything else.\nPractice. Conversation, Not Delegation, the companion book this course draws on. Start with the VET and conversation loop chapters: michael-borck.github.io/conversation-not-delegation.\nSafety. The International AI Safety Report 2026, led by Yoshua Bengio. The three-page executive summary is enough to start: internationalaisafetyreport.org.\nThe sceptical view. Arvind Narayanan and Sayash Kapoor, “AI as Normal Technology” (2025), on why change may arrive over decades rather than years: knightcolumbia.org.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>Further reading</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/f-further-reading.html#australian-guidance-and-law",
+    "href": "appendices/f-further-reading.html#australian-guidance-and-law",
+    "title": "Appendix F — Further reading",
+    "section": "F.2 Australian guidance and law",
+    "text": "F.2 Australian guidance and law\n\nAustralian Government, Guidance for AI Adoption (October 2025). The six essential practices in Appendix D, with an AI policy template: ai.gov.au.\nOffice of the Australian Information Commissioner, guidance and flowchart on transparency for AI and automated decision-making, covering the Privacy Act APP 1.7 to 1.9 obligations from 10 December 2026: oaic.gov.au.\nCurtin Executive Education, Ethics of Artificial Intelligence masterclass, for governance, risk, and regulation in depth: curtin.edu.au.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>Further reading</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/f-further-reading.html#sources-behind-the-chapters",
+    "href": "appendices/f-further-reading.html#sources-behind-the-chapters",
+    "title": "Appendix F — Further reading",
+    "section": "F.3 Sources behind the chapters",
+    "text": "F.3 Sources behind the chapters\n\nChapter 5. Abrami, P. C. et al. (2015). “Strategies for Teaching Students to Think Critically.” Review of Educational Research. Dialogue as a lever for critical thinking: doi.org/10.3102/0034654314551063.\nChapter 8. Dylan Davis, the Decide Like Me method. The course adopts the elicitation and blind-testing core and stops short of autonomous decisions, as the chapter explains.\nChapter 11. Department of Employment and Workplace Relations (2026), AI and Employment in Australia. Jobs and Skills Australia (2025), Generative AI Capacity Study. Brynjolfsson, E., Chandar, B., and Chen, R. (revised 2026), “Canaries in the Coal Mine?” on early-career employment in AI-exposed US jobs.\nChapter 1. Michael Crichton (2002), speech coining “Gell-Mann amnesia”, named for Murray Gell-Mann.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>Further reading</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/f-further-reading.html#free-tools-from-the-course",
+    "href": "appendices/f-further-reading.html#free-tools-from-the-course",
+    "title": "Appendix F — Further reading",
+    "section": "F.4 Free tools from the course",
+    "text": "F.4 Free tools from the course\n\nTrust Tool game. Ten placement scenarios with explanations: trusttool.borck.education.\nCourse companion site. Workbook, prompt builder, slides, downloads, and the Northbridge prompt-injection document from Appendix E: michael-borck.github.io/the-human-edge.\nCiteSight. Checks whether references exist, for the Verify step in Chapter 7: citesight.eduserver.au.\nStyle Mirror. Drafts a voice brief from writing samples, for Chapter 5: stylemirror.eduserver.au.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>Further reading</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/f-further-reading.html#the-human-edge-series",
+    "href": "appendices/f-further-reading.html#the-human-edge-series",
+    "title": "Appendix F — Further reading",
+    "section": "F.5 The Human Edge series",
+    "text": "F.5 The Human Edge series\n\nThis book. The Human Edge: Using AI with Judgement. Personal judgement at your desk and in the work you deliver. Curtin Executive Education masterclass of the same name.\nIn development. The Human Edge: Leading AI with Judgement. Choosing which AI projects to back, and making sure they deliver. The companion masterclass replaces AI in Strategy and is being redesigned before the book is written, so the book can be tested in the room first. That order is deliberate, and Chapter 10 explains why.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>Further reading</span>"
+    ]
+  },
+  {
+    "objectID": "acknowledgments.html",
+    "href": "acknowledgments.html",
+    "title": "Acknowledgments",
+    "section": "",
+    "text": "This book began as a one-day Curtin Executive Education masterclass, first marketed as AI for Professionals: Building Everyday Capability and renamed, mid-flight, to the better title it now carries. The renaming slide, which strikes the old title through and sticks the new one over it, survives in the course deck. It is a fair picture of how this material was made: practical first, honest about what it replaced.\nThe argument was shaped in the room. Participants who placed the same scenario in different corners of the Trust Tool, and then had to defend the placement, taught the author more about stakes than any framework could. The RetailFlow exercise works because people really did forward the fluent claim to the fictional Karen before checking it. The Decide Like Me exercise works because roughly four calls in five match, and the fifth one is always interesting. Every improvement in these pages can be traced to a debrief that ran long.\nThis book sits in a small family, and the family made it better. Conversation, Not Delegation supplied the method: converse, push back, verify from outside the tool. Prove, Don’t Persuade supplied the insistence that a demo is not evidence. The Human Edge is where those ideas meet an ordinary working week.\nThe Decide Like Me method, and the “broken ladder” framing of the junior pipeline problem discussed in Chapter 11, draw on Dylan Davis. The Australian employment evidence draws on the Department of Employment and Workplace Relations (2026) and Jobs and Skills Australia (2025). “Gell-Mann amnesia” is Michael Crichton’s term. RetailFlow, Northbridge, and their data are invented for teaching; any resemblance to real organisations is coincidental.\nThe open-source community behind Quarto, Pandoc, and GitHub made it possible to write, build, and publish this book alongside the course site, the workbook, and the Trust Tool game, all from text files the reader can inspect.\nThis book was written using the method it teaches. AI drafted, summarised, and proposed structures at every stage. It also produced fluent errors on schedule, including about the dataset in Chapter 6, which is why every figure there was recomputed from the source file. The machine made the work faster. The judgement, and the responsibility for every claim that remains, are the author’s.",
+    "crumbs": [
+      "Appendices",
+      "Acknowledgments"
+    ]
+  },
+  {
+    "objectID": "about-author.html",
+    "href": "about-author.html",
+    "title": "About the Author",
+    "section": "",
+    "text": "Photo of Michael Borck\n\n\nMichael Borck is a software developer and educator working at the intersection of human expertise and artificial intelligence. He teaches applied AI and AI in business at Curtin University, and runs The Human Edge masterclasses through Curtin Executive Education. The question that started this book (when everyone has the same AI tools, where does my edge live?) is the one participants bring to every run of the day.\nHis earlier book, Conversation, Not Delegation, argues for treating AI as a thinking partner you converse with. The Human Edge: Using AI with Judgement takes that method to the professional’s desk: four tools for briefing, trusting, checking, and delivering with AI, tested in the classroom and in executive education before they were written down. The companion volume, The Human Edge: Leading AI with Judgement, takes the same judgement to the organisation and is in development.\nThe tools in this book grew out of watching capable professionals forward fluent AI output they had not checked, not from carelessness, but because nothing about the output told them to stop. The durable skill is not a better prompt. It is judgement: deciding what to ask, how much to trust, and where a person stays in charge. That skill does not expire when the next model arrives, and it cannot be delegated to the model itself.\nMichael builds educational software and resources, and writes about the 80/20 principle in learning and professional judgement.\n\nConnect\n\nGitHub projects: Software and educational resources\nFree book collection: Current online editions and downloads\n8020workshop.com: Passion projects and workshops\nLinkedIn\n\n\nOther Books in This Series\nThe Human Edge:\n\nThe Human Edge: Leading AI with Judgement (in development): choosing which AI projects to back, and making sure they deliver\n\nAI-Collaboration and Judgement Track:\n\nConversation, Not Delegation: How to Think With AI, Not Just Use It: the general method behind this book\nProve, Don’t Persuade: Why Proof Beats the Demo in Applied AI\nSubstantiate, Don’t Assume: Why the Auditor’s Opinion Matters More Than Ever in the Age of AI\nPartner, Don’t Police: AI in the Business Classroom\n\nPython Track:\n\nThink Python, Direct AI: Computational Thinking for Beginners\nCode Python, Consult AI: Python Fundamentals for the AI Era\nShip Python, Orchestrate AI: Professional Python in the AI Era\nConverse Python, Partner AI: The Intentional Prompting Methodology\n\nWeb Track:\n\nBuild Web, Guide AI: Business Web Development with AI",
+    "crumbs": [
+      "Appendices",
+      "About the Author"
+    ]
+  }
+]
