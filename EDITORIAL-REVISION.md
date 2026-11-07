@@ -1,5 +1,33 @@
 # Editorial revision log
 
+## 2026-11-07: editorial pass and RetailFlow verification
+
+Editorial pass completed across all chapters (1-11) and appendices. AI tells
+removed: punch-closer restatements, not-X-but-Y splits, and repeated sentence
+openings. No content was added or removed.
+
+Trust framing added to every chapter: what the AI drafts, what you specify,
+what you verify, what you own.
+
+RetailFlow figures verified against
+`resources/retailflow-customer-service-data.csv` (260 tickets):
+
+- Returns & Refunds satisfaction: 1.56 (lowest category) ✓
+- Account Issues resolution rate: 96% (highest) ✓
+- Sunday response time: 13.7 hours vs overall 9.2 = 1.49x, not double ✓
+- Overall satisfaction: 2.92 ✓
+
+The figures in Chapter 6 are correct. The claim that Sunday is "double" is
+correctly characterised in the book as overstated (it is 1.49x).
+
+Still open:
+
+1. Fresh-reader pass with one non-participant professional reader.
+2. ISBN application and KDP record in `publishing.yml`.
+3. GitHub Pages publish, chatbot, and cross-links.
+4. Print proof.
+
+
 ## 2026-10-27: seed manuscript
 
 Book scaffolded in the shared publisher structure from the *Prove, Don't Persuade* template (judgement family). Registry key `heu`.
